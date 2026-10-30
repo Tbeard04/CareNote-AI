@@ -43,7 +43,12 @@ target-version = "py312"
 select = ["E", "F", "I", "UP", "B"]
 
 [tool.ruff.lint.isort]
-known-first-party = ["carenote", "metrics"]
+known-first-party = ["carenote", "metrics", "i18n", "views"]
+
+[tool.ruff.lint.per-file-ignores]
+# Markdown prose and tables inside UI string literals cannot wrap.
+"demo/i18n.py" = ["E501"]
+"demo/views/guide.py" = ["E501"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
