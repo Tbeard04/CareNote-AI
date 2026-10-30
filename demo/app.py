@@ -267,4 +267,11 @@ if st.button(T["process"], type="primary"):
     provider, qm_provider, fallback = _providers(provider_name, qm_choice, use_fallback)
     with st.spinner(T["spinner"]):
         result = process_audio(audio_path, provider, fallback=fallback, qm_provider=qm_provider)
-    render(result)
+    # Streamlit re-runs this script on every widget change (language toggle
+    # included), so the result must survive in session state to stay visible.
+    st.session_state["last_result"] = result
+    st.session_state["last_source"] = uploaded.name if uploaded is not None else sample
+
+if "last_result" in st.session_state:
+    st.caption(f"🎧 {st.session_state['last_source']}")
+    render(st.session_state["last_result"])
