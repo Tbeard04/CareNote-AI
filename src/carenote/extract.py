@@ -98,9 +98,13 @@ def extract_note(transcript: str, provider: LLMProvider) -> ExtractionResult:
 
 def main() -> None:
     import argparse
+    import sys
     from pathlib import Path
 
     from carenote.providers import get_provider
+
+    # Windows consoles default to a legacy codepage; the notes are German.
+    sys.stdout.reconfigure(encoding="utf-8")
 
     parser = argparse.ArgumentParser(description="Extract a CareNote from a transcript file.")
     parser.add_argument("transcript", type=Path, help="Pfad zur Transkript-Textdatei")
