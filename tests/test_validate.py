@@ -89,6 +89,31 @@ def test_costs_and_latency_accumulate_across_attempts() -> None:
     assert len(result.attempts) == 2
 
 
+class ExplodingProvider(LLMProvider):
+    """Simulates a transport failure (timeout, connection error)."""
+
+    name = "exploding"
+    model = "exploding-model"
+
+    def _complete(self, system: str, user: str, json_schema: dict | None):
+        raise TimeoutError("timed out")
+
+
+def test_provider_exception_is_a_failed_attempt_not_a_crash() -> None:
+    provider = ExplodingProvider()
+    fallback = ScriptedProvider("strong", [VALID_NOTE_JSON])
+    result = extract_validated("egal", provider, fallback=fallback)
+    assert result.note is not None  # the fallback rescued the note
+    assert [a.stage for a in result.attempts] == ["initial", "repair", "fallback"]
+    assert "TimeoutError" in result.attempts[0].error
+
+
+def test_all_providers_exploding_flags_human_review() -> None:
+    result = extract_validated("egal", ExplodingProvider(), fallback=ExplodingProvider())
+    assert result.note is None
+    assert result.needs_human_review
+
+
 def test_build_fallback_provider_none_when_unconfigured(monkeypatch) -> None:
     monkeypatch.delenv("CARENOTE_FALLBACK_PROVIDER", raising=False)
     assert build_fallback_provider() is None

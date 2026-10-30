@@ -155,11 +155,16 @@ class OllamaProvider(LLMProvider):
                 {"role": "user", "content": user},
             ],
             "stream": False,
+            # Thinking models (qwen3 etc.) reason for minutes on CPU before
+            # emitting JSON; extraction needs the answer, not the monologue.
+            # Non-thinking models ignore the flag.
+            "think": False,
             "options": {"temperature": 0},
         }
         if json_schema is not None:
             payload["format"] = json_schema
-        response = httpx.post(f"{self.base_url}/api/chat", json=payload, timeout=300.0)
+        timeout = float(os.getenv("OLLAMA_TIMEOUT_S", "600"))
+        response = httpx.post(f"{self.base_url}/api/chat", json=payload, timeout=timeout)
         response.raise_for_status()
         data = response.json()
         return (

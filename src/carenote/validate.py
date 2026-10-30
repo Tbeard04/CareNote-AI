@@ -93,7 +93,24 @@ def extract_validated(
     result = ValidatedExtraction(note=None, needs_human_review=False)
 
     def attempt(stage: str, prov: LLMProvider, user_prompt: str) -> CareNote | None:
-        llm = prov.complete(system, user_prompt, json_schema=schema)
+        try:
+            llm = prov.complete(system, user_prompt, json_schema=schema)
+        except Exception as exc:
+            # Transport or provider failure (timeout, connection, 5xx): a
+            # failed attempt the chain continues past, never a crash.
+            error = _short(f"{type(exc).__name__}: {exc}")
+            zero = LLMResult(
+                text="", provider=prov.name, model=prov.model,
+                input_tokens=0, output_tokens=0, latency_s=0.0,
+            )
+            result.attempts.append(
+                Attempt(stage, prov.name, prov.model, ok=False, error=error, llm=zero)
+            )
+            log_event(
+                logger, "validate", f"{stage}_provider_error",
+                provider=prov.name, model=prov.model, error=error,
+            )
+            raise ExtractionParseError(error, "") from exc
         try:
             note = parse_care_note(llm.text)
         except ExtractionParseError as exc:
