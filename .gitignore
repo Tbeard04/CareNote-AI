@@ -16,7 +16,6 @@ build/
 # Eval / pipeline artifacts
 logs/
 *.log
-evals/results/transcripts/
 
 # OS
 Thumbs.db
