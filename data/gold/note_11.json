@@ -1,0 +1,21 @@
+{
+  "resident_ref": "Frau Sommer",
+  "time_mention": "heute früh",
+  "entry_type": "berichteblatt_eintrag",
+  "observations": [
+    {
+      "text": "Augentropfen früh abgelehnt, klagt über Brennen.",
+      "themenfeld": "krankheitsbezogene_anforderungen",
+      "evidence_span": "hat die Augentropfen heute früh wieder abgelehnt, sagt, die brennen so",
+      "measurement": null
+    },
+    {
+      "text": "Zweiter Versuch später erfolgreich.",
+      "themenfeld": "krankheitsbezogene_anforderungen",
+      "evidence_span": "Ich hab es später nochmal versucht, da ging es dann",
+      "measurement": null
+    }
+  ],
+  "risk_flags": [],
+  "follow_up_actions": ["Das Brennen beim nächsten Arztbesuch ansprechen."]
+}

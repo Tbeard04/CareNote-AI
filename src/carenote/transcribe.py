@@ -35,7 +35,11 @@ class Transcription:
 def _get_model(model_size: str):
     from faster_whisper import WhisperModel
 
-    return WhisperModel(model_size, device="cpu", compute_type="int8")
+    # CPU/int8 runs everywhere; CARENOTE_WHISPER_DEVICE=cuda (+ cuDNN 9
+    # installed) moves transcription to the GPU with float16.
+    device = os.getenv("CARENOTE_WHISPER_DEVICE", "cpu")
+    compute = os.getenv("CARENOTE_WHISPER_COMPUTE", "int8" if device == "cpu" else "float16")
+    return WhisperModel(model_size, device=device, compute_type=compute)
 
 
 def transcribe(audio_path: str | Path, model_size: str | None = None) -> Transcription:

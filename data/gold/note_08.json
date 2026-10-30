@@ -1,0 +1,29 @@
+{
+  "resident_ref": "Frau Petrova",
+  "time_mention": "heute Morgen",
+  "entry_type": "berichteblatt_eintrag",
+  "observations": [
+    {
+      "text": "Starke Schmerzen im unteren Rücken beim Aufstehen.",
+      "themenfeld": "krankheitsbezogene_anforderungen",
+      "evidence_span": "der Rücken tut sehr weh, unten, wenn sie aufstehen",
+      "measurement": null
+    },
+    {
+      "text": "Frühstück wegen der Schmerzen abgelehnt.",
+      "themenfeld": "selbstversorgung",
+      "evidence_span": "Sie nicht wollen Frühstück essen deswegen",
+      "measurement": null
+    },
+    {
+      "text": "Wärmekissen gegeben, leichte Besserung.",
+      "themenfeld": "krankheitsbezogene_anforderungen",
+      "evidence_span": "Ich geben Wärmekissen, das helfen ein bisschen",
+      "measurement": null
+    }
+  ],
+  "risk_flags": [
+    {"risk": "schmerz", "evidence_span": "der Rücken tut sehr weh, unten, wenn sie aufstehen", "note": null}
+  ],
+  "follow_up_actions": ["Arzt wegen Schmerzmittel fragen."]
+}

@@ -1,0 +1,23 @@
+{
+  "resident_ref": "Herr Brandt",
+  "time_mention": "heute",
+  "entry_type": "berichteblatt_eintrag",
+  "observations": [
+    {
+      "text": "Hautstelle am Steißbein stärker gerötet als am Vortag.",
+      "themenfeld": "krankheitsbezogene_anforderungen",
+      "evidence_span": "Die Stelle am Steißbein sieht heute röter aus als gestern",
+      "measurement": null
+    },
+    {
+      "text": "Umgelagert und Fersen freigelegt (Dekubitusprophylaxe).",
+      "themenfeld": "krankheitsbezogene_anforderungen",
+      "evidence_span": "Ich hab ihn umgelagert und die Fersen freigelegt",
+      "measurement": null
+    }
+  ],
+  "risk_flags": [
+    {"risk": "dekubitus", "evidence_span": "Die Stelle am Steißbein sieht heute röter aus als gestern", "note": null}
+  ],
+  "follow_up_actions": ["Beim Spätdienst nochmal die Haut anschauen und dokumentieren."]
+}

@@ -1,0 +1,21 @@
+{
+  "resident_ref": "Herr Demir",
+  "time_mention": "heute Mittag",
+  "entry_type": "berichteblatt_eintrag",
+  "observations": [
+    {
+      "text": "Mittagessen sehr gut gegessen, Teller fast leer.",
+      "themenfeld": "selbstversorgung",
+      "evidence_span": "hat heute Mittag richtig gut gegessen, den Teller fast leer",
+      "measurement": null
+    },
+    {
+      "text": "Abendessen komplett verweigert, dabei aufgebracht.",
+      "themenfeld": "selbstversorgung",
+      "evidence_span": "Beim Abendessen hat er das Essen komplett verweigert und war dabei ziemlich aufgebracht",
+      "measurement": null
+    }
+  ],
+  "risk_flags": [],
+  "follow_up_actions": ["Morgen das Lieblingsessen probieren."]
+}

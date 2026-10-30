@@ -1,0 +1,35 @@
+{
+  "resident_ref": "Herr Yilmaz",
+  "time_mention": "heute Morgen",
+  "entry_type": "berichteblatt_eintrag",
+  "observations": [
+    {
+      "text": "Klagt erneut über Schmerzen im rechten Knie beim Laufen.",
+      "themenfeld": "krankheitsbezogene_anforderungen",
+      "evidence_span": "hat heute Morgen wieder über Schmerzen im rechten Knie geklagt, so beim Laufen",
+      "measurement": null
+    },
+    {
+      "text": "Die übliche Dosis wie besprochen verabreicht (Angabe unspezifisch).",
+      "themenfeld": "krankheitsbezogene_anforderungen",
+      "evidence_span": "die übliche Dosis gegeben, wie besprochen",
+      "measurement": null
+    },
+    {
+      "text": "Gymnastik abgelehnt, blieb auf dem Zimmer.",
+      "themenfeld": "mobilitaet_und_bewegung",
+      "evidence_span": "Er wollte danach nicht zur Gymnastik runter, hat die ganze Zeit auf dem Zimmer gesessen",
+      "measurement": null
+    },
+    {
+      "text": "Trinkmenge gut.",
+      "themenfeld": "selbstversorgung",
+      "evidence_span": "Trinken klappt gut, die Flasche war fast leer",
+      "measurement": null
+    }
+  ],
+  "risk_flags": [
+    {"risk": "schmerz", "evidence_span": "wieder über Schmerzen im rechten Knie geklagt", "note": null}
+  ],
+  "follow_up_actions": []
+}
