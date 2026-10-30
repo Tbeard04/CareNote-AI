@@ -91,4 +91,4 @@ demo/           Streamlit app: bilingual guide, pipeline page, results dashboard
 tests/          58 unit tests, no live LLM needed
 ```
 
-Built with Claude Code as the daily driver; every architectural decision, metric definition and gold label was human-reviewed. All resident names are invented; all audio is synthetic.
+All resident names are invented; all audio is synthetic.
