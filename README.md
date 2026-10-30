@@ -1,24 +1,94 @@
 # CareNote AI
 
-German caregiver voice notes → validated, structured care documentation
-(Strukturmodell: Berichteblatt entries + Risikomatrix flags mapped to the six
-SIS Themenfelder), with an eval harness comparing three LLM providers on
-accuracy, hallucination rate, latency and cost per note.
+**German caregiver voice notes → validated, structured care documentation** (Strukturmodell: Berichteblatt entries + Risikomatrix flags mapped to the six SIS Themenfelder), with an eval harness comparing four models on accuracy, hallucination rate, latency and cost per note.
 
-> **Status: under construction.** See [SPEC.md](SPEC.md) for the full build
-> specification. Results table and architecture will land here as the build
-> progresses.
+## Results
+
+16 synthetic voice notes × 4 models × 2 conditions (clean script vs ASR transcript), scored field-by-field against hand-checked gold labels. Full tables and charts in [evals/results/results.md](evals/results/results.md); explore interactively on the demo's Results page.
+
+| Model | Obs F1 (ASR) | Obs F1 (clean) | Themenfeld acc | Risk recall | Unsupported claims | p50 latency | $/1k notes |
+|---|---|---|---|---|---|---|---|
+| **claude-haiku-5-5** | **0.88** | **0.88** | 0.92 | **1.00** | **0.0%** | 5.5s | $1.04 |
+| qwen3:8b (local) | 0.76 | 0.79 | 0.62 | 0.88 | 2.6% | 5.4s | **$0.00** |
+| llama3.1:8b (local) | 0.76 | 0.75 | 0.57 | 0.94 | 3.8% | 5.7s | **$0.00** |
+| gpt-4o-mini | 0.74 | 0.75 | 0.93 | 0.88 | 21.2% | **3.0s** | $0.37 |
+
+What the numbers say:
+
+- **Claude Haiku wins on quality** — and never produced a claim without a verbatim transcript quote — at roughly **€1 per 1,000 notes**.
+- **The self-hosted track is viable**: qwen3:8b (stronger German than Llama 3.1, a measured difference, not a hunch) reaches ~90% of Haiku's F1 at zero marginal cost on a consumer GPU.
+- **gpt-4o-mini's failure mode is instructive**: precise but misses a third of observations, and *paraphrases* its "quotes" — its JSON mode doesn't enforce our schema, and the unsupported-claim rate exposes exactly that.
+- **ASR costs little on clean synthetic speech** (mean WER 7.2%) but 25.5% on the dialect note — which is precisely where real-world voice documentation gets hard.
+- **0 retries, 0 human-review flags in 128 runs** — the repair/fallback chain existed and never had to fire; its cost when it does fire is measured per-attempt in the logs.
+
+## Architecture
+
+```text
+audio (.mp3)
+  → transcribe      faster-whisper, local, word timestamps kept
+  → redact          names/rooms → placeholders BEFORE any external API call
+  → extract (LLM)   one shared German prompt, native JSON mode, schema enforced
+  → validate        parse fail → repair prompt w/ exact error → retry → stronger
+                    model fallback → needs_human_review; every attempt logged
+  → unredact        placeholders → real names
+  → QM check        rules (vitals plausibility, required fields) + one cheap
+                    LLM call for contradictions; warnings block sign-off
+  → CareNote        Berichteblatt entry: observations per SIS Themenfeld, each
+                    with a verbatim evidence span; Risikomatrix flags; explicit
+                    null for anything not stated
+```
+
+Evidence spans are the anti-hallucination mechanism: a claim whose quote does not occur in the transcript counts as unsupported — honestly named an *unsupported-claim rate*, a lower bound on hallucination (a model can quote correctly and still misattribute; that surfaces as field-level error against gold instead).
 
 ## Quickstart
 
 ```bash
 uv sync
-cp .env.example .env   # optional — runs with zero paid keys via Ollama default
-uv run pytest
+uv run pytest                      # 58 tests, no keys or models needed
+uv run python -m carenote.pipeline data/audio/note_01.mp3   # needs Ollama
 ```
 
-## Pipeline
+Runs with **zero paid keys**: the default provider is a local Llama via [Ollama](https://ollama.com) (`ollama pull llama3.1:8b`). Copy `.env.example` to `.env` to add Anthropic/OpenAI keys, pick models, or configure the fallback chain.
+
+```bash
+uv run --group demo streamlit run demo/app.py   # bilingual demo UI (DE/EN)
+uv run python evals/run_eval.py                 # full eval, all providers
+```
+
+## Design decisions
+
+- **Hand-rolled ~100-line provider interface** (Anthropic / OpenAI / Ollama) instead of LangChain or LiteLLM — the pipeline needs exactly one operation, and the interface *is* the provider-agnosticism demonstration. Swapping the ASR layer later is the same adapter pattern.
+- **No eval framework** — the metrics are the point: greedy evidence-span alignment so a wrong Themenfeld counts as a mapping error rather than a missed observation, risk flags as set comparison, WER for the speech layer. Plain Python, readable in one sitting ([evals/metrics.py](evals/metrics.py)).
+- **No agent framework** — a linear pipeline doesn't need one.
+- **Fallback triggered by validation failure only**, never guessed confidence; every retry/fallback event is a JSON-lines log entry, so reliability has an auditable, measured price.
+- **Draft + mandatory confirmation, never auto-signed** — a wrong entry has legal weight (Medizinischer Dienst audits). QM warnings block sign-off; a *failed* QM check is itself a blocking flag, so a note is never silently approved.
+- **Pseudonymisation before any external call** (spaCy NER + title regex; single-token NER names are filtered because the small German model labels "Blutdruck" a person). Honest scope: pseudonymised data is still personal data under GDPR Art. 9 — real deployment needs DPAs, zero-retention EU endpoints, or self-hosting, which is the strongest commercial argument for the self-hosted track.
+- **Eval fairness**: repair-retry (same model) on, cross-provider fallback off, so every column's quality and cost belong to one model.
+
+## Limitations
+
+- **Synthetic data.** TTS voices are cleaner than real caregivers in a hallway; the 7.2% WER flatters ASR. The set is a development harness that makes iteration measurable — in production the metric becomes **caregiver edit-rate**, which turns every user into a labeller.
+- **Small gold set** (16 notes, single labeller). Within-model differences of a few F1 points are noise; the clean-vs-ASR F1 inversion for Haiku (0.88 both ways) is sampling variance, not magic.
+- **German written with translation tooling** and reviewed by a non-native speaker. The evals score structure and factual mapping, not prose quality.
+- **An 8B model as QM judge over-flags** (it called lunch-vs-dinner a contradiction despite instructions). It fails safe — blocking, not approving — but the demo defaults QM to Haiku for a reason.
+- **Not the real Strukturmodell exchange format** — the schema borrows its vocabulary and structure, shaped so an export adapter to incumbent care software (Medifox, Vivendi) would be a mapping, not a redesign.
+
+## In production I would…
+
+- **Stream transcription** (whisper streaming or a specialised German ASR — the ASR layer is one adapter) to cut perceived latency to near-zero.
+- **Fine-tune a small self-hosted model** (qwen3/Llama 3.2 class) on labels distilled from the strongest API model, targeting Haiku-parity extraction at ~1/10 the cost — the measured gap here says that's plausible.
+- **Serve locally on vLLM** (L4/A10-class GPU, batching) — this demo measures quality parity and cost, not throughput.
+- **Build the review queue around edit-rate telemetry**: which fields get corrected, by whom, on which note types — the live quality metric that gold sets can't be.
+- **Harden redaction** against name collisions and spelling variants (the known weak point), and move all API traffic to EU-resident zero-retention endpoints or fully self-hosted serving.
+
+## Repo map
 
 ```text
-audio (.mp3) → transcribe → redact PII → extract (LLM) → validate (retry/fallback) → QM check → structured CareNote (JSON)
+src/carenote/   schema, providers, extract, validate, redact, transcribe, qm, pipeline
+evals/          metrics, run_eval, mini_eval (CI), results/ (tables, charts, predictions)
+data/           generate_notes (16 scripted edge cases), audio/, scripted/, gold/
+demo/           Streamlit app: bilingual guide, pipeline page, results dashboard
+tests/          58 unit tests, no live LLM needed
 ```
+
+Built with Claude Code as the daily driver; every architectural decision, metric definition and gold label was human-reviewed. All resident names are invented; all audio is synthetic.

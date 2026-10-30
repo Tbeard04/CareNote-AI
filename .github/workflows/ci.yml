@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Lint
+        run: uv run ruff check .
+
+      - name: Tests
+        run: uv run pytest -q
+
+      - name: Mini-eval (stored predictions vs gold)
+        run: uv run python evals/mini_eval.py --notes 3
+
+      # Live mini-eval against a real model: runs only when the repository
+      # has an ANTHROPIC_API_KEY secret configured. Costs well under a cent.
+      - name: Live mini-eval (anthropic, 3 notes, clean)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -n "$ANTHROPIC_API_KEY" ]; then
+            uv run python evals/run_eval.py --providers anthropic --conditions clean --notes 3
+          else
+            echo "No ANTHROPIC_API_KEY secret - skipping live mini-eval."
+          fi
