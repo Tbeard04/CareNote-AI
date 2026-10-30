@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+
+# Eval / pipeline artifacts
+logs/
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
