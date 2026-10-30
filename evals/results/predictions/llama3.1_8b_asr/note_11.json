@@ -4,15 +4,9 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Augen getropft",
-   "themenfeld": "kognition_und_kommunikation",
-   "evidence_span": "Sie hat die Augen getropft heute früh wieder abgelehnt und sagt, die Brenne so.",
-   "measurement": null
-  },
-  {
-   "text": "Brennen",
+   "text": "Brennen in den Augen",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Bitte das Brennen beim nächsten Arztbesuch ansprechen, nicht, dass da was nicht stimmt.",
+   "evidence_span": "Sie sagt, die Brenne so.",
    "measurement": null
   }
  ],

@@ -10,9 +10,15 @@
    "measurement": null
   }
  ],
- "risk_flags": [],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "beim Transfer vom Bett in den Rollstuhl hat sie gezittert und wollte sich nicht richtig festhalten",
+   "note": null
+  }
+ ],
  "follow_up_actions": [
-  "Zweiter Pfleger bei Transfer einsetzen",
-  "Heizung im Zimmer klemmt an die Haustechnik weiterleiten"
+  "Zweiter Transfer durchgeführt",
+  "Heizung im Zimmer klemmt gemeldet"
  ]
 }

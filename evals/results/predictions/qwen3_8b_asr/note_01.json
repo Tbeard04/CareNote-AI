@@ -4,7 +4,7 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "geringere Essensmenge",
+   "text": "Mangelnde Nahrungsaufnahme",
    "themenfeld": "selbstversorgung",
    "evidence_span": "Sie hat heute Mittag kaum etwas gegessen, vielleicht zwei, drei Löffelsuppe.",
    "measurement": {
@@ -13,7 +13,7 @@
    }
   },
   {
-   "text": "Sturzgefahr beim Aufstehen",
+   "text": "Gefährdung durch Sturz",
    "themenfeld": "mobilitaet_und_bewegung",
    "evidence_span": "Beim Aufstehen vom Stuhl ist sie fast gestürzt, ich musste sie stützen.",
    "measurement": null

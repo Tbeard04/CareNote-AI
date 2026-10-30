@@ -4,15 +4,9 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Augentropfen am Morgen von der Bewohnerin abgelehnt; sie gibt als Grund an, dass die Tropfen brennen.",
+   "text": "Augentropfen heute früh abgelehnt; Bewohnerin gibt Brennen als Grund an. Später erneut versucht, Gabe danach möglich.",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Sie hat die Augentropfen heute früh wieder abgelehnt, sagt, die brennen so.",
-   "measurement": null
-  },
-  {
-   "text": "Gabe der Augentropfen bei einem späteren zweiten Versuch akzeptiert.",
-   "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Ich hab es später nochmal versucht, da ging es dann.",
    "measurement": null
   }
  ],

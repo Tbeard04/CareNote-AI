@@ -4,12 +4,6 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Hat heute Mittag richtig gut gegessen, den Teller fast leer.",
-   "themenfeld": "selbstversorgung",
-   "evidence_span": "Herr Demir hat heute Mittag richtig gut gegessen, den Teller fast leer.",
-   "measurement": null
-  },
-  {
    "text": "Beim Abendessen hat er das Essen komplett verweigert und war dabei ziemlich aufgebracht.",
    "themenfeld": "selbstversorgung",
    "evidence_span": "Beim Abendessen hat er das Essen komplett verweigert und war dabei ziemlich aufgebracht.",

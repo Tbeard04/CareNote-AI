@@ -4,13 +4,13 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Bewohnerin lehnt Augentropfen ab",
+   "text": "Abwehrhaltung gegenüber Augentropfen",
    "themenfeld": "selbstversorgung",
    "evidence_span": "Sie hat die Augentropfen heute früh wieder abgelehnt",
    "measurement": null
   },
   {
-   "text": "Bewohnerin beschwert sich über Brennen in den Augen",
+   "text": "Brennen bei Augentropfen",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "sagt, die brennen so",
    "measurement": null

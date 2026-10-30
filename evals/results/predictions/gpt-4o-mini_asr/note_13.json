@@ -4,9 +4,9 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Die Dame war heute sehr unruhig, ist immer wieder zur Tür gelaufen und wollte nach Hause.",
+   "text": "Die Dame war heute sehr unruhig.",
    "themenfeld": "kognition_und_kommunikation",
-   "evidence_span": "Die Dame von Zimmer Acht war heute sehr unruhig, ist immer wieder zur Tür gelaufen und wollte nach Hause.",
+   "evidence_span": "Die Dame von Zimmer Acht war heute sehr unruhig.",
    "measurement": null
   }
  ],

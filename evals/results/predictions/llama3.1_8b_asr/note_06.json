@@ -1,25 +1,25 @@
 {
  "resident_ref": "Frau Lindner",
- "time_mention": "heute",
+ "time_mention": null,
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
    "text": "zu wenig getrunken",
    "themenfeld": "selbstversorgung",
-   "evidence_span": "sie hat heute wieder viel zu wenig getrunken",
+   "evidence_span": "sie hat heute wieder viel zu wenig getrunken, vielleicht ein halbes Glas über den ganzen Vormittag.",
    "measurement": null
   },
   {
    "text": "trockene Lippen",
    "themenfeld": "selbstversorgung",
-   "evidence_span": "Die Lippen waren ganz trocken",
+   "evidence_span": "Die Lippen waren ganz trocken.",
    "measurement": null
   }
  ],
  "risk_flags": [
   {
    "risk": "dehydration",
-   "evidence_span": "sie hat heute wieder viel zu wenig getrunken",
+   "evidence_span": "sie hat heute wieder viel zu wenig getrunken, vielleicht ein halbes Glas über den ganzen Vormittag.",
    "note": null
   }
  ],

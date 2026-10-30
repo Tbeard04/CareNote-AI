@@ -11,16 +11,10 @@
     "value": 1.0,
     "unit": "Teller"
    }
-  },
-  {
-   "text": "Essen verweigert",
-   "themenfeld": "selbstversorgung",
-   "evidence_span": "Beim Abendessen hat er das Essen komplett verweigert und war dabei ziemlich aufgebracht.",
-   "measurement": null
   }
  ],
  "risk_flags": [],
  "follow_up_actions": [
-  "Vielleicht morgen das Lieblingsessen probieren."
+  "Vielleicht morgen das Lieblingsessen probieren"
  ]
 }

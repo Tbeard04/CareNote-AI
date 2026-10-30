@@ -1,10 +1,10 @@
 {
- "resident_ref": null,
- "time_mention": null,
+ "resident_ref": "Herr Nowak",
+ "time_mention": "heute gegen 14:30",
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Herr Nowak ist heute gegen vierzehn Uhr dreißig im Bad gestürzt",
+   "text": "Sturz im Bad",
    "themenfeld": "mobilitaet_und_bewegung",
    "evidence_span": "Herr Nowak ist heute gegen vierzehn Uhr dreißig im Bad gestürzt",
    "measurement": null
@@ -16,11 +16,11 @@
    "measurement": null
   },
   {
-   "text": "Blutdruck hundertsechzig zu fünfundneunzig",
+   "text": "Blutdruck 160/95",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Blutdruck danach hundertsechzig zu fünfundneunzig",
    "measurement": {
-    "value": 165.0,
+    "value": 160.0,
     "unit": "mmHg"
    }
   }
@@ -33,6 +33,6 @@
   }
  ],
  "follow_up_actions": [
-  "Bitte heute Nacht engmaschig nach ihm schauen"
+  "heute Nacht engmaschig nach ihm schauen"
  ]
 }

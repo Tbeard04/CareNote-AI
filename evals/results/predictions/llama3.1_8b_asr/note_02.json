@@ -10,15 +10,15 @@
    "measurement": null
   },
   {
-   "text": "kein Laufen",
+   "text": "keine Teilnahme an der Gymnastik",
    "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "so beim Laufen, ne",
+   "evidence_span": "Er wollte danach nicht zur Gymnastik runter",
    "measurement": null
   },
   {
    "text": "auf dem Zimmer gesessen",
    "themenfeld": "wohnen_und_haeuslichkeit",
-   "evidence_span": "Er wollte danach nicht zur Gymnastik runter, hat die ganze Zeit auf dem Zimmer gesessen",
+   "evidence_span": "Er hat die ganze Zeit auf dem Zimmer gesessen",
    "measurement": null
   },
   {
@@ -28,13 +28,7 @@
    "measurement": null
   }
  ],
- "risk_flags": [
-  {
-   "risk": "schmerz",
-   "evidence_span": "Herr Jilmas hat heute Morgen wieder Überschmerzen im rechten Knie geklagt",
-   "note": null
-  }
- ],
+ "risk_flags": [],
  "follow_up_actions": [
   "die übliche Dosis gegeben"
  ]

@@ -4,29 +4,29 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Geringe Nahrungsaufnahme; nur wenig Brei gegessen.",
+   "text": "Nahrungsaufnahme stark reduziert, nur wenig Brei gegessen.",
    "themenfeld": "selbstversorgung",
-   "evidence_span": "der hat heute wieder arg wenig gegessen, gel, bloß abisle was vom Brei",
+   "evidence_span": "hat heute wieder arg wenig gegessen",
    "measurement": null
   },
   {
-   "text": "Beim Gehen deutlich wackelig auf den Beinen; Führung am Arm durch Pflegekräfte erforderlich.",
+   "text": "Unsicherer, wackeliger Gang; wird beim Laufen am Arm geführt.",
    "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen, ihr habt ihn am Arm geführt",
+   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen",
    "measurement": null
   },
   {
-   "text": "Verweigert die Nutzung des Rollators.",
+   "text": "Lehnt die Nutzung des Rolators ab.",
    "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "Rolator will er Patu nicht nehmen, der Storehund",
+   "evidence_span": "Rolator will er Patu nicht nehmen",
    "measurement": null
   }
  ],
  "risk_flags": [
   {
    "risk": "sturz",
-   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen",
-   "note": "Wackeliger Gang, Rollator wird nicht genutzt."
+   "evidence_span": "arg wackelig auf den Beinen",
+   "note": "Wackeliger Gang, Führung am Arm erforderlich; Rolator wird abgelehnt."
   }
  ],
  "follow_up_actions": [

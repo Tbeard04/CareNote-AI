@@ -24,13 +24,7 @@
   {
    "text": "Verändertes Verhalten",
    "themenfeld": "kognition_und_kommunikation",
-   "evidence_span": "Er wirkt schlapp",
-   "measurement": null
-  },
-  {
-   "text": "Verändertes Verhalten",
-   "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "Er hat sich gleich wieder hingelegt",
+   "evidence_span": "Er wirkt schlapp und hat sich gleich wieder hingelegt",
    "measurement": null
   }
  ],

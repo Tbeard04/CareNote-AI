@@ -16,13 +16,7 @@
    "measurement": null
   }
  ],
- "risk_flags": [
-  {
-   "risk": "dehydration",
-   "evidence_span": "der hat heut wieder arg wenig gegessen",
-   "note": null
-  }
- ],
+ "risk_flags": [],
  "follow_up_actions": [
   "Schaut's da bitte nochmal drauf"
  ]

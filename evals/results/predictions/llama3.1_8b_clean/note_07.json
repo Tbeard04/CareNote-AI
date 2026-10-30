@@ -13,7 +13,7 @@
    }
   },
   {
-   "text": "92",
+   "text": "Puls 92",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Puls war zweiundneunzig",
    "measurement": {
@@ -22,8 +22,8 @@
    }
   },
   {
-   "text": "schlapp",
-   "themenfeld": "kognition_und_kommunikation",
+   "text": "Herr Schäfer wirkt schlapp",
+   "themenfeld": "leben_in_sozialen_beziehungen",
    "evidence_span": "Er wirkt schlapp",
    "measurement": null
   }

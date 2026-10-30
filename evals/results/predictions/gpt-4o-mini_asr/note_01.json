@@ -4,27 +4,21 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Hat kaum etwas gegessen, vielleicht zwei, drei Löffelsuppe.",
+   "text": "Sie hat heute Mittag kaum etwas gegessen, vielleicht zwei, drei Löffelsuppe.",
    "themenfeld": "selbstversorgung",
    "evidence_span": "Sie hat heute Mittag kaum etwas gegessen, vielleicht zwei, drei Löffelsuppe.",
-   "measurement": null
-  },
-  {
-   "text": "Ist fast gestürzt, ich musste sie stützen.",
-   "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "Beim Aufstehen vom Stuhl ist sie fast gestürzt, ich musste sie stützen.",
    "measurement": null
   }
  ],
  "risk_flags": [
   {
    "risk": "sturz",
-   "evidence_span": "Ist fast gestürzt, ich musste sie stützen.",
+   "evidence_span": "Beim Aufstehen vom Stuhl ist sie fast gestürzt, ich musste sie stützen.",
    "note": null
   },
   {
    "risk": "dehydration",
-   "evidence_span": "Hat kaum etwas gegessen, vielleicht zwei, drei Löffelsuppe.",
+   "evidence_span": "Sie hat heute Mittag kaum etwas gegessen, vielleicht zwei, drei Löffelsuppe.",
    "note": null
   }
  ],

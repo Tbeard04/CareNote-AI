@@ -1,12 +1,12 @@
 {
  "resident_ref": "Herr Schäfer",
- "time_mention": "heute Nachmittag, um 16 Uhr",
+ "time_mention": "gemessen um 16 Uhr",
  "entry_type": "vitalwert_messung",
  "observations": [
   {
-   "text": "Temperatur 38,2 °C",
+   "text": "Körpertemperatur 38,2 (Fieber)",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Herr Schäfer hatte heute Nachmittag 38,2 Temperatur",
+   "evidence_span": "38,2 Temperatur",
    "measurement": {
     "value": 38.2,
     "unit": "°C"
@@ -19,14 +19,14 @@
    "measurement": null
   },
   {
-   "text": "wirkt schlapp und hat sich wieder hingelegt",
-   "themenfeld": "krankheitsbezogene_anforderungen",
+   "text": "Wirkt schlapp, hat sich direkt wieder hingelegt",
+   "themenfeld": "mobilitaet_und_bewegung",
    "evidence_span": "Er wirkt schlapp und hat sich gleich wieder hingelegt",
    "measurement": null
   }
  ],
  "risk_flags": [],
  "follow_up_actions": [
-  "Hausarzt ist informiert"
+  "Hausarzt informiert"
  ]
 }

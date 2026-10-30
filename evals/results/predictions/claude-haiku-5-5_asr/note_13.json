@@ -1,23 +1,29 @@
 {
- "resident_ref": "Die Dame von Zimmer Acht",
- "time_mention": "heute",
+ "resident_ref": null,
+ "time_mention": null,
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Heute sehr unruhig, wiederholtes Gehen zur Tür, äußert den Wunsch, nach Hause zu gehen.",
+   "text": "Starke Unruhe, wiederholtes Laufen zur Tür",
    "themenfeld": "kognition_und_kommunikation",
-   "evidence_span": "heute sehr unruhig, ist immer wieder zur Tür gelaufen und wollte nach Hause",
+   "evidence_span": "sehr unruhig, ist immer wieder zur Tür gelaufen",
    "measurement": null
   },
   {
-   "text": "Durch Fotos von früher etwas beruhigt werden können.",
+   "text": "Äußert den Wunsch, nach Hause zu gehen",
    "themenfeld": "kognition_und_kommunikation",
-   "evidence_span": "Wir haben sie mit Fotos von früher etwas beruhigen können",
+   "evidence_span": "wollte nach Hause",
+   "measurement": null
+  },
+  {
+   "text": "Teilweise Beruhigung durch Fotos von früher",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "mit Fotos von früher etwas beruhigen können",
    "measurement": null
   }
  ],
  "risk_flags": [],
  "follow_up_actions": [
-  "Nachts öfter nach ihr schauen"
+  "Nachts bitte öfter reinschauen"
  ]
 }

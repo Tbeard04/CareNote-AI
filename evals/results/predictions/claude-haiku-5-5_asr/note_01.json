@@ -4,13 +4,13 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Hat heute Mittag kaum gegessen (vermutlich zwei bis drei Löffel Suppe).",
+   "text": "Mittags kaum Nahrungsaufnahme, vermutlich nur zwei bis drei Löffel Suppe.",
    "themenfeld": "selbstversorgung",
    "evidence_span": "kaum etwas gegessen, vielleicht zwei, drei Löffelsuppe",
    "measurement": null
   },
   {
-   "text": "Beim Aufstehen vom Stuhl fast gestürzt; Pflegekraft musste stützen.",
+   "text": "Beim Aufstehen vom Stuhl beinahe gestürzt, Unterstützung durch Pflegekraft erforderlich.",
    "themenfeld": "mobilitaet_und_bewegung",
    "evidence_span": "Beim Aufstehen vom Stuhl ist sie fast gestürzt, ich musste sie stützen",
    "measurement": null
@@ -19,20 +19,17 @@
    "text": "Blutdruck 145/90 mmHg.",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Blutdruck war 145 zu 90",
-   "measurement": {
-    "value": 145.0,
-    "unit": "mmHg"
-   }
+   "measurement": null
   }
  ],
  "risk_flags": [
   {
    "risk": "sturz",
-   "evidence_span": "fast gestürzt, ich musste sie stützen",
+   "evidence_span": "fast gestürzt",
    "note": "Beinahe-Sturz beim Aufstehen vom Stuhl."
   }
  ],
  "follow_up_actions": [
-  "Morgen nochmal nach dem Essen schauen."
+  "Morgen nochmal nach dem Essen schauen"
  ]
 }

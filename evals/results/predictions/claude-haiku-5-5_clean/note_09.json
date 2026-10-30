@@ -4,26 +4,24 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Beim Transfer Bett-Rollstuhl Zittern und fehlendes sicheres Festhalten; Transfer zu zweit durchgeführt.",
+   "text": "Beim Transfer vom Bett in den Rollstuhl Zittern und fehlendes Festhalten; Transfer zu zweit durchgeführt.",
    "themenfeld": "mobilitaet_und_bewegung",
    "evidence_span": "beim Transfer vom Bett in den Rollstuhl hat sie gezittert und wollte sich nicht richtig festhalten",
    "measurement": null
   },
   {
-   "text": "Besuch der Tochter am Samstag angekündigt; Bewohnerin freut sich darauf.",
-   "themenfeld": "leben_in_sozialen_beziehungen",
-   "evidence_span": "Ihre Tochter kommt übrigens Samstag, hat sie dreimal erzählt, sie freut sich riesig",
+   "text": "Heizung im Zimmer klemmt an Haustechnik gemeldet.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "die Heizung im Zimmer klemmt, hab ich der Haustechnik gemeldet",
    "measurement": null
   }
  ],
  "risk_flags": [
   {
    "risk": "sturz",
-   "evidence_span": "beim Transfer vom Bett in den Rollstuhl hat sie gezittert und wollte sich nicht richtig festhalten",
-   "note": "Zittern und fehlendes Festhalten beim Transfer."
+   "evidence_span": "wollte sich nicht richtig festhalten",
+   "note": "Transfer nur zu zweit durchgeführt, Zittern beim Transfer."
   }
  ],
- "follow_up_actions": [
-  "Heizung im Zimmer klemmt der Haustechnik gemeldet"
- ]
+ "follow_up_actions": []
 }

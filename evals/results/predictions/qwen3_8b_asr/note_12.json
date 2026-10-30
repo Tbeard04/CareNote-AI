@@ -18,7 +18,7 @@
   {
    "text": "Blutdruck 160 zu 95",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Blutdruck danach 160 zu 95.",
+   "evidence_span": "Wichtig, Herr Nowak ist heute gegen 14.30 Uhr im Bad gestürzt, beim Umdrehen am Waschbecken.",
    "measurement": {
     "value": 160.0,
     "unit": "mmHg"
@@ -29,10 +29,10 @@
   {
    "risk": "sturz",
    "evidence_span": "Wichtig, Herr Nowak ist heute gegen 14.30 Uhr im Bad gestürzt, beim Umdrehen am Waschbecken.",
-   "note": "Sturzprotokoll ist ausgefüllt."
+   "note": null
   }
  ],
  "follow_up_actions": [
-  "Bitte heute Nacht engmaschig nach ihm schauen."
+  "Bitte heute Nacht engmaschig nach ihm schauen"
  ]
 }

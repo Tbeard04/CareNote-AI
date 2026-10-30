@@ -4,13 +4,13 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Nach einem Streit beim Mittagessen weinend; möchte nicht mehr im Speisesaal sitzen.",
+   "text": "Nach einem Streit beim Mittagessen mit einer Mitbewohnerin weinte Frau Ebert und wollte nicht mehr im Speisesaal sitzen.",
    "themenfeld": "leben_in_sozialen_beziehungen",
    "evidence_span": "Frau Ebert hat danach geweint und wollte nicht mehr im Speisesaal sitzen",
    "measurement": null
   },
   {
-   "text": "Auf Zimmer gegessen nur die Hälfte (Verb im Transkript nicht eindeutig benannt).",
+   "text": "Frau Ebert hat nur die Hälfte der Mahlzeit gegessen, auf dem Zimmer gegessen.",
    "themenfeld": "selbstversorgung",
    "evidence_span": "aber nur die Hälfte",
    "measurement": null
@@ -18,6 +18,6 @@
  ],
  "risk_flags": [],
  "follow_up_actions": [
-  "Vielleicht die Sitzordnung ändern"
+  "Vielleicht die Sitzordnung ändern."
  ]
 }

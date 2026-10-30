@@ -4,7 +4,7 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "geringer Essverzehr",
+   "text": "Mangelnde Nahrungsaufnahme",
    "themenfeld": "selbstversorgung",
    "evidence_span": "der hat heut wieder arg wenig gegessen, gell, bloß a bissle was vom Brei",
    "measurement": {
@@ -13,7 +13,7 @@
    }
   },
   {
-   "text": "Unsicherheit im Gang",
+   "text": "Unsicher im Gang",
    "themenfeld": "mobilitaet_und_bewegung",
    "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen, i hab ihn am Arm gführt",
    "measurement": null
@@ -23,7 +23,7 @@
   {
    "risk": "sturz",
    "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen, i hab ihn am Arm gführt",
-   "note": "Unsicherheit im Gang"
+   "note": "Unsicher im Gang, benötigt Begleitung"
   }
  ],
  "follow_up_actions": [

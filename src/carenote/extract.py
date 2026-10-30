@@ -26,8 +26,8 @@ Regeln — halte dich strikt daran:
 1. Antworte AUSSCHLIESSLICH mit einem einzigen JSON-Objekt nach dem unten \
 angegebenen Schema. Kein Markdown, kein Text davor oder danach.
 2. Jede Beobachtung und jedes Risiko braucht einen evidence_span: ein \
-WÖRTLICHES Zitat aus dem Transkript. Erfinde nichts, paraphrasiere nicht im \
-evidence_span.
+WÖRTLICHES Zitat aus dem Transkript, zeichengenau kopiert. Erfinde nichts, \
+paraphrasiere nicht, fasse im evidence_span keine Textstellen zusammen.
 3. Was im Transkript NICHT gesagt wird, ist null (bzw. eine leere Liste). \
 Rate niemals Werte, Namen oder Zeiten.
 4. Ordne jede Beobachtung genau einem der sechs SIS-Themenfelder zu.
@@ -36,6 +36,9 @@ Rate niemals Werte, Namen oder Zeiten.
 hauptsächlich geht, und notiere die zweite Person NICHT als eigene Beobachtung.
 7. Unklare Angaben (z. B. 'die übliche Dosis') übernimmst du wörtlich als \
 Beobachtung, ohne sie zu interpretieren oder zu beziffern.
+8. Ein unauffälliger Verlauf ('alles unauffällig', 'keine Besonderheiten') \
+ist KEINE Beobachtung: observations, risk_flags und follow_up_actions \
+bleiben dann leer. Das Berichteblatt dokumentiert nur Abweichungen.
 
 JSON-Schema:
 {schema}

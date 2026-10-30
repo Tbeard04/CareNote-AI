@@ -7,10 +7,13 @@
    "text": "Mangelnde Nahrungsaufnahme",
    "themenfeld": "selbstversorgung",
    "evidence_span": "der hat heute wieder arg wenig gegessen, gel, bloß abisle was vom Brei",
-   "measurement": null
+   "measurement": {
+    "value": 0.0,
+    "unit": "kg"
+   }
   },
   {
-   "text": "Unsicher im Gehen",
+   "text": "Unsichere Ganghaltung",
    "themenfeld": "mobilitaet_und_bewegung",
    "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen, ihr habt ihn am Arm geführt",
    "measurement": null
@@ -20,7 +23,7 @@
   {
    "risk": "sturz",
    "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen, ihr habt ihn am Arm geführt",
-   "note": "Unsicher im Gehen"
+   "note": "Unsichere Ganghaltung"
   }
  ],
  "follow_up_actions": [

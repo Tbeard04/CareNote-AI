@@ -4,7 +4,7 @@
  "entry_type": "risiko_beobachtung",
  "observations": [
   {
-   "text": "Starke Rückenschmerzen im unteren Rückenbereich beim Aufstehen.",
+   "text": "Starke Rückenschmerzen im unteren Rücken beim Aufstehen.",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "der Rücken tut sehr weh, unten, wenn sie aufstehen",
    "measurement": null
@@ -12,18 +12,19 @@
   {
    "text": "Verweigert das Frühstück aufgrund der Schmerzen.",
    "themenfeld": "selbstversorgung",
-   "evidence_span": "Sie nicht wollen Frühstück essen deswegen",
+   "evidence_span": "Sie nicht wollen Frühstück essen deswegen.",
    "measurement": null
   }
  ],
  "risk_flags": [
   {
    "risk": "schmerz",
-   "evidence_span": "der Rücken tut sehr weh",
-   "note": "Starke Rückenschmerzen beim Aufstehen; Wärmekissen gegeben, ärztliche Abklärung zu Schmerzmitteln angestrebt."
+   "evidence_span": "der Rücken tut sehr weh, unten, wenn sie aufstehen",
+   "note": "Schmerzen beim Aufstehen mit Auswirkung auf die Nahrungsaufnahme."
   }
  ],
  "follow_up_actions": [
-  "Arzt wegen Schmerzmittel fragen"
+  "Wärmekissen gegeben.",
+  "Ärztliche Rücksprache wegen Schmerzmittel."
  ]
 }

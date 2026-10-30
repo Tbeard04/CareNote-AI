@@ -8,14 +8,16 @@
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Herr Jilmas hat heute Morgen wieder Überschmerzen im rechten Knie geklagt, so beim Laufen, ne.",
    "measurement": null
-  },
-  {
-   "text": "Nicht zur Gymnastik runtergegangen",
-   "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "Er wollte danach nicht zur Gymnastik runter, hat die ganze Zeit auf dem Zimmer gesessen.",
-   "measurement": null
   }
  ],
- "risk_flags": [],
- "follow_up_actions": []
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Herr Jilmas hat heute Morgen wieder Überschmerzen im rechten Knie geklagt, so beim Laufen, ne.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "die übliche Dosis gegeben, wie besprochen"
+ ]
 }

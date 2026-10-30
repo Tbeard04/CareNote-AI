@@ -6,27 +6,27 @@
 
 | Provider | Model | Condition | Obs P | Obs R | Obs F1 | Themenfeld acc | Risk P | Risk R | Resident acc | Unsupported claims |
 |---|---|---|---|---|---|---|---|---|---|---|
-| anthropic | claude-haiku-5-5 | asr | 0.93 | 0.88 | **0.88** | 0.92 | 1.00 | 1.00 | 0.75 | 0.0% |
-| anthropic | claude-haiku-5-5 | clean | 0.94 | 0.86 | **0.88** | 0.94 | 1.00 | 1.00 | 0.94 | 0.0% |
-| ollama | llama3.1:8b | asr | 0.74 | 0.87 | **0.76** | 0.57 | 0.94 | 0.94 | 0.69 | 3.8% |
-| ollama | llama3.1:8b | clean | 0.80 | 0.83 | **0.75** | 0.63 | 0.88 | 0.88 | 0.88 | 2.1% |
-| ollama | qwen3:8b | asr | 0.90 | 0.72 | **0.76** | 0.62 | 0.88 | 0.88 | 0.69 | 2.6% |
-| ollama | qwen3:8b | clean | 0.88 | 0.77 | **0.79** | 0.69 | 0.88 | 0.88 | 1.00 | 0.0% |
-| openai | gpt-4o-mini | asr | 0.96 | 0.66 | **0.74** | 0.93 | 0.84 | 0.88 | 0.75 | 21.2% |
-| openai | gpt-4o-mini | clean | 0.97 | 0.66 | **0.75** | 0.93 | 0.84 | 0.88 | 1.00 | 9.4% |
+| anthropic | claude-haiku-5-5 | asr | 0.90 | 0.75 | **0.80** | 0.93 | 0.94 | 1.00 | 0.69 | 0.0% |
+| anthropic | claude-haiku-5-5 | clean | 0.98 | 0.77 | **0.84** | 0.97 | 1.00 | 1.00 | 1.00 | 0.0% |
+| ollama | llama3.1:8b | asr | 0.91 | 0.81 | **0.83** | 0.66 | 0.88 | 0.88 | 0.69 | 7.3% |
+| ollama | llama3.1:8b | clean | 0.88 | 0.73 | **0.77** | 0.66 | 0.94 | 0.94 | 0.94 | 2.5% |
+| ollama | qwen3:8b | asr | 0.94 | 0.61 | **0.70** | 0.66 | 0.94 | 1.00 | 0.69 | 0.0% |
+| ollama | qwen3:8b | clean | 0.95 | 0.61 | **0.70** | 0.74 | 1.00 | 1.00 | 1.00 | 0.0% |
+| openai | gpt-4o-mini | asr | 0.94 | 0.53 | **0.65** | 0.93 | 0.88 | 0.94 | 0.75 | 10.3% |
+| openai | gpt-4o-mini | clean | 0.94 | 0.54 | **0.66** | 0.89 | 0.91 | 0.94 | 1.00 | 14.8% |
 
 ## Latency, reliability, cost
 
 | Provider | Model | Condition | p50 latency | p95 latency | Retry rate | Human review | $/note | $/1k notes | €/1k notes |
 |---|---|---|---|---|---|---|---|---|---|
-| anthropic | claude-haiku-5-5 | asr | 5.5s | 6.5s | 0% | 0% | $0.00104 | $1.04 | €0.96 |
-| anthropic | claude-haiku-5-5 | clean | 5.4s | 7.1s | 0% | 0% | $0.00103 | $1.03 | €0.95 |
-| ollama | llama3.1:8b | asr | 5.7s | 6.7s | 0% | 0% | $0.00000 | $0.00 | €0.00 |
-| ollama | llama3.1:8b | clean | 5.3s | 8.1s | 0% | 0% | $0.00000 | $0.00 | €0.00 |
-| ollama | qwen3:8b | asr | 5.4s | 6.7s | 0% | 0% | $0.00000 | $0.00 | €0.00 |
-| ollama | qwen3:8b | clean | 5.8s | 8.6s | 0% | 0% | $0.00000 | $0.00 | €0.00 |
-| openai | gpt-4o-mini | asr | 3.0s | 4.1s | 0% | 0% | $0.00037 | $0.37 | €0.34 |
-| openai | gpt-4o-mini | clean | 3.2s | 4.7s | 0% | 0% | $0.00037 | $0.37 | €0.34 |
+| anthropic | claude-haiku-5-5 | asr | 5.2s | 6.9s | 0% | 0% | $0.00107 | $1.07 | €0.98 |
+| anthropic | claude-haiku-5-5 | clean | 5.9s | 7.1s | 0% | 0% | $0.00108 | $1.08 | €0.99 |
+| ollama | llama3.1:8b | asr | 5.1s | 6.4s | 0% | 0% | $0.00000 | $0.00 | €0.00 |
+| ollama | llama3.1:8b | clean | 5.0s | 7.7s | 0% | 0% | $0.00000 | $0.00 | €0.00 |
+| ollama | qwen3:8b | asr | 5.0s | 6.3s | 0% | 0% | $0.00000 | $0.00 | €0.00 |
+| ollama | qwen3:8b | clean | 4.9s | 9.3s | 0% | 0% | $0.00000 | $0.00 | €0.00 |
+| openai | gpt-4o-mini | asr | 3.0s | 4.2s | 0% | 0% | $0.00037 | $0.37 | €0.34 |
+| openai | gpt-4o-mini | clean | 3.1s | 4.3s | 0% | 0% | $0.00037 | $0.37 | €0.34 |
 
 ## ASR quality (faster-whisper)
 

@@ -4,38 +4,12 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Erwärmt",
+   "text": "Erwiesen sich als schlapp",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Herr Schäfer hatte heute Nachmittag achtunddreißig Komma zwei Temperatur",
-   "measurement": {
-    "value": 38.2,
-    "unit": "°C"
-   }
-  },
-  {
-   "text": "Puls erhöht",
-   "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Puls war zweiundneunzig",
-   "measurement": {
-    "value": 92.0,
-    "unit": "Schläge pro Minute"
-   }
-  },
-  {
-   "text": "Müde",
-   "themenfeld": "kognition_und_kommunikation",
    "evidence_span": "Er wirkt schlapp",
-   "measurement": null
-  },
-  {
-   "text": "Verändertes Verhalten",
-   "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "Er wirkt schlapp und hat sich gleich wieder hingelegt",
    "measurement": null
   }
  ],
  "risk_flags": [],
- "follow_up_actions": [
-  "Hausarzt ist informiert"
- ]
+ "follow_up_actions": []
 }

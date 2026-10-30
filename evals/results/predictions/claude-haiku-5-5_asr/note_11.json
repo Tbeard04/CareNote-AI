@@ -4,25 +4,25 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Augentropfen heute früh abgelehnt; Bewohnerin gibt Brennen an.",
+   "text": "Augentropfen heute früh abgelehnt.",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Sie hat die Augen getropft heute früh wieder abgelehnt",
    "measurement": null
   },
   {
-   "text": "Bewohnerin berichtet über Brennen (Augen).",
+   "text": "Frau Sommer berichtet über Brennen (Augen).",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "die Brenne so",
    "measurement": null
-  },
-  {
-   "text": "Späterer zweiter Versuch der Augentropfen erfolgreich.",
-   "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Ich habe es später nochmal versucht, da ging es dann.",
-   "measurement": null
   }
  ],
- "risk_flags": [],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "die Brenne so",
+   "note": "Brennen, von der Bewohnerin geäußert."
+  }
+ ],
  "follow_up_actions": [
   "Brennen beim nächsten Arztbesuch ansprechen"
  ]

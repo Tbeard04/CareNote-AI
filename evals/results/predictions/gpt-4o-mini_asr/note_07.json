@@ -4,17 +4,14 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Temperatur 38,2°C, Puls 92, wirkt schlapp.",
+   "text": "Er wirkt schlapp und hat sich gleich wieder hingelegt.",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Herr Schäfer hatte heute Nachmittag 38,2 Temperatur, gemessen um 16 Uhr im Uhr. Puls war 92. Er wirkt schlapp.",
-   "measurement": {
-    "value": 38.2,
-    "unit": "°C"
-   }
+   "evidence_span": "Er wirkt schlapp und hat sich gleich wieder hingelegt.",
+   "measurement": null
   }
  ],
  "risk_flags": [],
  "follow_up_actions": [
-  "Hausarzt informiert"
+  "Hausarzt ist informiert."
  ]
 }

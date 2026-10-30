@@ -8,19 +8,13 @@
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Die Stelle am Steißbein sieht heute rüter aus als gestern",
    "measurement": null
-  },
-  {
-   "text": "Umlagerung und Freilegen der Fersen",
-   "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "Ich habe ihn umgelagert und die Fersen freigelegt",
-   "measurement": null
   }
  ],
  "risk_flags": [
   {
    "risk": "dekubitus",
    "evidence_span": "Die Stelle am Steißbein sieht heute rüter aus als gestern",
-   "note": "Erhöhtes Risiko für Dekubitus, da die Hautstelle sich verschlechtert hat"
+   "note": "Erhöhtes Risiko für Dekubitus"
   }
  ],
  "follow_up_actions": [

@@ -4,15 +4,15 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Geringe Nahrungsaufnahme am heutigen Tag, nur wenig Brei gegessen.",
+   "text": "Nahrungsaufnahme deutlich reduziert, nur wenig Brei gegessen.",
    "themenfeld": "selbstversorgung",
-   "evidence_span": "der hat heut wieder arg wenig gegessen, gell, bloß a bissle was vom Brei",
+   "evidence_span": "der hat heut wieder arg wenig gegessen",
    "measurement": null
   },
   {
-   "text": "Unsicherer Gang, deutlich wackelig auf den Beinen; Begleitung am Arm erforderlich.",
+   "text": "Beim Gehen deutlich unsicher auf den Beinen, Gehen nur mit Unterstützung am Arm.",
    "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen, i hab ihn am Arm gführt",
+   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen",
    "measurement": null
   },
   {
@@ -26,7 +26,7 @@
   {
    "risk": "sturz",
    "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen",
-   "note": "Wackeliger Gang, Gehhilfe wird nicht genutzt."
+   "note": "Gangunsicherheit bei Verweigerung der Gehhilfe."
   }
  ],
  "follow_up_actions": [

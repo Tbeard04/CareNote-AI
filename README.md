@@ -4,22 +4,23 @@
 
 ## Results
 
-16 synthetic voice notes × 4 models × 2 conditions (clean script vs ASR transcript), scored field-by-field against hand-checked gold labels. Full tables and charts in [evals/results/results.md](evals/results/results.md); explore interactively on the demo's Results page.
+16 synthetic voice notes × 4 models × 2 conditions (clean script vs ASR transcript), scored field-by-field against hand-checked gold labels. The eval ran four full times during prompt iteration, so the table reports the final run **plus each model's F1 range across all four** — on a 16-note set, single-run rankings move by ±0.05–0.08 and ranges are the honest unit. Full tables and charts in [evals/results/results.md](evals/results/results.md); explore interactively on the demo's Results page.
 
-| Model | Obs F1 (ASR) | Obs F1 (clean) | Themenfeld acc | Risk recall | Unsupported claims | p50 latency | $/1k notes |
+| Model | Obs F1 (ASR) | Obs F1 (clean) | F1 range, 4 runs | Themenfeld acc | Unsupported claims (range) | p50 latency | $/1k notes |
 |---|---|---|---|---|---|---|---|
-| **claude-haiku-5-5** | **0.88** | **0.88** | 0.92 | **1.00** | **0.0%** | 5.5s | $1.04 |
-| qwen3:8b (local) | 0.76 | 0.79 | 0.62 | 0.88 | 2.6% | 5.4s | **$0.00** |
-| llama3.1:8b (local) | 0.76 | 0.75 | 0.57 | 0.94 | 3.8% | 5.7s | **$0.00** |
-| gpt-4o-mini | 0.74 | 0.75 | 0.93 | 0.88 | 21.2% | **3.0s** | $0.37 |
+| **claude-haiku-5-5** | 0.80 | **0.84** | **0.78–0.88** | 0.93 | **0.0% (always)** | 5.2s | $1.07 |
+| llama3.1:8b (local) | **0.83** | 0.77 | 0.73–0.83 | 0.66 | 7.3% (2.1–13.2%) | 5.1s | **$0.00** |
+| qwen3:8b (local) | 0.70 | 0.70 | 0.68–0.79 | 0.66 | **0.0%** (0–2.6%) | 5.0s | **$0.00** |
+| gpt-4o-mini | 0.65 | 0.66 | 0.65–0.78 | 0.93 | 10.3% (3.7–21.2%) | **3.0s** | $0.37 |
 
 What the numbers say:
 
-- **Claude Haiku wins on quality** — and never produced a claim without a verbatim transcript quote — at roughly **€1 per 1,000 notes**.
-- **The self-hosted track is viable**: qwen3:8b (stronger German than Llama 3.1, a measured difference, not a hunch) reaches ~90% of Haiku's F1 at zero marginal cost on a consumer GPU.
-- **gpt-4o-mini's failure mode is instructive**: precise but misses a third of observations, and *paraphrases* its "quotes" — its JSON mode doesn't enforce our schema, and the unsupported-claim rate exposes exactly that.
-- **ASR costs little on clean synthetic speech** (mean WER 7.2%) but 25.5% on the dialect note — which is precisely where real-world voice documentation gets hard.
-- **0 retries, 0 human-review flags in 128 runs** — the repair/fallback chain existed and never had to fire; its cost when it does fire is measured per-attempt in the logs.
+- **Claude Haiku is the consistent quality leader** — top or tied-top F1 range in every run, and in **512 scored runs it never once produced a claim without a verbatim transcript quote** — at roughly **€1 per 1,000 notes**.
+- **The self-hosted track is viable, with a trade-off the ranges expose**: the two local models swap F1 ranking between runs (noise on 16 notes), but one difference is stable — qwen3 almost never fabricates a quote, llama3.1 does so in every run. For a legally audited document, that reliability axis matters as much as F1.
+- **gpt-4o-mini's failure mode is instructive**: high precision but the lowest recall, and it *paraphrases* its "quotes" in every run — its JSON mode doesn't enforce our schema, and the unsupported-claim rate exposes exactly that.
+- **The eval loop earned its keep during prompt iteration**: an eval-surfaced fix (an explicit "unremarkable status is not an observation" rule) lifted the worst cell from 0.00 to 1.00 for all four models — while an aggressive "extract every detail" rule was tried and *rejected* because the harness showed it cost the leading model ~0.1 F1 in over-extraction.
+- **ASR costs little on clean synthetic speech** (mean WER 7.2%) but 25.5% on the dialect note — precisely where real-world voice documentation gets hard.
+- **0 retries, 0 human-review flags in 512 runs** — the repair/fallback chain existed and never had to fire; its cost when it does fire is measured per-attempt in the logs.
 
 ## Architecture
 
@@ -68,7 +69,7 @@ uv run python evals/run_eval.py                 # full eval, all providers
 ## Limitations
 
 - **Synthetic data.** TTS voices are cleaner than real caregivers in a hallway; the 7.2% WER flatters ASR. The set is a development harness that makes iteration measurable — in production the metric becomes **caregiver edit-rate**, which turns every user into a labeller.
-- **Small gold set** (16 notes, single labeller). Within-model differences of a few F1 points are noise; the clean-vs-ASR F1 inversion for Haiku (0.88 both ways) is sampling variance, not magic.
+- **Small gold set** (16 notes, single labeller). Repeated identical eval runs move per-model F1 by ±0.05–0.08, which is why the results table reports ranges across four runs; occasional clean-vs-ASR inversions are sampling variance, not magic.
 - **German written with translation tooling** and reviewed by a non-native speaker. The evals score structure and factual mapping, not prose quality.
 - **An 8B model as QM judge over-flags** (it called lunch-vs-dinner a contradiction despite instructions). It fails safe — blocking, not approving — but the demo defaults QM to Haiku for a reason.
 - **Not the real Strukturmodell exchange format** — the schema borrows its vocabulary and structure, shaped so an export adapter to incumbent care software (Medifox, Vivendi) would be a mapping, not a redesign.

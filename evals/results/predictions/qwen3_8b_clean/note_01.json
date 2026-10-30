@@ -4,7 +4,7 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Mangelnde Selbstversorgung durch geringen Essverzehr",
+   "text": "geringere Essensaufnahme",
    "themenfeld": "selbstversorgung",
    "evidence_span": "Sie hat heute Mittag kaum etwas gegessen, vielleicht zwei, drei Löffel Suppe.",
    "measurement": {
@@ -13,7 +13,7 @@
    }
   },
   {
-   "text": "Gefährdung durch Sturzrisiko beim Aufstehen",
+   "text": "Sturzgefahr beim Aufstehen",
    "themenfeld": "mobilitaet_und_bewegung",
    "evidence_span": "Beim Aufstehen vom Stuhl ist sie fast gestürzt, ich musste sie stützen.",
    "measurement": null

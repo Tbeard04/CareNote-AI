@@ -4,21 +4,15 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Rücken tut sehr weh, unten, wenn sie aufstehen",
+   "text": "Schmerzen im Rücken",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "der Rücken tut sehr weh, unten, wenn sie aufstehen",
+   "evidence_span": "der Rücken tut sehr weh",
    "measurement": null
   },
   {
-   "text": "nicht wollen Frühstück essen",
+   "text": "Verweigerung von Nahrung",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Sie nicht wollen Frühstück essen deswegen",
-   "measurement": null
-  },
-  {
-   "text": "Wärmekissen helfen ein bisschen",
-   "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Ich gebe Wärmekissen, das helfen ein bisschen",
+   "evidence_span": "Sie nicht wollen Frühstück essen",
    "measurement": null
   }
  ],
@@ -30,6 +24,7 @@
   }
  ],
  "follow_up_actions": [
-  "Doktor fragen wegen Schmerzmittel"
+  "Doktor fragen wegen Schmerzmittel",
+  "Wärmekissen geben"
  ]
 }

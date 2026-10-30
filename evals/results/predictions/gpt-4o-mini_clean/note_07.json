@@ -4,7 +4,7 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Wirkt schlapp und hat sich gleich wieder hingelegt.",
+   "text": "Er wirkt schlapp und hat sich gleich wieder hingelegt.",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Er wirkt schlapp und hat sich gleich wieder hingelegt.",
    "measurement": null
@@ -12,6 +12,6 @@
  ],
  "risk_flags": [],
  "follow_up_actions": [
-  "Hausarzt informiert"
+  "Hausarzt ist informiert."
  ]
 }

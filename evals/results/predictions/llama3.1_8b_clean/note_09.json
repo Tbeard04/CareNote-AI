@@ -4,16 +4,16 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Frau Albrecht zitterte beim Transfer vom Bett in den Rollstuhl",
+   "text": "Zittern beim Transfer vom Bett in den Rollstuhl",
    "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "beim Transfer vom Bett in den Rollstuhl hat sie gezittert und wollte sich nicht richtig festhalten",
+   "evidence_span": "beim Transfer vom Bett in den Rollstuhl hat sie gezittert und wollte sich nicht richtig festhalten.",
    "measurement": null
   }
  ],
  "risk_flags": [
   {
    "risk": "sturz",
-   "evidence_span": "beim Transfer vom Bett in den Rollstuhl hat sie gezittert und wollte sich nicht richtig festhalten",
+   "evidence_span": "beim Transfer vom Bett in den Rollstuhl hat sie gezittert und wollte sich nicht richtig festhalten.",
    "note": null
   }
  ],

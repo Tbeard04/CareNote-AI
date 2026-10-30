@@ -14,12 +14,6 @@
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Sie nicht wollen Frühstück essen deswegen",
    "measurement": null
-  },
-  {
-   "text": "Wärmekissen helfen ein bisschen",
-   "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Ich geben Wärmekissen, das helfen ein bisschen",
-   "measurement": null
   }
  ],
  "risk_flags": [
@@ -30,6 +24,7 @@
   }
  ],
  "follow_up_actions": [
-  "Doktor fragen wegen Schmerzmittel"
+  "Doktor fragen wegen Schmerzmittel",
+  "Wärmekissen geben"
  ]
 }

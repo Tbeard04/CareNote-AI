@@ -10,7 +10,13 @@
    "measurement": null
   }
  ],
- "risk_flags": [],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Sie hat die Augen getropft heute früh wieder abgelehnt und sagt, die Brenne so.",
+   "note": null
+  }
+ ],
  "follow_up_actions": [
   "Bitte das Brennen beim nächsten Arztbesuch ansprechen, nicht, dass da was nicht stimmt."
  ]

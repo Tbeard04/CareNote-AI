@@ -1,18 +1,12 @@
 {
  "resident_ref": "Herr Okavor",
- "time_mention": "beim Frühstück",
+ "time_mention": "heute",
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Bewohner verweigerte die Einnahme seiner Tabletten beim Frühstück; Tabletten wurden zunächst liegen gelassen und erst nach langem Zureden eingenommen.",
+   "text": "Medikamenteneinnahme verweigert: Tabletten beim Frühstück zunächst liegen gelassen, erst nach langem Zureden eingenommen.",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "seine Tabletten nicht nehmen wollen, hat sie erst liegen lassen und dann nach langem Zureden doch genommen",
-   "measurement": null
-  },
-  {
-   "text": "Bewohner war gut gelaunt und hat viel erzählt.",
-   "themenfeld": "kognition_und_kommunikation",
-   "evidence_span": "Sonst war er gut drauf, hat viel erzählt.",
+   "evidence_span": "hat beim Frühstück seine Tabletten nicht nehmen wollen, hat sie erst liegen lassen und dann nach langem Zureden doch genommen",
    "measurement": null
   }
  ],

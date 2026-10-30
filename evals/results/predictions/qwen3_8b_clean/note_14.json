@@ -4,13 +4,13 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Konflikt mit anderen Bewohnerinnen im Speisesaal",
+   "text": "Konflikt mit Frau Lang beim Mittagessen",
    "themenfeld": "leben_in_sozialen_beziehungen",
    "evidence_span": "Frau Ebert und Frau Lang hatten heute beim Mittagessen einen Streit",
    "measurement": null
   },
   {
-   "text": "Emotionale Reaktion auf Konflikt",
+   "text": "Emotionale Reaktion nach Streit",
    "themenfeld": "kognition_und_kommunikation",
    "evidence_span": "Frau Ebert hat danach geweint und wollte nicht mehr im Speisesaal sitzen",
    "measurement": null

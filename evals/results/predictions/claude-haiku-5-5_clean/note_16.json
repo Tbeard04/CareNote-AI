@@ -4,21 +4,21 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Verbandwechsel am linken Unterschenkel durchgeführt.",
+   "text": "Wunde am linken Unterschenkel zeigt sich im Vergleich zum letzten Verbandswechsel etwas gebessert, Wundränder ruhiger.",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "den Verband am linken Unterschenkel gewechselt",
+   "evidence_span": "Die Wunde sieht ein bisschen besser aus als beim letzten Mal, die Ränder sind ruhiger.",
    "measurement": null
   },
   {
-   "text": "Wunde am linken Unterschenkel im Vergleich zum letzten Mal etwas besser, Wundränder ruhiger.",
+   "text": "Juckreiz am linken Unterschenkel angegeben.",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Die Wunde sieht ein bisschen besser aus als beim letzten Mal, die Ränder sind ruhiger",
+   "evidence_span": "Er sagt, es juckt",
    "measurement": null
   },
   {
-   "text": "Bewohner berichtet über Juckreiz, keine Schmerzen mehr.",
+   "text": "Keine Schmerzen mehr am linken Unterschenkel angegeben.",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Er sagt, es juckt, aber es tut nicht mehr weh",
+   "evidence_span": "aber es tut nicht mehr weh",
    "measurement": null
   }
  ],

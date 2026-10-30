@@ -4,27 +4,21 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Schmerzen im rechten Knie beim Laufen, Schmerzklage am Morgen",
-   "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "Überschmerzen im rechten Knie geklagt, so beim Laufen",
+   "text": "Klagt heute Morgen über Schmerzen im rechten Knie beim Laufen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Überschmerzen im rechten Knie geklagt",
    "measurement": null
   },
   {
-   "text": "Schmerzmedikation verabreicht (übliche Dosis, wie besprochen)",
+   "text": "Verabreichung der üblichen Dosis (Medikation) wie besprochen.",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "die übliche Dosis gegeben",
    "measurement": null
   },
   {
-   "text": "Verweigert Teilnahme an der Gymnastik, verbleibt auf Zimmer gesessen",
+   "text": "Wollte danach nicht zur Gymnastik; blieb die ganze Zeit auf dem Zimmer gesessen.",
    "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "Er wollte danach nicht zur Gymnastik runter, hat die ganze Zeit auf dem Zimmer gesessen",
-   "measurement": null
-  },
-  {
-   "text": "Trinkverhalten unauffällig, Trinkflasche fast leer",
-   "themenfeld": "selbstversorgung",
-   "evidence_span": "Trinken klappt gut, die Flasche war fast leer",
+   "evidence_span": "Er wollte danach nicht zur Gymnastik runter, hat die ganze Zeit auf dem Zimmer gesessen.",
    "measurement": null
   }
  ],
@@ -32,7 +26,7 @@
   {
    "risk": "schmerz",
    "evidence_span": "Überschmerzen im rechten Knie geklagt",
-   "note": "Wiederholte Schmerzklage im rechten Knie beim Laufen."
+   "note": "Wiederkehrende Schmerzen im rechten Knie beim Laufen."
   }
  ],
  "follow_up_actions": []
