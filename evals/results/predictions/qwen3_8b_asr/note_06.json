@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Lindner",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Trockene Lippen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Die Lippen waren ganz trocken.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "Zu Frau Lindner, sie hat heute wieder viel zu wenig getrunken, vielleicht ein halbes Glas über den ganzen Vormittag.",
+   "note": "Trockene Lippen belegen eine Dehydrierung."
+  }
+ ],
+ "follow_up_actions": [
+  "Im Spätdienst aktiv Getränke anbieten und eintragen."
+ ]
+}

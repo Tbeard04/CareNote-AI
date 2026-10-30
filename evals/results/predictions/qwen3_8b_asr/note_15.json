@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Huber",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Mangelnde Nahrungsaufnahme",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "der hat heute wieder arg wenig gegessen, gel, bloß abisle was vom Brei",
+   "measurement": null
+  },
+  {
+   "text": "Unsicher im Gehen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen, ihr habt ihn am Arm geführt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen, ihr habt ihn am Arm geführt",
+   "note": "Unsicher im Gehen"
+  }
+ ],
+ "follow_up_actions": [
+  "Schaut's da bitte noch mal drauf"
+ ]
+}

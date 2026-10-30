@@ -1,0 +1,38 @@
+{
+ "resident_ref": "Herr Nowak",
+ "time_mention": "heute gegen vierzehn Uhr dreißig",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Sturz im Bad",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Nowak ist heute gegen vierzehn Uhr dreißig im Bad gestürzt, beim Umdrehen am Waschbecken.",
+   "measurement": null
+  },
+  {
+   "text": "Prellung am linken Ellenbogen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Er ist nicht mit dem Kopf aufgeschlagen, hat aber eine Prellung am linken Ellenbogen.",
+   "measurement": null
+  },
+  {
+   "text": "Blutdruck nach Sturz",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck danach hundertsechzig zu fünfundneunzig.",
+   "measurement": {
+    "value": 160.0,
+    "unit": "mmHg"
+   }
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Herr Nowak ist heute gegen vierzehn Uhr dreißig im Bad gestürzt, beim Umdrehen am Waschbecken.",
+   "note": "Sturzprotokoll ist ausgefüllt."
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte heute Nacht engmaschig nach ihm schauen."
+ ]
+}

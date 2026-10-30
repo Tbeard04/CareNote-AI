@@ -1,0 +1,32 @@
+{
+ "resident_ref": "Frau Weber",
+ "time_mention": "heute Mittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "geringere Essensmenge",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie hat heute Mittag kaum etwas gegessen, vielleicht zwei, drei Löffelsuppe.",
+   "measurement": {
+    "value": 2.0,
+    "unit": "Löffel"
+   }
+  },
+  {
+   "text": "Sturzgefahr beim Aufstehen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Beim Aufstehen vom Stuhl ist sie fast gestürzt, ich musste sie stützen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Beim Aufstehen vom Stuhl ist sie fast gestürzt, ich musste sie stützen.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte morgen nochmal nach dem Essen schauen"
+ ]
+}

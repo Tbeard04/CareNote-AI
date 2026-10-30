@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Brandt",
+ "time_mention": "heute",
+ "entry_type": "risiko_beobachtung",
+ "observations": [
+  {
+   "text": "Rötung am Steißbein, gegenüber gestern stärker ausgeprägt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Stelle am Steißbein sieht heute röter aus als gestern",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Die Stelle am Steißbein sieht heute röter aus als gestern",
+   "note": "Hautveränderung am Steißbein mit Verschlechterung gegenüber dem Vortag."
+  }
+ ],
+ "follow_up_actions": [
+  "Beim Spätdienst die Haut von Herrn Brandt erneut anschauen und dokumentieren."
+ ]
+}

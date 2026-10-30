@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Kurzer Rückmeldung",
+ "time_mention": "heute früh",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Brennen in den Augen",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Sie hat die Augen getropft heute früh wieder abgelehnt und sagt, die Brenne so.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte das Brennen beim nächsten Arztbesuch ansprechen, nicht, dass da was nicht stimmt."
+ ]
+}

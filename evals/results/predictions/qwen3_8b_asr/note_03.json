@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herrn Brandt",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Veränderung der Hautstelle am Steißbein",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Stelle am Steißbein sieht heute rüter aus als gestern",
+   "measurement": null
+  },
+  {
+   "text": "Umlagerung und Freilegen der Fersen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Ich habe ihn umgelagert und die Fersen freigelegt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Die Stelle am Steißbein sieht heute rüter aus als gestern",
+   "note": "Erhöhtes Risiko für Dekubitus, da die Hautstelle sich verschlechtert hat"
+  }
+ ],
+ "follow_up_actions": [
+  "Bei Herrn Brandt bitte beim Speldienst nochmal die Haut anschauen und dokumentieren"
+ ]
+}

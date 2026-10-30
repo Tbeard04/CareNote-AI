@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Herr Huber",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "wenig gegessen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "der hat heute wieder arg wenig gegessen",
+   "measurement": null
+  },
+  {
+   "text": "wackelig auf den Beinen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen",
+   "measurement": null
+  },
+  {
+   "text": "weigert Rolator zu nehmen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Rolator will er Patu nicht nehmen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Schaut's da bitte noch mal drauf"
+ ]
+}

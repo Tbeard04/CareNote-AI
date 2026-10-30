@@ -1,0 +1,21 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Medikamenteneinnahme beim Frühstück verweigert; Tabletten zunächst liegen gelassen, erst nach langem Zureden eingenommen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "seine Tabletten nicht nehmen wollen, hat sie erst liegen lassen und dann nach langem Zureden doch genommen",
+   "measurement": null
+  },
+  {
+   "text": "Stimmung gut, Bewohner erzählt viel.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "hat viel erzählt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

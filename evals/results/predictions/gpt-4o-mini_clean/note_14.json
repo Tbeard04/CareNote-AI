@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Ebert",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Ebert hat danach geweint und wollte nicht mehr im Speisesaal sitzen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Frau Ebert hat danach geweint und wollte nicht mehr im Speisesaal sitzen.",
+   "measurement": null
+  },
+  {
+   "text": "Sie hat dann auf dem Zimmer gegessen, aber nur die Hälfte.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie hat dann auf dem Zimmer gegessen, aber nur die Hälfte.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Vielleicht die Sitzordnung ändern."
+ ]
+}

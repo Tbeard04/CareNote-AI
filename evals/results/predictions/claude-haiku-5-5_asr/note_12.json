@@ -1,0 +1,38 @@
+{
+ "resident_ref": "Herr Nowak",
+ "time_mention": "heute gegen 14.30 Uhr",
+ "entry_type": "risiko_beobachtung",
+ "observations": [
+  {
+   "text": "Sturz im Bad beim Umdrehen am Waschbecken",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "im Bad gestürzt, beim Umdrehen am Waschbecken",
+   "measurement": null
+  },
+  {
+   "text": "Prellung am linken Ellenbogen nach Sturz",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "hat aber eine Prellung am linken Ellenbogen",
+   "measurement": null
+  },
+  {
+   "text": "Blutdruck nach Sturz erhöht (160/95 mmHg)",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck danach 160 zu 95",
+   "measurement": {
+    "value": 160.0,
+    "unit": "mmHg"
+   }
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "im Bad gestürzt, beim Umdrehen am Waschbecken",
+   "note": "Nicht mit dem Kopf aufgeschlagen; Sturzprotokoll ausgefüllt, Arzt verständigt."
+  }
+ ],
+ "follow_up_actions": [
+  "Heute Nacht engmaschig nach Herrn Nowak schauen"
+ ]
+}

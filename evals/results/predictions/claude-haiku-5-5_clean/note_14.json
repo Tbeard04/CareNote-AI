@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Ebert",
+ "time_mention": "heute beim Mittagessen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Nach einem Streit mit Frau Lang beim Mittagessen weinend; wollte danach nicht mehr im Speisesaal sitzen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "hat danach geweint und wollte nicht mehr im Speisesaal sitzen",
+   "measurement": null
+  },
+  {
+   "text": "Mahlzeit nur zur Hälfte verzehrt, Essen im Zimmer gegessen eingenommen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "aber nur die Hälfte",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Vielleicht die Sitzordnung ändern."
+ ]
+}

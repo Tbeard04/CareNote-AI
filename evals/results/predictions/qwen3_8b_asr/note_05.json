@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Herr Okavor",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Tabletten nicht genommen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Herr Okavor hat beim Frühstück seine Tabletten nicht nehmen wollen",
+   "measurement": null
+  },
+  {
+   "text": "Nach langem Zureden Tabletten genommen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat sie erst liegen lassen und dann nach langem Zureden doch genommen",
+   "measurement": null
+  },
+  {
+   "text": "Gut drauf",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Sonst war er gut drauf, hat viel erzählt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

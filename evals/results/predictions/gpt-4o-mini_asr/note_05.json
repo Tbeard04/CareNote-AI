@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Herr Okavor",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Hat beim Frühstück seine Tabletten nicht nehmen wollen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Okavor hat beim Frühstück seine Tabletten nicht nehmen wollen.",
+   "measurement": null
+  },
+  {
+   "text": "Hat sie erst liegen lassen und dann nach langem Zureden doch genommen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "hat sie erst liegen lassen und dann nach langem Zureden doch genommen.",
+   "measurement": null
+  },
+  {
+   "text": "Sonst war er gut drauf, hat viel erzählt.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Sonst war er gut drauf, hat viel erzählt.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

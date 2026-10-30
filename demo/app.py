@@ -145,7 +145,7 @@ load_dotenv()
 st.set_page_config(page_title="CareNote AI", page_icon="📝", layout="wide")
 
 with st.sidebar:
-    lang = "en" if st.toggle("🇬🇧 English UI", value=False) else "de"
+    lang = "en" if st.toggle("🇬🇧 English UI", key="english_ui") else "de"
     T = STRINGS[lang]
     st.divider()
     provider_name = st.selectbox(T["extraction"], ["ollama", "anthropic", "openai"], index=0)

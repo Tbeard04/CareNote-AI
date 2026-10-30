@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Herr Jilmas",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Überschmerzen im rechten Knie beim Laufen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Jilmas hat heute Morgen wieder Überschmerzen im rechten Knie geklagt, so beim Laufen.",
+   "measurement": null
+  },
+  {
+   "text": "Trinken klappt gut.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Trinken klappt gut, die Flasche war fast leer.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Herr Jilmas hat heute Morgen wieder Überschmerzen im rechten Knie geklagt, so beim Laufen.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": []
+}

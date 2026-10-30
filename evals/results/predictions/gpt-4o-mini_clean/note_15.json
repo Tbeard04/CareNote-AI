@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Huber",
+ "time_mention": "heut",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Hat wieder arg wenig gegessen, bloß a bissle was vom Brei.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "der hat heut wieder arg wenig gegessen, gell, bloß a bissle was vom Brei.",
+   "measurement": null
+  },
+  {
+   "text": "Ist arg wackelig auf den Beinen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte nochmal drauf schauen."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Petrova",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Starke Rückenschmerzen unten, besonders beim Aufstehen. Wärmekissen gegeben, Linderung nur gering.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "der Rücken tut sehr weh, unten, wenn sie aufstehen",
+   "measurement": null
+  },
+  {
+   "text": "Frühstück wird aufgrund der Schmerzen verweigert.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie nicht wollen Frühstück essen deswegen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "der Rücken tut sehr weh",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Doktor wegen Schmerzmittel fragen"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Die Dame von Zimmer Acht",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unruhe und Verlangen nach Hause",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Die Dame von Zimmer Acht war heute sehr unruhig, ist immer wieder zur Tür gelaufen und wollte nach Hause.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Nachts bitte öfter reinschauen"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Herr Janssen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Wunde sieht ein bisschen besser aus als beim letzten Mal, die Ränder sind ruhiger.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Wunde sieht ein bisschen besser aus als beim letzten Mal, die Ränder sind ruhiger.",
+   "measurement": null
+  },
+  {
+   "text": "Er sagt, es juckt, aber es tut nicht mehr weh.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Er sagt, es juckt, aber es tut nicht mehr weh.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

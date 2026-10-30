@@ -80,6 +80,13 @@ def run_one(note_id: str, provider_name: str, model: str | None, condition: str)
     else:
         predicted = CareNote(entry_type=EntryType.BERICHTEBLATT_EINTRAG)
 
+    # Persist the prediction so the demo dashboard can show output vs gold.
+    pred_dir = RESULTS / "predictions" / f"{provider.model.replace(':', '_')}_{condition}"
+    pred_dir.mkdir(parents=True, exist_ok=True)
+    (pred_dir / f"{note_id}.json").write_text(
+        predicted.model_dump_json(indent=1), encoding="utf-8"
+    )
+
     return score_note(
         note_id,
         predicted,

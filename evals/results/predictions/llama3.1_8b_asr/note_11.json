@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Sommer",
+ "time_mention": "heute früh",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Augen getropft",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Sie hat die Augen getropft heute früh wieder abgelehnt und sagt, die Brenne so.",
+   "measurement": null
+  },
+  {
+   "text": "Brennen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Bitte das Brennen beim nächsten Arztbesuch ansprechen, nicht, dass da was nicht stimmt.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Brennen beim nächsten Arztbesuch ansprechen"
+ ]
+}

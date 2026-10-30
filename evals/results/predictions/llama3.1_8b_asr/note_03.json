@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Brandt",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Stelle am Steißbein sieht heute rüter aus als gestern.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Die Stelle am Steißbein sieht heute rüter aus als gestern, da müssen wir echt aufpassen.",
+   "measurement": null
+  },
+  {
+   "text": "Ich habe ihn umgelagert und die Fersen freigelegt.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Ich habe ihn umgelagert und die Fersen freigelegt.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Die Stelle am Steißbein sieht heute rüter aus als gestern, da müssen wir echt aufpassen.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Beim Speldienst nochmal die Haut anschauen und dokumentieren"
+ ]
+}

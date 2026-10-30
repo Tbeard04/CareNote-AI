@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Herrn Janssen",
+ "time_mention": "irgendwann nach dem Frühstück",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verbandwechsel am linken Unterschenkel durchgeführt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "den Verband am linken Unterschenkel gewechselt",
+   "measurement": null
+  },
+  {
+   "text": "Wunde am linken Unterschenkel im Vergleich zum letzten Mal etwas besser, Wundränder ruhiger.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Wunde sieht ein bisschen besser aus als beim letzten Mal, die Ränder sind ruhiger",
+   "measurement": null
+  },
+  {
+   "text": "Bewohner berichtet über Juckreiz, keine Schmerzen mehr.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Er sagt, es juckt, aber es tut nicht mehr weh",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

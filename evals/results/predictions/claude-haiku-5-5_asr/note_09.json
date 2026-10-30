@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Frau Albrecht",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Beim Transfer vom Bett in den Rollstuhl zittert die Bewohnerin und kann sich nicht richtig festhalten; Transfer erfolgte zu zweit.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "beim Transfer vom Bett in den Rollstuhl hat sie gezittert und wollte sich nicht richtig festhalten",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "beim Transfer vom Bett in den Rollstuhl hat sie gezittert und wollte sich nicht richtig festhalten",
+   "note": "Zittern und fehlendes Festhalten beim Transfer; Transfer zu zweit durchgeführt."
+  }
+ ],
+ "follow_up_actions": []
+}

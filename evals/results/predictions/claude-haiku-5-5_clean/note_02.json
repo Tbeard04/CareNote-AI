@@ -1,0 +1,39 @@
+{
+ "resident_ref": "Herr Yilmaz",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Klagt erneut über Schmerzen im rechten Knie, besonders beim Laufen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "wieder über Schmerzen im rechten Knie geklagt, so beim Laufen",
+   "measurement": null
+  },
+  {
+   "text": "Schmerzmedikation verabreicht: 'die übliche Dosis', wie besprochen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die übliche Dosis gegeben, wie besprochen",
+   "measurement": null
+  },
+  {
+   "text": "Verweigert nach der Medikamentengabe die Teilnahme an der Gymnastik und bleibt die gesamte Zeit auf Zimmer gesessen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er wollte danach nicht zur Gymnastik runter, hat die ganze Zeit auf dem Zimmer gesessen",
+   "measurement": null
+  },
+  {
+   "text": "Trinkverhalten unauffällig gut; Trinkflasche fast leer.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Trinken klappt gut, die Flasche war fast leer",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Schmerzen im rechten Knie geklagt",
+   "note": "Wiederholte Schmerzklage im Knie beim Laufen."
+  }
+ ],
+ "follow_up_actions": []
+}

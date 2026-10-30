@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Ebert",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Konflikt mit anderen Bewohnerinnen im Speisesaal",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Frau Ebert und Frau Lang hatten heute beim Mittagessen einen Streit",
+   "measurement": null
+  },
+  {
+   "text": "Emotionale Reaktion auf Konflikt",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Ebert hat danach geweint und wollte nicht mehr im Speisesaal sitzen",
+   "measurement": null
+  },
+  {
+   "text": "Unvollständige Mahlzeit",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie hat dann auf dem Zimmer gegessen, aber nur die Hälfte",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Vielleicht die Sitzordnung ändern"
+ ]
+}

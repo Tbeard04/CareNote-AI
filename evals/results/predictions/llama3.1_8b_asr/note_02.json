@@ -1,0 +1,41 @@
+{
+ "resident_ref": "Herr Jilmas",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Überschmerzen im rechten Knie",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Jilmas hat heute Morgen wieder Überschmerzen im rechten Knie geklagt",
+   "measurement": null
+  },
+  {
+   "text": "kein Laufen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "so beim Laufen, ne",
+   "measurement": null
+  },
+  {
+   "text": "auf dem Zimmer gesessen",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Er wollte danach nicht zur Gymnastik runter, hat die ganze Zeit auf dem Zimmer gesessen",
+   "measurement": null
+  },
+  {
+   "text": "gutes Trinken",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Trinken klappt gut",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Herr Jilmas hat heute Morgen wieder Überschmerzen im rechten Knie geklagt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "die übliche Dosis gegeben"
+ ]
+}

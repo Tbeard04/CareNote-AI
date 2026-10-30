@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Petrova",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schmerzen im unteren Rückenbereich beim Aufstehen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Petrova sagen heute Morgen, der Rücken tut sehr weh, unten, wenn sie aufstehen.",
+   "measurement": null
+  },
+  {
+   "text": "Verzicht auf Frühstück aufgrund von Schmerzen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie nicht wollen Frühstück essen deswegen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Ich geben Wärmekissen, das helfen ein bisschen. Bitte Doktor fragen wegen Schmerzmittel.",
+   "note": "Schmerzmittel wurde nicht verabreicht, nur Wärmekissen gegeben."
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte Doktor fragen wegen Schmerzmittel"
+ ]
+}

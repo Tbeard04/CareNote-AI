@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Petova",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rücken tut sehr weh, unten, wenn sie aufstehen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "der Rücken tut sehr weh, unten, wenn sie aufstehen.",
+   "measurement": null
+  },
+  {
+   "text": "Sie nicht wollen Frühstück essen deswegen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie nicht wollen Frühstück essen deswegen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "der Rücken tut sehr weh, unten, wenn sie aufstehen.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte Doktor fragen wegen Schmerzmittel."
+ ]
+}

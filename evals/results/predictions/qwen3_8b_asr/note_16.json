@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Herrn Janssen",
+ "time_mention": "irgendwann nach dem Frühstück",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verband gewechselt",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Bei Herrn Janssen irgendwann nach dem Frühstück den Verband am linken Unterschenkel gewechselt",
+   "measurement": null
+  },
+  {
+   "text": "Wunde zeigt Verbesserung",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Wunde sieht ein bisschen besser aus als beim letzten Mal, die Ränder sind ruhiger",
+   "measurement": null
+  },
+  {
+   "text": "Juckreiz ohne Schmerz",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Er sagt, es juckt, aber es tut nicht mehr weh",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

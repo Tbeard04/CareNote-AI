@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Denier",
+ "time_mention": "heute Mittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Mittagessen gut verzehrt, Teller fast leer.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat heute Mittag richtig gut gegessen, den Teller fast leer",
+   "measurement": null
+  },
+  {
+   "text": "Abendessen komplett verweigert.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Beim Abendessen hat er das Essen komplett verweigert",
+   "measurement": null
+  },
+  {
+   "text": "Beim Abendessen ziemlich aufgebracht.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "war dabei ziemlich aufgebracht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Vielleicht morgen das Lieblingsessen probieren"
+ ]
+}

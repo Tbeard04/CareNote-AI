@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herrn Brandt",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rote Stelle am Steißbein",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Stelle am Steißbein sieht heute röter aus als gestern",
+   "measurement": null
+  },
+  {
+   "text": "Umelagert und Fersen freigelegt",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Ich hab ihn umgelagert und die Fersen freigelegt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Die Stelle am Steißbein sieht heute röter aus als gestern",
+   "note": "Rote Stelle am Steißbein"
+  }
+ ],
+ "follow_up_actions": [
+  "Bei Herrn Brandt bitte beim Spätdienst nochmal die Haut anschauen und dokumentieren"
+ ]
+}

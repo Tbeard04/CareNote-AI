@@ -18,7 +18,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.8722006001044065,
+  "latency_s": 12.39341969997622,
   "cost_usd": 0.0
  },
  {
@@ -40,7 +40,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.145740200066939,
+  "latency_s": 6.215424499940127,
   "cost_usd": 0.0
  },
  {
@@ -50,8 +50,8 @@
   "condition": "clean",
   "resident_match": true,
   "entry_type_match": true,
-  "obs_precision": 0.5,
-  "obs_recall": 0.5,
+  "obs_precision": 1.0,
+  "obs_recall": 1.0,
   "themenfeld_accuracy": 0,
   "measurement_accuracy": null,
   "risk_precision": 1.0,
@@ -62,7 +62,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.673980000196025,
+  "latency_s": 5.68155899993144,
   "cost_usd": 0.0
  },
  {
@@ -84,7 +84,7 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.5724879999179393,
+  "latency_s": 3.590384399984032,
   "cost_usd": 0.0
  },
  {
@@ -106,7 +106,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.5753294001333416,
+  "latency_s": 4.489551200065762,
   "cost_usd": 0.0
  },
  {
@@ -128,7 +128,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.025814000051469,
+  "latency_s": 4.868043199880049,
   "cost_usd": 0.0
  },
  {
@@ -150,7 +150,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.40570589993149,
+  "latency_s": 5.496629300061613,
   "cost_usd": 0.0
  },
  {
@@ -172,7 +172,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.880156300030649,
+  "latency_s": 5.939601700054482,
   "cost_usd": 0.0
  },
  {
@@ -194,7 +194,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.729145599994808,
+  "latency_s": 4.803550399839878,
   "cost_usd": 0.0
  },
  {
@@ -216,7 +216,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.048556100111455,
+  "latency_s": 5.114976899931207,
   "cost_usd": 0.0
  },
  {
@@ -238,7 +238,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.477675599977374,
+  "latency_s": 4.583444100106135,
   "cost_usd": 0.0
  },
  {
@@ -260,7 +260,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.431701500201598,
+  "latency_s": 6.661243699956685,
   "cost_usd": 0.0
  },
  {
@@ -270,7 +270,7 @@
   "condition": "clean",
   "resident_match": false,
   "entry_type_match": true,
-  "obs_precision": 0.5,
+  "obs_precision": 0.4,
   "obs_recall": 1.0,
   "themenfeld_accuracy": 0.5,
   "measurement_accuracy": null,
@@ -279,10 +279,10 @@
   "followup_precision": 1.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
-  "total_claims": 4,
+  "total_claims": 5,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.900363999884576,
+  "latency_s": 6.395085499854758,
   "cost_usd": 0.0
  },
  {
@@ -290,7 +290,7 @@
   "provider": "ollama",
   "model": "llama3.1:8b",
   "condition": "clean",
-  "resident_match": false,
+  "resident_match": true,
   "entry_type_match": true,
   "obs_precision": 0.6666666666666666,
   "obs_recall": 1.0,
@@ -304,7 +304,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.729370299959555,
+  "latency_s": 5.413372999988496,
   "cost_usd": 0.0
  },
  {
@@ -323,10 +323,10 @@
   "followup_precision": 1.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
-  "total_claims": 2,
+  "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.309733999893069,
+  "latency_s": 4.83167039998807,
   "cost_usd": 0.0
  },
  {
@@ -348,7 +348,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.983403899939731,
+  "latency_s": 5.029593100072816,
   "cost_usd": 0.0
  },
  {
@@ -370,7 +370,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.845691900001839,
+  "latency_s": 5.933399900095537,
   "cost_usd": 0.0
  },
  {
@@ -392,7 +392,7 @@
   "total_claims": 5,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.597385299857706,
+  "latency_s": 6.654648799914867,
   "cost_usd": 0.0
  },
  {
@@ -414,7 +414,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.581342400051653,
+  "latency_s": 5.658915699925274,
   "cost_usd": 0.0
  },
  {
@@ -436,7 +436,7 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.676128099905327,
+  "latency_s": 3.6006326000206172,
   "cost_usd": 0.0
  },
  {
@@ -458,7 +458,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.623702900018543,
+  "latency_s": 4.480582999996841,
   "cost_usd": 0.0
  },
  {
@@ -474,13 +474,13 @@
   "measurement_accuracy": null,
   "risk_precision": 1.0,
   "risk_recall": 1.0,
-  "followup_precision": 0.5,
+  "followup_precision": 1.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.282061999896541,
+  "latency_s": 4.861364100128412,
   "cost_usd": 0.0
  },
  {
@@ -502,7 +502,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.192991599906236,
+  "latency_s": 6.35529480013065,
   "cost_usd": 0.0
  },
  {
@@ -524,7 +524,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.966052699834108,
+  "latency_s": 6.002759299939498,
   "cost_usd": 0.0
  },
  {
@@ -546,7 +546,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.7124573001638055,
+  "latency_s": 5.727738699875772,
   "cost_usd": 0.0
  },
  {
@@ -568,7 +568,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.061897900188342,
+  "latency_s": 5.15278479992412,
   "cost_usd": 0.0
  },
  {
@@ -590,7 +590,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.882180500077084,
+  "latency_s": 4.8388864998705685,
   "cost_usd": 0.0
  },
  {
@@ -612,7 +612,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.607414300087839,
+  "latency_s": 6.706968300044537,
   "cost_usd": 0.0
  },
  {
@@ -634,7 +634,7 @@
   "total_claims": 5,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.300944300135598,
+  "latency_s": 6.410950999939814,
   "cost_usd": 0.0
  },
  {
@@ -656,7 +656,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.454141200054437,
+  "latency_s": 5.493625500006601,
   "cost_usd": 0.0
  },
  {
@@ -678,7 +678,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.537040100200102,
+  "latency_s": 5.617511899909005,
   "cost_usd": 0.0
  },
  {
@@ -689,18 +689,18 @@
   "resident_match": true,
   "entry_type_match": true,
   "obs_precision": 1.0,
-  "obs_recall": 0.6666666666666666,
-  "themenfeld_accuracy": 0.5,
+  "obs_recall": 1.0,
+  "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
   "risk_precision": 1.0,
   "risk_recall": 1.0,
-  "followup_precision": 0.5,
+  "followup_precision": 1.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
-  "total_claims": 2,
+  "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.026187000097707,
+  "latency_s": 5.707287499913946,
   "cost_usd": 0.0
  },
  {
@@ -722,7 +722,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 12.256432699970901,
+  "latency_s": 12.517525400035083,
   "cost_usd": 0.0
  },
  {
@@ -744,7 +744,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.6333151999861,
+  "latency_s": 6.705970000009984,
   "cost_usd": 0.0
  },
  {
@@ -766,7 +766,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.711648799944669,
+  "latency_s": 5.777606400195509,
   "cost_usd": 0.0
  },
  {
@@ -788,7 +788,7 @@
   "total_claims": 0,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.908708200091496,
+  "latency_s": 2.941997299902141,
   "cost_usd": 0.0
  },
  {
@@ -810,7 +810,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.800006600096822,
+  "latency_s": 4.828549999976531,
   "cost_usd": 0.0
  },
  {
@@ -832,7 +832,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.496847900096327,
+  "latency_s": 4.535836299881339,
   "cost_usd": 0.0
  },
  {
@@ -854,7 +854,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.400557399960235,
+  "latency_s": 6.397520900005475,
   "cost_usd": 0.0
  },
  {
@@ -876,7 +876,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.849311500089243,
+  "latency_s": 5.8466038999613374,
   "cost_usd": 0.0
  },
  {
@@ -898,7 +898,7 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.430752099957317,
+  "latency_s": 4.430669799912721,
   "cost_usd": 0.0
  },
  {
@@ -920,7 +920,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.885783100035042,
+  "latency_s": 5.741367100039497,
   "cost_usd": 0.0
  },
  {
@@ -942,7 +942,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.909213999984786,
+  "latency_s": 4.863146800082177,
   "cost_usd": 0.0
  },
  {
@@ -964,7 +964,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 7.374656100058928,
+  "latency_s": 7.232184599852189,
   "cost_usd": 0.0
  },
  {
@@ -986,7 +986,7 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.078619400039315,
+  "latency_s": 4.128278699936345,
   "cost_usd": 0.0
  },
  {
@@ -1008,7 +1008,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.740235700039193,
+  "latency_s": 5.814544000197202,
   "cost_usd": 0.0
  },
  {
@@ -1030,7 +1030,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.794954499928281,
+  "latency_s": 5.831269500078633,
   "cost_usd": 0.0
  },
  {
@@ -1052,7 +1052,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.698387400014326,
+  "latency_s": 5.649016099981964,
   "cost_usd": 0.0
  },
  {
@@ -1074,7 +1074,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.664117599837482,
+  "latency_s": 5.569005799945444,
   "cost_usd": 0.0
  },
  {
@@ -1096,7 +1096,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.9446037001907825,
+  "latency_s": 4.9529507998377085,
   "cost_usd": 0.0
  },
  {
@@ -1118,7 +1118,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.8477876000106335,
+  "latency_s": 5.909046200104058,
   "cost_usd": 0.0
  },
  {
@@ -1140,7 +1140,7 @@
   "total_claims": 0,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.9006863001268357,
+  "latency_s": 2.904433300020173,
   "cost_usd": 0.0
  },
  {
@@ -1162,7 +1162,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.184788300190121,
+  "latency_s": 5.290074500022456,
   "cost_usd": 0.0
  },
  {
@@ -1184,7 +1184,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.765192799968645,
+  "latency_s": 4.827658600173891,
   "cost_usd": 0.0
  },
  {
@@ -1206,7 +1206,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.26302139996551,
+  "latency_s": 6.436317600077018,
   "cost_usd": 0.0
  },
  {
@@ -1228,7 +1228,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.805867099901661,
+  "latency_s": 6.056716799968854,
   "cost_usd": 0.0
  },
  {
@@ -1250,7 +1250,7 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.011814699973911,
+  "latency_s": 3.9725188999436796,
   "cost_usd": 0.0
  },
  {
@@ -1272,7 +1272,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.92642640019767,
+  "latency_s": 4.956195600097999,
   "cost_usd": 0.0
  },
  {
@@ -1294,7 +1294,7 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.170198499923572,
+  "latency_s": 4.083018200006336,
   "cost_usd": 0.0
  },
  {
@@ -1316,7 +1316,7 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 7.344042700016871,
+  "latency_s": 7.330562100047246,
   "cost_usd": 0.0
  },
  {
@@ -1338,7 +1338,7 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.052173600066453,
+  "latency_s": 4.11678329994902,
   "cost_usd": 0.0
  },
  {
@@ -1360,7 +1360,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.711513899965212,
+  "latency_s": 5.752138399984688,
   "cost_usd": 0.0
  },
  {
@@ -1382,7 +1382,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.540839900029823,
+  "latency_s": 5.562022099969909,
   "cost_usd": 0.0
  },
  {
@@ -1404,7 +1404,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.580350500065833,
+  "latency_s": 5.694288400001824,
   "cost_usd": 0.0
  },
  {
@@ -1417,7 +1417,7 @@
   "obs_precision": 1.0,
   "obs_recall": 1.0,
   "themenfeld_accuracy": 1,
-  "measurement_accuracy": 1,
+  "measurement_accuracy": 0,
   "risk_precision": 1.0,
   "risk_recall": 1.0,
   "followup_precision": 1.0,
@@ -1426,8 +1426,8 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.530451700091362,
-  "cost_usd": 0.0010570999999999998
+  "latency_s": 5.9518248999956995,
+  "cost_usd": 0.0011296
  },
  {
   "note_id": "note_02",
@@ -1448,8 +1448,8 @@
   "total_claims": 5,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.998554800171405,
-  "cost_usd": 0.0010787000000000001
+  "latency_s": 5.401183299953118,
+  "cost_usd": 0.0011002
  },
  {
   "note_id": "note_03",
@@ -1457,28 +1457,28 @@
   "model": "claude-haiku-5-5",
   "condition": "clean",
   "resident_match": true,
-  "entry_type_match": true,
+  "entry_type_match": false,
   "obs_precision": 1.0,
-  "obs_recall": 1.0,
-  "themenfeld_accuracy": 0.5,
+  "obs_recall": 0.5,
+  "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
   "risk_precision": 1.0,
   "risk_recall": 1.0,
   "followup_precision": 1.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
-  "total_claims": 3,
+  "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.502313799923286,
-  "cost_usd": 0.0011053
+  "latency_s": 5.759793400065973,
+  "cost_usd": 0.0010603
  },
  {
   "note_id": "note_04",
   "provider": "anthropic",
   "model": "claude-haiku-5-5",
   "condition": "clean",
-  "resident_match": false,
+  "resident_match": true,
   "entry_type_match": true,
   "obs_precision": 1.0,
   "obs_recall": 1.0,
@@ -1492,15 +1492,15 @@
   "total_claims": 0,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 1.140958699863404,
-  "cost_usd": 0.0005181000000000001
+  "latency_s": 1.2628496999386698,
+  "cost_usd": 0.0005311000000000001
  },
  {
   "note_id": "note_05",
   "provider": "anthropic",
   "model": "claude-haiku-5-5",
   "condition": "clean",
-  "resident_match": true,
+  "resident_match": false,
   "entry_type_match": true,
   "obs_precision": 0.5,
   "obs_recall": 1.0,
@@ -1514,8 +1514,8 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.921472399961203,
-  "cost_usd": 0.0009534000000000001
+  "latency_s": 4.317727999994531,
+  "cost_usd": 0.0009439000000000001
  },
  {
   "note_id": "note_06",
@@ -1526,18 +1526,18 @@
   "entry_type_match": false,
   "obs_precision": 1.0,
   "obs_recall": 0.6666666666666666,
-  "themenfeld_accuracy": 1,
+  "themenfeld_accuracy": 0.5,
   "measurement_accuracy": null,
   "risk_precision": 1.0,
   "risk_recall": 1.0,
-  "followup_precision": 1.0,
+  "followup_precision": 0.5,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.894290900090709,
-  "cost_usd": 0.0010567
+  "latency_s": 4.6608631000854075,
+  "cost_usd": 0.0009892
  },
  {
   "note_id": "note_07",
@@ -1558,8 +1558,8 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.971016699913889,
-  "cost_usd": 0.0010895
+  "latency_s": 6.956792899873108,
+  "cost_usd": 0.001156
  },
  {
   "note_id": "note_08",
@@ -1569,7 +1569,7 @@
   "resident_match": true,
   "entry_type_match": true,
   "obs_precision": 1.0,
-  "obs_recall": 1.0,
+  "obs_recall": 0.6666666666666666,
   "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
   "risk_precision": 1.0,
@@ -1577,11 +1577,11 @@
   "followup_precision": 1.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
-  "total_claims": 4,
+  "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.33630090020597,
-  "cost_usd": 0.0010643
+  "latency_s": 4.991037100087851,
+  "cost_usd": 0.0009953
  },
  {
   "note_id": "note_09",
@@ -1602,8 +1602,8 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.829154600156471,
-  "cost_usd": 0.0013059
+  "latency_s": 7.515052100177854,
+  "cost_usd": 0.0012749
  },
  {
   "note_id": "note_10",
@@ -1612,30 +1612,8 @@
   "condition": "clean",
   "resident_match": true,
   "entry_type_match": true,
-  "obs_precision": 0.6666666666666666,
+  "obs_precision": 1.0,
   "obs_recall": 1.0,
-  "themenfeld_accuracy": 1,
-  "measurement_accuracy": null,
-  "risk_precision": 1.0,
-  "risk_recall": 1.0,
-  "followup_precision": 1.0,
-  "followup_recall": 1.0,
-  "unsupported_claims": 0,
-  "total_claims": 3,
-  "needs_human_review": false,
-  "attempts": 1,
-  "latency_s": 4.492842900101095,
-  "cost_usd": 0.0009916
- },
- {
-  "note_id": "note_11",
-  "provider": "anthropic",
-  "model": "claude-haiku-5-5",
-  "condition": "clean",
-  "resident_match": true,
-  "entry_type_match": true,
-  "obs_precision": 0.5,
-  "obs_recall": 0.5,
   "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
   "risk_precision": 1.0,
@@ -1646,8 +1624,30 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.286924900021404,
-  "cost_usd": 0.0009114000000000001
+  "latency_s": 4.646117999916896,
+  "cost_usd": 0.0009716
+ },
+ {
+  "note_id": "note_11",
+  "provider": "anthropic",
+  "model": "claude-haiku-5-5",
+  "condition": "clean",
+  "resident_match": true,
+  "entry_type_match": true,
+  "obs_precision": 1.0,
+  "obs_recall": 1.0,
+  "themenfeld_accuracy": 1,
+  "measurement_accuracy": null,
+  "risk_precision": 1.0,
+  "risk_recall": 1.0,
+  "followup_precision": 1.0,
+  "followup_recall": 1.0,
+  "unsupported_claims": 0,
+  "total_claims": 2,
+  "needs_human_review": false,
+  "attempts": 1,
+  "latency_s": 4.332234099972993,
+  "cost_usd": 0.0009724000000000001
  },
  {
   "note_id": "note_12",
@@ -1668,30 +1668,30 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.635031299898401,
-  "cost_usd": 0.001254
+  "latency_s": 5.9450952999759465,
+  "cost_usd": 0.0011765
  },
  {
   "note_id": "note_13",
   "provider": "anthropic",
   "model": "claude-haiku-5-5",
   "condition": "clean",
-  "resident_match": false,
+  "resident_match": true,
   "entry_type_match": true,
-  "obs_precision": 0.0,
-  "obs_recall": 0.0,
-  "themenfeld_accuracy": null,
+  "obs_precision": 1.0,
+  "obs_recall": 1.0,
+  "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
   "risk_precision": 1.0,
   "risk_recall": 1.0,
-  "followup_precision": 0.0,
-  "followup_recall": 0.0,
+  "followup_precision": 1.0,
+  "followup_recall": 1.0,
   "unsupported_claims": 0,
-  "total_claims": 0,
+  "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.2375835001003,
-  "cost_usd": 0.0008687
+  "latency_s": 4.3897573000285774,
+  "cost_usd": 0.0009582000000000001
  },
  {
   "note_id": "note_14",
@@ -1712,8 +1712,8 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.022168499883264,
-  "cost_usd": 0.0010923
+  "latency_s": 5.4912554998882115,
+  "cost_usd": 0.0010643
  },
  {
   "note_id": "note_15",
@@ -1734,8 +1734,8 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 7.491603899979964,
-  "cost_usd": 0.0010217
+  "latency_s": 5.3820669001434,
+  "cost_usd": 0.0010777
  },
  {
   "note_id": "note_16",
@@ -1745,7 +1745,7 @@
   "resident_match": true,
   "entry_type_match": true,
   "obs_precision": 1.0,
-  "obs_recall": 0.6666666666666666,
+  "obs_recall": 1.0,
   "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
   "risk_precision": 1.0,
@@ -1753,11 +1753,11 @@
   "followup_precision": 0.0,
   "followup_recall": 0.0,
   "unsupported_claims": 0,
-  "total_claims": 2,
+  "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.737790699815378,
-  "cost_usd": 0.0011142
+  "latency_s": 5.787330899853259,
+  "cost_usd": 0.0010957
  },
  {
   "note_id": "note_01",
@@ -1769,7 +1769,7 @@
   "obs_precision": 1.0,
   "obs_recall": 1.0,
   "themenfeld_accuracy": 1,
-  "measurement_accuracy": 0,
+  "measurement_accuracy": 1,
   "risk_precision": 1.0,
   "risk_recall": 1.0,
   "followup_precision": 1.0,
@@ -1778,8 +1778,8 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.151473399950191,
-  "cost_usd": 0.0011606
+  "latency_s": 5.440829300088808,
+  "cost_usd": 0.0010995999999999998
  },
  {
   "note_id": "note_02",
@@ -1790,7 +1790,7 @@
   "entry_type_match": true,
   "obs_precision": 1.0,
   "obs_recall": 1.0,
-  "themenfeld_accuracy": 1,
+  "themenfeld_accuracy": 0.75,
   "measurement_accuracy": null,
   "risk_precision": 1.0,
   "risk_recall": 1.0,
@@ -1800,8 +1800,8 @@
   "total_claims": 5,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.9721146998927,
-  "cost_usd": 0.001084
+  "latency_s": 5.210449000122026,
+  "cost_usd": 0.0011365
  },
  {
   "note_id": "note_03",
@@ -1822,8 +1822,8 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.135420499835163,
-  "cost_usd": 0.0011059000000000002
+  "latency_s": 6.001663099974394,
+  "cost_usd": 0.0011709000000000001
  },
  {
   "note_id": "note_04",
@@ -1844,7 +1844,7 @@
   "total_claims": 0,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.5049955998547375,
+  "latency_s": 1.0798892001621425,
   "cost_usd": 0.0005311000000000001
  },
  {
@@ -1854,7 +1854,7 @@
   "condition": "asr",
   "resident_match": false,
   "entry_type_match": true,
-  "obs_precision": 1.0,
+  "obs_precision": 0.5,
   "obs_recall": 1.0,
   "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
@@ -1863,11 +1863,11 @@
   "followup_precision": 1.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
-  "total_claims": 1,
+  "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.4952629001345485,
-  "cost_usd": 0.0008409000000000001
+  "latency_s": 4.678152399836108,
+  "cost_usd": 0.0009909
  },
  {
   "note_id": "note_06",
@@ -1875,7 +1875,7 @@
   "model": "claude-haiku-5-5",
   "condition": "asr",
   "resident_match": true,
-  "entry_type_match": true,
+  "entry_type_match": false,
   "obs_precision": 1.0,
   "obs_recall": 0.6666666666666666,
   "themenfeld_accuracy": 0.5,
@@ -1888,8 +1888,8 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.721726800082251,
-  "cost_usd": 0.0010251
+  "latency_s": 4.659466499928385,
+  "cost_usd": 0.0009681000000000001
  },
  {
   "note_id": "note_07",
@@ -1898,20 +1898,20 @@
   "condition": "asr",
   "resident_match": true,
   "entry_type_match": true,
-  "obs_precision": 0.6666666666666666,
-  "obs_recall": 0.5,
-  "themenfeld_accuracy": 0.5,
-  "measurement_accuracy": 0,
+  "obs_precision": 1.0,
+  "obs_recall": 0.75,
+  "themenfeld_accuracy": 1,
+  "measurement_accuracy": 0.5,
   "risk_precision": 1.0,
   "risk_recall": 1.0,
-  "followup_precision": 1.0,
+  "followup_precision": 0.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.370283300057054,
-  "cost_usd": 0.0010719000000000002
+  "latency_s": 5.6013271999545395,
+  "cost_usd": 0.0011204000000000001
  },
  {
   "note_id": "note_08",
@@ -1919,7 +1919,7 @@
   "model": "claude-haiku-5-5",
   "condition": "asr",
   "resident_match": false,
-  "entry_type_match": true,
+  "entry_type_match": false,
   "obs_precision": 1.0,
   "obs_recall": 0.6666666666666666,
   "themenfeld_accuracy": 1,
@@ -1932,8 +1932,8 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.8394456000532955,
-  "cost_usd": 0.0009939
+  "latency_s": 5.875341899925843,
+  "cost_usd": 0.0011189000000000001
  },
  {
   "note_id": "note_09",
@@ -1942,30 +1942,8 @@
   "condition": "asr",
   "resident_match": true,
   "entry_type_match": true,
-  "obs_precision": 0.6666666666666666,
-  "obs_recall": 1.0,
-  "themenfeld_accuracy": 1,
-  "measurement_accuracy": null,
-  "risk_precision": 1.0,
-  "risk_recall": 1.0,
-  "followup_precision": 1.0,
-  "followup_recall": 1.0,
-  "unsupported_claims": 0,
-  "total_claims": 4,
-  "needs_human_review": false,
-  "attempts": 1,
-  "latency_s": 7.434743300080299,
-  "cost_usd": 0.0012919000000000001
- },
- {
-  "note_id": "note_10",
-  "provider": "anthropic",
-  "model": "claude-haiku-5-5",
-  "condition": "asr",
-  "resident_match": false,
-  "entry_type_match": true,
   "obs_precision": 1.0,
-  "obs_recall": 1.0,
+  "obs_recall": 0.5,
   "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
   "risk_precision": 1.0,
@@ -1976,8 +1954,30 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.904098400147632,
-  "cost_usd": 0.0010611
+  "latency_s": 6.095916099846363,
+  "cost_usd": 0.0010304000000000001
+ },
+ {
+  "note_id": "note_10",
+  "provider": "anthropic",
+  "model": "claude-haiku-5-5",
+  "condition": "asr",
+  "resident_match": false,
+  "entry_type_match": true,
+  "obs_precision": 0.6666666666666666,
+  "obs_recall": 1.0,
+  "themenfeld_accuracy": 1,
+  "measurement_accuracy": null,
+  "risk_precision": 1.0,
+  "risk_recall": 1.0,
+  "followup_precision": 1.0,
+  "followup_recall": 1.0,
+  "unsupported_claims": 0,
+  "total_claims": 3,
+  "needs_human_review": false,
+  "attempts": 1,
+  "latency_s": 4.579889799933881,
+  "cost_usd": 0.0008946000000000001
  },
  {
   "note_id": "note_11",
@@ -1998,8 +1998,8 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 8.373108699917793,
-  "cost_usd": 0.0011086
+  "latency_s": 5.509330100147054,
+  "cost_usd": 0.0011266
  },
  {
   "note_id": "note_12",
@@ -2010,18 +2010,18 @@
   "entry_type_match": false,
   "obs_precision": 1.0,
   "obs_recall": 0.75,
-  "themenfeld_accuracy": 0.6666666666666666,
+  "themenfeld_accuracy": 1,
   "measurement_accuracy": 1,
   "risk_precision": 1.0,
   "risk_recall": 1.0,
-  "followup_precision": 0.3333333333333333,
+  "followup_precision": 1.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.523673299932852,
-  "cost_usd": 0.0012686
+  "latency_s": 6.6585907998960465,
+  "cost_usd": 0.0012151
  },
  {
   "note_id": "note_13",
@@ -2042,8 +2042,8 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.564372799824923,
-  "cost_usd": 0.0009827
+  "latency_s": 4.993749500019476,
+  "cost_usd": 0.0009752000000000001
  },
  {
   "note_id": "note_14",
@@ -2052,7 +2052,7 @@
   "condition": "asr",
   "resident_match": true,
   "entry_type_match": true,
-  "obs_precision": 0.6666666666666666,
+  "obs_precision": 1.0,
   "obs_recall": 1.0,
   "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
@@ -2061,11 +2061,11 @@
   "followup_precision": 1.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
-  "total_claims": 3,
+  "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 6.24359539989382,
-  "cost_usd": 0.0012013
+  "latency_s": 5.6511948001571,
+  "cost_usd": 0.0010808
  },
  {
   "note_id": "note_15",
@@ -2086,8 +2086,8 @@
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.504101900150999,
-  "cost_usd": 0.0010968
+  "latency_s": 5.364711300004274,
+  "cost_usd": 0.0010613
  },
  {
   "note_id": "note_16",
@@ -2108,8 +2108,8 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.181836000178009,
-  "cost_usd": 0.0010622000000000001
+  "latency_s": 6.494704600190744,
+  "cost_usd": 0.0011262
  },
  {
   "note_id": "note_01",
@@ -2119,19 +2119,19 @@
   "resident_match": true,
   "entry_type_match": true,
   "obs_precision": 1.0,
-  "obs_recall": 0.3333333333333333,
+  "obs_recall": 0.6666666666666666,
   "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
-  "risk_precision": 1.0,
+  "risk_precision": 0.5,
   "risk_recall": 1.0,
   "followup_precision": 1.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
-  "total_claims": 2,
+  "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.443940700031817,
-  "cost_usd": 0.00036779999999999994
+  "latency_s": 5.430078899953514,
+  "cost_usd": 0.00043139999999999997
  },
  {
   "note_id": "note_02",
@@ -2148,12 +2148,12 @@
   "risk_recall": 1.0,
   "followup_precision": 1.0,
   "followup_recall": 1.0,
-  "unsupported_claims": 1,
+  "unsupported_claims": 0,
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.788507000077516,
-  "cost_usd": 0.00040710000000000003
+  "latency_s": 4.480329500045627,
+  "cost_usd": 0.0004119
  },
  {
   "note_id": "note_03",
@@ -2174,7 +2174,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.8347966000437737,
+  "latency_s": 3.0718697998672724,
   "cost_usd": 0.00036495
  },
  {
@@ -2196,8 +2196,8 @@
   "total_claims": 0,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 1.3173672000411898,
-  "cost_usd": 0.0002829
+  "latency_s": 1.67587919998914,
+  "cost_usd": 0.0002847
  },
  {
   "note_id": "note_05",
@@ -2218,8 +2218,8 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.877812199993059,
-  "cost_usd": 0.0003726
+  "latency_s": 3.610094300005585,
+  "cost_usd": 0.00038219999999999997
  },
  {
   "note_id": "note_06",
@@ -2240,7 +2240,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.149705700110644,
+  "latency_s": 3.7471155000384897,
   "cost_usd": 0.00039089999999999996
  },
  {
@@ -2262,7 +2262,7 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.4028444001451135,
+  "latency_s": 2.2022385001182556,
   "cost_usd": 0.0003324
  },
  {
@@ -2273,7 +2273,7 @@
   "resident_match": true,
   "entry_type_match": true,
   "obs_precision": 1.0,
-  "obs_recall": 0.3333333333333333,
+  "obs_recall": 0.6666666666666666,
   "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
   "risk_precision": 1.0,
@@ -2281,11 +2281,11 @@
   "followup_precision": 1.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
-  "total_claims": 2,
+  "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.5391303000506014,
-  "cost_usd": 0.00035985000000000005
+  "latency_s": 3.836456999881193,
+  "cost_usd": 0.00039225
  },
  {
   "note_id": "note_09",
@@ -2298,16 +2298,16 @@
   "obs_recall": 0.5,
   "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
-  "risk_precision": 1.0,
-  "risk_recall": 1.0,
+  "risk_precision": 0.0,
+  "risk_recall": 0.0,
   "followup_precision": 0.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
-  "total_claims": 2,
+  "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.687553600175306,
-  "cost_usd": 0.0003849
+  "latency_s": 2.2349660000763834,
+  "cost_usd": 0.0003555
  },
  {
   "note_id": "note_10",
@@ -2328,7 +2328,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.693979099858552,
+  "latency_s": 2.778268599882722,
   "cost_usd": 0.0003747
  },
  {
@@ -2350,8 +2350,8 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.921362900175154,
-  "cost_usd": 0.000354
+  "latency_s": 2.582399999955669,
+  "cost_usd": 0.0003522
  },
  {
   "note_id": "note_12",
@@ -2372,8 +2372,8 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.015110899927095,
-  "cost_usd": 0.00043139999999999997
+  "latency_s": 4.34185259998776,
+  "cost_usd": 0.0004326
  },
  {
   "note_id": "note_13",
@@ -2394,8 +2394,8 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.3596871001645923,
-  "cost_usd": 0.00034695
+  "latency_s": 3.2073814999312162,
+  "cost_usd": 0.00034635000000000004
  },
  {
   "note_id": "note_14",
@@ -2416,8 +2416,8 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.290208499878645,
-  "cost_usd": 0.00037830000000000003
+  "latency_s": 3.056931700091809,
+  "cost_usd": 0.0003855
  },
  {
   "note_id": "note_15",
@@ -2438,7 +2438,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.0877695998642594,
+  "latency_s": 3.3160045999102294,
   "cost_usd": 0.00037995
  },
  {
@@ -2460,7 +2460,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.4971908000297844,
+  "latency_s": 3.168284500017762,
   "cost_usd": 0.0003772499999999999
  },
  {
@@ -2478,12 +2478,12 @@
   "risk_recall": 1.0,
   "followup_precision": 1.0,
   "followup_recall": 1.0,
-  "unsupported_claims": 0,
+  "unsupported_claims": 2,
   "total_claims": 4,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.084320900030434,
-  "cost_usd": 0.00042945
+  "latency_s": 4.070067199878395,
+  "cost_usd": 0.00042704999999999994
  },
  {
   "note_id": "note_02",
@@ -2500,12 +2500,12 @@
   "risk_recall": 1.0,
   "followup_precision": 1.0,
   "followup_recall": 1.0,
-  "unsupported_claims": 0,
+  "unsupported_claims": 2,
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.6469741999171674,
-  "cost_usd": 0.0003975
+  "latency_s": 3.207430000184104,
+  "cost_usd": 0.0003951
  },
  {
   "note_id": "note_03",
@@ -2526,7 +2526,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.3675881000235677,
+  "latency_s": 2.92914649983868,
   "cost_usd": 0.0003641999999999999
  },
  {
@@ -2548,7 +2548,7 @@
   "total_claims": 0,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 1.2663000000175089,
+  "latency_s": 1.7342560000251979,
   "cost_usd": 0.0002847
  },
  {
@@ -2570,7 +2570,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.5436857000458986,
+  "latency_s": 3.5551714000757784,
   "cost_usd": 0.000405
  },
  {
@@ -2592,8 +2592,8 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.0317263999022543,
-  "cost_usd": 0.0003849
+  "latency_s": 3.2471181999426335,
+  "cost_usd": 0.0003837
  },
  {
   "note_id": "note_07",
@@ -2614,8 +2614,8 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 4.376680300105363,
-  "cost_usd": 0.00034484999999999995
+  "latency_s": 2.9004426999017596,
+  "cost_usd": 0.00035565
  },
  {
   "note_id": "note_08",
@@ -2625,7 +2625,7 @@
   "resident_match": false,
   "entry_type_match": true,
   "obs_precision": 1.0,
-  "obs_recall": 0.3333333333333333,
+  "obs_recall": 0.6666666666666666,
   "themenfeld_accuracy": 1,
   "measurement_accuracy": null,
   "risk_precision": 1.0,
@@ -2633,11 +2633,11 @@
   "followup_precision": 1.0,
   "followup_recall": 1.0,
   "unsupported_claims": 0,
-  "total_claims": 2,
+  "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 5.104003799846396,
-  "cost_usd": 0.00036344999999999997
+  "latency_s": 3.263097799848765,
+  "cost_usd": 0.00038805
  },
  {
   "note_id": "note_09",
@@ -2658,7 +2658,7 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.468938000034541,
+  "latency_s": 2.5087408998515457,
   "cost_usd": 0.0003555
  },
  {
@@ -2680,7 +2680,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.1488825001288205,
+  "latency_s": 2.998656400013715,
   "cost_usd": 0.0003747
  },
  {
@@ -2702,8 +2702,8 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.603797699790448,
-  "cost_usd": 0.00034575
+  "latency_s": 3.115061799995601,
+  "cost_usd": 0.00035475
  },
  {
   "note_id": "note_12",
@@ -2724,7 +2724,7 @@
   "total_claims": 3,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.3245562999509275,
+  "latency_s": 4.117799900006503,
   "cost_usd": 0.00041595
  },
  {
@@ -2746,8 +2746,8 @@
   "total_claims": 1,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.8804695000872016,
-  "cost_usd": 0.00034695
+  "latency_s": 2.4276403998956084,
+  "cost_usd": 0.00034755
  },
  {
   "note_id": "note_14",
@@ -2768,7 +2768,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 3.702638299902901,
+  "latency_s": 2.81449589994736,
   "cost_usd": 0.0003759
  },
  {
@@ -2790,8 +2790,8 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.670361200114712,
-  "cost_usd": 0.00037319999999999996
+  "latency_s": 3.0341744001489133,
+  "cost_usd": 0.000366
  },
  {
   "note_id": "note_16",
@@ -2812,7 +2812,7 @@
   "total_claims": 2,
   "needs_human_review": false,
   "attempts": 1,
-  "latency_s": 2.7976458000484854,
+  "latency_s": 2.961561999982223,
   "cost_usd": 0.00037664999999999997
  }
 ]

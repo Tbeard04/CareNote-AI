@@ -1,0 +1,32 @@
+{
+ "resident_ref": "Herr Schäfer",
+ "time_mention": "heute Nachmittag, um 16 Uhr",
+ "entry_type": "vitalwert_messung",
+ "observations": [
+  {
+   "text": "Temperatur 38,2 °C",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Schäfer hatte heute Nachmittag 38,2 Temperatur",
+   "measurement": {
+    "value": 38.2,
+    "unit": "°C"
+   }
+  },
+  {
+   "text": "Puls 92",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Puls war 92",
+   "measurement": null
+  },
+  {
+   "text": "wirkt schlapp und hat sich wieder hingelegt",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Er wirkt schlapp und hat sich gleich wieder hingelegt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Hausarzt ist informiert"
+ ]
+}

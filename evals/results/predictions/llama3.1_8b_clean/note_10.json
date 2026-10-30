@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Demir",
+ "time_mention": "heute Mittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Demir hat heute Mittag richtig gut gegessen, den Teller fast leer.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Demir hat heute Mittag richtig gut gegessen, den Teller fast leer.",
+   "measurement": null
+  },
+  {
+   "text": "Beim Abendessen hat er das Essen komplett verweigert und war dabei ziemlich aufgebracht.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beim Abendessen hat er das Essen komplett verweigert und war dabei ziemlich aufgebracht.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Vielleicht morgen das Lieblingsessen probieren."
+ ]
+}

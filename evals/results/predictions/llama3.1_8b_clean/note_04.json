@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Krüger",
+ "time_mention": "Frühdienst",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Alles unauffällig",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Alles unauffällig heute, keine Besonderheiten.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,33 @@
+{
+ "resident_ref": "Herr Yilmaz",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schmerzen im rechten Knie beim Laufen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Yilmaz hat heute Morgen wieder über Schmerzen im rechten Knie geklagt, so beim Laufen, ne.",
+   "measurement": null
+  },
+  {
+   "text": "keine Teilnahme an Gymnastik",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er wollte danach nicht zur Gymnastik runter",
+   "measurement": null
+  },
+  {
+   "text": "auf Zimmer gesessen",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Er wollte danach nicht zur Gymnastik runter, hat die ganze Zeit auf dem Zimmer gesessen.",
+   "measurement": null
+  },
+  {
+   "text": "gutes Trinkverhalten",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Trinken klappt gut, die Flasche war fast leer.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}
