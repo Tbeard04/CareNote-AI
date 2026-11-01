@@ -1,0 +1,34 @@
+{
+ "resident_ref": "Frau Nowak",
+ "time_mention": "seit heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Heiserkeit und Halsschmerzen, trinkt kaum.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "ist seit heute Morgen heiser und mag wegen Halsschmerzen kaum trinken",
+   "measurement": null
+  },
+  {
+   "text": "Lauwarmer Tee mit Honig schluckweise gereicht.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Wir geben lauwarmen Tee mit Honig schluckweise",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "mag wegen Halsschmerzen kaum trinken",
+   "note": null
+  },
+  {
+   "risk": "schmerz",
+   "evidence_span": "wegen Halsschmerzen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Trinkmenge heute mitzählen."
+ ]
+}

@@ -1,0 +1,802 @@
+[
+ {
+  "id": "note_01",
+  "text": "So, kurze Notiz zu Frau Weber. Sie hat heute Mittag kaum etwas gegessen, vielleicht zwei, drei Löffel Suppe. Beim Aufstehen vom Stuhl ist sie fast gestürzt, ich musste sie stützen. Blutdruck war 145 zu 90. Bitte morgen nochmal nach dem Essen schauen.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "baseline: observation + risk + measurement + follow-up"
+ },
+ {
+  "id": "note_02",
+  "text": "Ähm, ja, also Herr Yilmaz hat heute Morgen wieder über Schmerzen im rechten Knie geklagt, so beim Laufen, ne. Ich hab ihm dann... äh... die übliche Dosis gegeben, wie besprochen. Er wollte danach nicht zur Gymnastik runter, hat die ganze Zeit auf dem Zimmer gesessen. Trinken klappt gut, die Flasche war fast leer.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "fillers + ambiguous dosage ('die übliche Dosis')"
+ },
+ {
+  "id": "note_03",
+  "text": "Kurz zu Herrn Brandt, Zimmer zwölf. Die Stelle am Steißbein sieht heute röter aus als gestern, da müssen wir echt aufpassen. Ich hab ihn umgelagert und die Fersen freigelegt. Achso, und Frau Keller hat vorhin nach ihrer Tochter gefragt, aber das nur nebenbei. Bei Herrn Brandt bitte beim Spätdienst nochmal die Haut anschauen und dokumentieren.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "second resident mentioned in passing + dekubitus risk"
+ },
+ {
+  "id": "note_04",
+  "text": "Frau Krüger, Frühdienst. Alles unauffällig heute, keine Besonderheiten.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "minimal note: almost everything should be null/empty"
+ },
+ {
+  "id": "note_05",
+  "text": "Herr Okafor hat beim Mittagessen... nein, warte, das war gestern. Also heute: Herr Okafor hat beim Frühstück seine Tabletten nicht nehmen wollen, hat sie erst liegen lassen und dann nach langem Zureden doch genommen. Sonst war er gut drauf, hat viel erzählt.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+8%",
+  "length": "mittel",
+  "edge_case": "self-correction mid-sentence ('nein, warte, das war gestern')"
+ },
+ {
+  "id": "note_06",
+  "text": "Zu Frau Lindner: Sie hat heute wieder viel zu wenig getrunken, vielleicht ein halbes Glas über den ganzen Vormittag. Die Lippen waren ganz trocken. Ich hab ihr ein Trinkprotokoll hingestellt. Bitte im Spätdienst aktiv Getränke anbieten und eintragen.",
+  "voice": "de-AT-IngridNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "dehydration risk + follow-up actions"
+ },
+ {
+  "id": "note_07",
+  "text": "Herr Schäfer hatte heute Nachmittag achtunddreißig Komma zwei Temperatur, gemessen um sechzehn Uhr im Ohr. Puls war zweiundneunzig. Er wirkt schlapp und hat sich gleich wieder hingelegt. Hausarzt ist informiert.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "-5%",
+  "length": "mittel",
+  "edge_case": "spoken numbers: vitals as words, two measurements"
+ },
+ {
+  "id": "note_08",
+  "text": "Frau Petrova sagen heute Morgen, der Rücken tut sehr weh, unten, wenn sie aufstehen. Sie nicht wollen Frühstück essen deswegen. Ich geben Wärmekissen, das helfen ein bisschen. Bitte Doktor fragen wegen Schmerzmittel.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "non-native speaker grammar + pain risk"
+ },
+ {
+  "id": "note_09",
+  "text": "Ja also, was war denn heute... Montag war ja Friseur, das hat ihr gut gefallen, aber das war ja Montag. Heute bei Frau Albrecht eigentlich ein ruhiger Tag, wobei, eine Sache: beim Transfer vom Bett in den Rollstuhl hat sie gezittert und wollte sich nicht richtig festhalten. Wir haben dann zu zweit transferiert. Ihre Tochter kommt übrigens Samstag, hat sie dreimal erzählt, sie freut sich riesig. Ach ja, und die Heizung im Zimmer klemmt, hab ich der Haustechnik gemeldet.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+10%",
+  "length": "lang",
+  "edge_case": "long rambling note: irrelevant chatter around one real observation"
+ },
+ {
+  "id": "note_10",
+  "text": "Herr Demir hat heute Mittag richtig gut gegessen, den Teller fast leer. Beim Abendessen hat er das Essen komplett verweigert und war dabei ziemlich aufgebracht. Vielleicht morgen das Lieblingsessen probieren.",
+  "voice": "de-AT-JonasNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "apparent contradiction (ate well midday, refused dinner) for the QM pass"
+ },
+ {
+  "id": "note_11",
+  "text": "Kurze Rückmeldung zu Frau Sommer: Sie hat die Augentropfen heute früh wieder abgelehnt, sagt, die brennen so. Ich hab es später nochmal versucht, da ging es dann. Bitte das Brennen beim nächsten Arztbesuch ansprechen, nicht dass da was nicht stimmt.",
+  "voice": "de-CH-LeniNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "medication refusal + Swiss-accented voice"
+ },
+ {
+  "id": "note_12",
+  "text": "Wichtig: Herr Nowak ist heute gegen vierzehn Uhr dreißig im Bad gestürzt, beim Umdrehen am Waschbecken. Er ist nicht mit dem Kopf aufgeschlagen, hat aber eine Prellung am linken Ellenbogen. Blutdruck danach hundertsechzig zu fünfundneunzig. Arzt ist verständigt, Sturzprotokoll ist ausgefüllt. Bitte heute Nacht engmaschig nach ihm schauen.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "actual fall with time, injury, measurement and protocol"
+ },
+ {
+  "id": "note_13",
+  "text": "Die Dame von Zimmer acht war heute sehr unruhig, ist immer wieder zur Tür gelaufen und wollte nach Hause. Wir haben sie mit Fotos von früher etwas beruhigen können. Nachts bitte öfter reinschauen.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "-8%",
+  "length": "mittel",
+  "edge_case": "no name, only a room reference: resident_ref handling"
+ },
+ {
+  "id": "note_14",
+  "text": "Frau Ebert und Frau Lang hatten heute beim Mittagessen einen Streit, Frau Ebert hat danach geweint und wollte nicht mehr im Speisesaal sitzen. Sie hat dann auf dem Zimmer gegessen, aber nur die Hälfte. Frau Lang war nachher wie immer. Vielleicht die Sitzordnung ändern.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "two residents genuinely entangled in one incident"
+ },
+ {
+  "id": "note_15",
+  "text": "Ja grüß dich, kurz zum Herrn Huber: der hat heut wieder arg wenig gegessen, gell, bloß a bissle was vom Brei. Und beim Laufen ist er arg wackelig auf den Beinen, i hab ihn am Arm gführt. Rollator will er partout nicht nehmen, der sture Hund. Schaut's da bitte nochmal drauf.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "southern German dialect flavour"
+ },
+ {
+  "id": "note_16",
+  "text": "Bei Herrn Janssen irgendwann nach dem Frühstück den Verband am linken Unterschenkel gewechselt. Die Wunde sieht ein bisschen besser aus als beim letzten Mal, die Ränder sind ruhiger. Er sagt, es juckt, aber es tut nicht mehr weh. Nächster Verbandswechsel übermorgen.",
+  "voice": "de-CH-JanNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "vague time ('irgendwann nach dem Frühstück') + wound care"
+ },
+ {
+  "id": "note_17",
+  "text": "Herr Vogel, Frühdienst, alles in Ordnung, keine Vorkommnisse.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "short all-clear"
+ },
+ {
+  "id": "note_18",
+  "text": "Frau Krause hat heute Nacht schlecht geschlafen, war gegen drei Uhr wach und sehr unruhig.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+5%",
+  "length": "kurz",
+  "edge_case": "short single observation"
+ },
+ {
+  "id": "note_19",
+  "text": "Blutzucker bei Herrn Hansen heute früh nüchtern hundertzweiundneunzig. Insulin wie angeordnet gegeben.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "vitals only, words as numbers"
+ },
+ {
+  "id": "note_20",
+  "text": "Bei Frau Dimitrova ist das Hörgerät rechts schon wieder ausgefallen, die Batterie war leer und wir haben gerade keine Ersatzbatterien mehr da. Sie hat sich beim Mittagstisch zurückgezogen, weil sie nichts verstanden hat. Bitte morgen unbedingt Batterien aus dem Lager holen.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "-5%",
+  "length": "mittel",
+  "edge_case": "hearing aid issue + social withdrawal"
+ },
+ {
+  "id": "note_21",
+  "text": "Herr Esposito klagt seit gestern über Verstopfung, heute wieder kein Stuhlgang. Ich habe ihm das verordnete Macrogol gegeben und viel zu trinken angeboten. Er isst normal. Wenn bis morgen Abend nichts kommt, bitte den Arzt informieren.",
+  "voice": "de-AT-IngridNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "constipation + medication given"
+ },
+ {
+  "id": "note_22",
+  "text": "Frau Öztürk ist heute Vormittag beim Aufstehen zweimal schwindlig geworden, sie musste sich gleich wieder setzen. Das neue Blutdruckmittel nimmt sie seit Montag. Ich habe ihr gesagt, sie soll klingeln, bevor sie aufsteht. Bitte beim Hausarzt wegen der Dosierung nachfragen.",
+  "voice": "de-CH-LeniNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "fall risk from new medication dizziness"
+ },
+ {
+  "id": "note_23",
+  "text": "Herr Kowalski heute gewogen, achtundsechzig Komma vier Kilo, das sind fast zwei Kilo weniger als letzten Monat.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "weight measurement in words"
+ },
+ {
+  "id": "note_24",
+  "text": "So, zu Frau Berger, wo fange ich an. Der Friseurtermin heute Morgen war schön, sie war ganz stolz auf die Frisur und hat allen davon erzählt. Mittags war ihre Nichte da, die hat Kuchen mitgebracht, Apfelkuchen glaube ich, und die beiden haben lange im Garten gesessen. Beim Abendessen ist mir dann aufgefallen, dass sie den rechten Arm kaum hebt, sie hat das Besteck in die linke Hand genommen und gesagt, die Schulter tut seit dem Nachmittag weh. Sie meint, sie hat sich im Garten am Rosenbogen gestoßen. Die Schulter ist nicht geschwollen, aber druckempfindlich. Bitte morgen beobachten und wenn es schlimmer wird, den Arzt dazuholen.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+10%",
+  "length": "lang",
+  "edge_case": "long rambling, one real finding buried"
+ },
+ {
+  "id": "note_25",
+  "text": "Im Fernsehzimmer gab es heute Abend Streit zwischen Herrn Lehmann und Herrn Fuchs wegen des Programms. Herr Lehmann wurde laut und hat mit dem Stock auf den Tisch geschlagen, Herr Fuchs hat sich danach sehr erschrocken zurückgezogen. Wir haben die beiden erstmal getrennt. Bei Herrn Lehmann bitte im Blick behalten, ob die Gereiztheit anhält, das ist neu bei ihm.",
+  "voice": "de-AT-JonasNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "two residents, argument over TV"
+ },
+ {
+  "id": "note_26",
+  "text": "Frau Richter heute beim Essen zwei Mal stark husten, wenn sie trinken. Ich glauben, sie verschlucken sich leicht. Ich geben dann das Wasser mit Verdickung, das gehen besser. Bitte Logopädie fragen, ob Schlucktest nötig.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "-5%",
+  "length": "mittel",
+  "edge_case": "non-native grammar, swallowing problem"
+ },
+ {
+  "id": "note_27",
+  "text": "Die neue Bewohnerin von Zimmer fünfzehn hat heute das erste Mal am Gemeinschaftsessen teilgenommen und gut gegessen.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "nameless resident, room reference"
+ },
+ {
+  "id": "note_28",
+  "text": "Wichtiger Eintrag zu Herrn Costa. Er ist heute Nachmittag gegen fünfzehn Uhr vierzig im Flur vor seinem Zimmer gestürzt, vermutlich über die Teppichkante. Eine Kollegin hat den Sturz gesehen, er ist seitlich gefallen und nicht mit dem Kopf aufgekommen. Er klagt über Schmerzen in der linken Hüfte, kann aber stehen und ein paar Schritte gehen. Blutdruck nach dem Sturz hundertfünfzig zu achtundachtzig, Puls achtundsiebzig. Der Hausarzt ist informiert und kommt morgen früh vorbei. Sturzprotokoll ist ausgefüllt, die Teppichkante haben wir erstmal mit Klebeband fixiert. Bitte heute Nacht zweistündlich nach ihm sehen und bei stärkeren Schmerzen sofort den Notdienst rufen.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "lang",
+  "edge_case": "fall with full protocol, multiple measurements in words"
+ },
+ {
+  "id": "note_29",
+  "text": "Frau Nguyen hatte einen ruhigen Tag, war beim Singkreis dabei und hat gut gegessen. Keine Besonderheiten.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "all-clear with small positive detail"
+ },
+ {
+  "id": "note_30",
+  "text": "Beim Verbandswechsel bei Frau Wolf sah die Wunde am rechten Unterschenkel heute schlechter aus, die Ränder sind gerötet und es kam mehr Wundsekret als beim letzten Mal. Sie sagt, es pocht nachts. Foto für die Wunddoku ist gemacht. Bitte den Wundmanager noch diese Woche einschalten.",
+  "voice": "de-CH-JanNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "wound deterioration"
+ },
+ {
+  "id": "note_31",
+  "text": "Ja mei, der Herr Maier wollt heut wieder partout net duschen, gell. Hab ihm gut zugeredet, aber er hat bloß gebrummt, lasst's mich in Ruh. Waschen am Waschbecken hat er dann zuglassen. Des is jetzt die dritte Woch ohne Duschen, vielleicht mag die Bezugspflegerin am Montag nochmal mit ihm reden.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "-8%",
+  "length": "mittel",
+  "edge_case": "dialect flavour, refusing shower"
+ },
+ {
+  "id": "note_32",
+  "text": "Herr Schneider hat über Unruhe geklagt, ich hab ihm die Bedarfsmedikation gegeben wie immer, danach ging es besser.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "ambiguous medication reference"
+ },
+ {
+  "id": "note_33",
+  "text": "Kurz zur Trinkmenge: Frau Baumann, nein Moment, Frau Brunner meine ich, hat heute nur etwa einen halben Liter geschafft, obwohl wir dreimal aktiv angeboten haben. Die Lippen sind noch okay, aber das ist der zweite Tag in Folge mit so wenig. Trinkprotokoll läuft weiter.",
+  "voice": "de-AT-IngridNeural",
+  "rate": "+5%",
+  "length": "mittel",
+  "edge_case": "self-correction of resident name"
+ },
+ {
+  "id": "note_34",
+  "text": "Nachtbericht. Insgesamt war es ruhig auf dem Wohnbereich, die meisten haben durchgeschlafen. Herr Albers war allerdings wieder viel unterwegs, ich habe ihn gegen ein Uhr und nochmal gegen halb vier im Flur angetroffen, einmal stand er an der Tür vom Zimmer von Frau Sand und wollte hinein. Er war freundlich umlenkbar, hat einen Tee getrunken und ist danach wieder eingeschlafen. Die Sensormatte vor seinem Bett hat beide Male ausgelöst, das funktioniert gut. Bitte tagsüber schauen, ob er müde ist und eventuell den Mittagsschlaf verlängern.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+0%",
+  "length": "lang",
+  "edge_case": "night shift report, multiple residents mentioned, main = wanderer"
+ },
+ {
+  "id": "note_35",
+  "text": "Frau Sand hat erhöhte Temperatur, siebenunddreißig Komma neun heute Abend gemessen. Viel getrunken hat sie schon. Morgen früh bitte nochmal messen.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "fever measurement in words"
+ },
+ {
+  "id": "note_36",
+  "text": "Herr Walter ist heute Vormittag ohne Probleme mit dem Rollator bis in den Garten gelaufen. Am Nachmittag konnte er dann plötzlich gar nicht mehr aufstehen und sagte, die Beine tragen ihn nicht. Wir haben ihn mit dem Rollstuhl zurückgebracht. Das sollte morgen unbedingt der Arzt sehen.",
+  "voice": "de-AT-JonasNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "contradiction within one note (mobility)"
+ },
+ {
+  "id": "note_37",
+  "text": "Die Brille von Herrn Yildiz ist seit dem Frühstück verschwunden, wir haben das Zimmer und den Speisesaal abgesucht. Er liest so gern, bitte weitersuchen und sonst die Tochter wegen der Ersatzbrille anrufen.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "glasses lost"
+ },
+ {
+  "id": "note_38",
+  "text": "Frau Lorenz hat beim Lagern über starke Schmerzen im Rücken geklagt, sie schätzt sie auf sieben von zehn. Die angebotene Schmerztablette hat sie abgelehnt, sie sagt, davon wird ihr immer schlecht. Wärmflasche hat sie angenommen. Bitte mit dem Arzt über eine Alternative sprechen, das Thema kommt jetzt öfter.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "pain + refusal to take painkiller"
+ },
+ {
+  "id": "note_39",
+  "text": "Herr Costa heute beschwerdefrei, die Hüfte macht ihm keine Probleme mehr, er war mit dem Rollator im Garten. Alles unauffällig.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "all-clear after previous incident"
+ },
+ {
+  "id": "note_40",
+  "text": "Bei Frau Martin sind die Unterschenkel heute Abend deutlich geschwollen, man sieht die Dellen vom Strumpfbund. Die Kompressionsstrümpfe hat sie heute nicht getragen, sie sagt, das Anziehen tut ihr weh. Beine sind hochgelagert. Bitte morgen beim Anziehen helfen und die Schwellung dem Arzt melden, wenn sie nicht zurückgeht.",
+  "voice": "de-CH-LeniNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "swollen legs, compression stockings"
+ },
+ {
+  "id": "note_41",
+  "text": "Nur zur Info, der Zahnarzttermin für Frau Krause wurde von Dienstag auf Donnerstag zehn Uhr verschoben, der Fahrdienst ist schon umbestellt.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+8%",
+  "length": "kurz",
+  "edge_case": "appointment logistics only — no care deviation"
+ },
+ {
+  "id": "note_42",
+  "text": "Herr Petrov war heute beim Treppensteigen nach einem halben Stockwerk deutlich außer Atem, er musste sich am Geländer festhalten und eine Pause machen. Das war vor zwei Wochen noch kein Problem. In Ruhe ist die Atmung normal. Ich würde das zeitnah dem Hausarzt melden.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "shortness of breath on exertion"
+ },
+ {
+  "id": "note_43",
+  "text": "Frau Simon war heute sehr still und hat beim Gedächtnistraining nicht mitgemacht, das ist sonst ihr Lieblingstermin.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "short, mood low"
+ },
+ {
+  "id": "note_44",
+  "text": "Bei Herrn Brandt mussten wir heute dreimal die komplette Kleidung wechseln, die Vorlage hält nicht mehr zuverlässig. Die Haut im Intimbereich ist schon leicht gerötet, wir haben Schutzcreme aufgetragen. Bitte größere Vorlagen bestellen und die Haut im Blick behalten.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "incontinence material change"
+ },
+ {
+  "id": "note_45",
+  "text": "Heute war ein schwerer Tag für Frau Albrecht. Ihr Sohn hat am Telefon gesagt, dass er den geplanten Besuch am Wochenende schon wieder absagen muss, und danach hat sie über eine Stunde geweint. Sie wollte nicht getröstet werden und hat auch das Abendessen stehen lassen, nur den Nachtisch hat sie gegessen. Später am Abend haben wir zusammen alte Fotos angeschaut, da wurde sie ruhiger und hat sogar gelacht. Beim Zubettgehen sagte sie, es geht schon wieder. Trotzdem bitte morgen besonders aufmerksam sein und vielleicht die Seelsorgerin informieren, die beiden verstehen sich gut.",
+  "voice": "de-AT-IngridNeural",
+  "rate": "-5%",
+  "length": "lang",
+  "edge_case": "long emotional family situation, one care-relevant finding"
+ },
+ {
+  "id": "note_46",
+  "text": "Routinemessung bei Herrn Hoffmann: Blutdruck hundertachtundzwanzig zu zweiundachtzig, Puls vierundsechzig, alles im grünen Bereich.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "vitals pair in words"
+ },
+ {
+  "id": "note_47",
+  "text": "Frau Yilmaz, die seit Montag bei uns ist, stand heute Nacht um zwei im Mantel an der Haustür und wollte nach Hause zu ihrer Mutter. Ich habe sie behutsam zurückbegleitet, wir haben einen Kamillentee getrunken und über ihre Mutter gesprochen, danach konnte sie schlafen. Das ist die dritte Nacht in Folge. Bitte im Team besprechen, ob wir die Biografiearbeit vorziehen.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "new resident disorientation at night"
+ },
+ {
+  "id": "note_48",
+  "text": "Herr Lindqvist hat heute nach der Physiotherapie zum ersten Mal wieder zehn Meter ohne Rollator geschafft, er war mächtig stolz.",
+  "voice": "de-CH-JanNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "positive progress note"
+ },
+ {
+  "id": "note_49",
+  "text": "So, schnell noch bevor ich los muss, ähm, bei Frau Peters, also erstens, die hat mittags ihre Tabletten im Mund behalten und später ins Taschentuch gespuckt, hab ich zufällig gesehen, das müssen wir ab jetzt kontrollieren, ja. Und zweitens, ähm, was war das zweite, genau, am linken Ellenbogen hat sie so eine raue, schuppige Stelle, ungefähr zwei Zentimeter, sie sagt, es juckt nicht, aber komisch sieht's aus. Vielleicht beim nächsten Arztbesuch zeigen. Das war's, ciao.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+10%",
+  "length": "lang",
+  "edge_case": "rushed handover, many fillers, two findings"
+ },
+ {
+  "id": "note_50",
+  "text": "Herr Novak hat heute Mittag und Abend fast nichts gegessen. Auf Nachfrage sagte er, die untere Prothese drückt seit ein paar Tagen und das Kauen tut weh. Wir haben auf weiche Kost umgestellt, das ging besser. Bitte einen Termin beim Zahnarzt machen, Prothese anpassen lassen.",
+  "voice": "de-AT-JonasNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "refused food due to ill-fitting dentures"
+ },
+ {
+  "id": "note_51",
+  "text": "Im Bad von Zimmer sieben ist die Haltestange an der Dusche locker, ich habe die Haustechnik informiert und ein Schild aufgehängt. Bitte bis zur Reparatur beim Duschen dort besonders aufpassen.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "environment hazard only"
+ },
+ {
+  "id": "note_52",
+  "text": "Ich heute beim Waschen sehen bei Frau Groß am Rücken unten eine rote Stelle, ungefähr so groß wie Zwei-Euro-Stück. Wenn ich drücken, es nicht weggehen, bleiben rot. Ich legen sie dann mehr auf die Seite und sagen Kollegin Bescheid. Bitte heute Abend wieder schauen.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "-5%",
+  "length": "mittel",
+  "edge_case": "non-native, skin finding during washing"
+ },
+ {
+  "id": "note_53",
+  "text": "Spätdienst Zimmer eins bis sechs ohne besondere Vorkommnisse, alle Bewohner wohlauf.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "all-clear"
+ },
+ {
+  "id": "note_54",
+  "text": "Frau Ivanova hat heute beim Spaziergang Herrn Weiß gestützt, als er gestolpert ist, dabei ist sie selbst beinahe mit umgefallen. Beiden ist nichts passiert, aber Frau Ivanova war danach ziemlich erschrocken und ihr Puls war spürbar hoch. Sie hat sich eine halbe Stunde hingelegt, danach ging es ihr wieder gut. Künftig bitte bei dem Paar eine Begleitung mitschicken.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "two residents entangled, who gets the entry"
+ },
+ {
+  "id": "note_55",
+  "text": "Die Marcumar-Tabletten von Herrn Steiner reichen nur noch bis Samstag, das Rezept muss diese Woche in die Apotheke.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "medication stock warning"
+ },
+ {
+  "id": "note_56",
+  "text": "Frau Winkler kratzt sich seit gestern ständig an beiden Unterarmen, die Haut ist trocken und man sieht schon Kratzspuren. Wir haben die rückfettende Lotion aus dem Pflegeplan zweimal aufgetragen. Sie sagt, nachts ist das Jucken am schlimmsten. Wenn es bis Montag nicht besser ist, bitte Hautarzttermin anfragen.",
+  "voice": "de-AT-IngridNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "itching, scratch marks"
+ },
+ {
+  "id": "note_57",
+  "text": "Mit der neuen Bildtafel klappt die Verständigung mit Herrn Ott deutlich besser, er hat heute selbstständig Durst angezeigt. Bitte die Tafel immer griffbereit am Bett lassen.",
+  "voice": "de-CH-LeniNeural",
+  "rate": "+5%",
+  "length": "kurz",
+  "edge_case": "hearing-impaired communication success"
+ },
+ {
+  "id": "note_58",
+  "text": "Frau Hartmann ist seit der Mittagsdosis vom neuen Antibiotikum übel, sie hat einmal erbrochen, danach nur Zwieback und Tee genommen. Temperatur ist normal. Das steht so als mögliche Nebenwirkung im Beipackzettel. Bitte morgen früh in der Praxis anrufen, ob sie es weiter nehmen soll.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "nausea after new antibiotic"
+ },
+ {
+  "id": "note_59",
+  "text": "Beim Herrn Huber war heut ein richtig guter Tag, der hat beim Kegeln im Garten mitgmacht und zwei Mal voll abgräumt, da war was los. Bloß hinterher war er arg kaputt und ist beim Kaffee fast eingenickt. Vielleicht morgen a bissle kürzer treten mit dem Programm.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "-8%",
+  "length": "mittel",
+  "edge_case": "dialect, good day report with one caution"
+ },
+ {
+  "id": "note_60",
+  "text": "Achtung, Herr Hansen hatte um siebzehn Uhr einen Unterzucker, Blutzucker achtundfünfzig. Traubenzucker und Saft gegeben, nach zwanzig Minuten wieder bei hundertzehn. Abendessen hat er komplett gegessen.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "blood sugar low in words"
+ },
+ {
+  "id": "note_61",
+  "text": "Tagesbericht zu Frau Scholz. Morgens lief alles wie immer, Körperpflege mit wenig Unterstützung, Frühstück komplett. Am späten Vormittag kam die Podologin, die Nägel sind jetzt versorgt, sie hat gesagt, der eingewachsene Nagel am großen Zeh rechts sieht viel besser aus als vor vier Wochen. Mittagessen gut. Am Nachmittag beim Basteln hat Frau Scholz mehrfach den Faden verloren und dieselbe Frage drei Mal gestellt, das kannte ich von ihr so noch nicht, sonst ist sie geistig topfit. Abends war sie wie immer, hat mit ihrer Schwester telefoniert. Die Konzentrationssache vom Nachmittag würde ich erstmal nur beobachten, aber bitte mit ins Übergabebuch nehmen.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "+0%",
+  "length": "lang",
+  "edge_case": "long handover covering whole day, mixed relevance"
+ },
+ {
+  "id": "note_62",
+  "text": "Herr Egger, Nachtdienst, hat durchgeschlafen, nichts Auffälliges.",
+  "voice": "de-AT-JonasNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "all-clear minimal"
+ },
+ {
+  "id": "note_63",
+  "text": "Herr Brandt hat heute Morgen bei der Grundpflege plötzlich nach meiner Hand geschlagen und geschimpft, wir würden ihn bestehlen. Ich habe die Pflege unterbrochen, bin kurz raus und nach zehn Minuten mit einer Kollegin wiedergekommen, dann ließ er alles ruhig zu und hat sich sogar entschuldigt. So etwas kam bei ihm bisher nie vor. Bitte dokumentieren, ob sich das wiederholt.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "aggression during care, de-escalation"
+ },
+ {
+  "id": "note_64",
+  "text": "Der Urin im Katheterbeutel von Herrn Roth ist seit heute Mittag deutlich dunkler und riecht streng. Er trinkt eher wenig. Bitte vermehrt Getränke anbieten und den Urin weiter beobachten.",
+  "voice": "de-CH-LeniNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "catheter output observation"
+ },
+ {
+  "id": "note_65",
+  "text": "Also bei Frau Seidel wollte ich noch sagen, dass die neue Matratze geliefert wurde und, Moment, da klingelt gerade jemand, bin gleich wieder da. So, weiter, also die Wechseldruckmatratze ist eingebaut und eingestellt, Frau Seidel liegt nach eigener Aussage deutlich bequemer. Die Fersen sind jetzt frei gelagert. Hautkontrolle heute unauffällig.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+5%",
+  "length": "mittel",
+  "edge_case": "interrupted mid-note by event"
+ },
+ {
+  "id": "note_66",
+  "text": "Frau Lang ist beim Aufstehen vom Sofa aufs Gesäß gerutscht, sie konnte mit Hilfe gleich wieder aufstehen und hat keine Schmerzen. Sturzprotokoll ist angelegt.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "short fall without injury"
+ },
+ {
+  "id": "note_67",
+  "text": "Nach dem Besuch ihres Bruders war Frau Keller sehr aufgewühlt, die beiden hatten wohl Streit ums Erbe. Sie hat über Herzklopfen geklagt, Blutdruck war hundertsechzig zu fünfundneunzig, nach einer Stunde Ruhe im Zimmer wieder hundertvierzig zu fünfundachtzig. Beim Abendessen war sie gefasst. Bitte die Betreuerin über die Erbgeschichte informieren.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "visit stress, blood pressure in words"
+ },
+ {
+  "id": "note_68",
+  "text": "Herr Fuchs mag seit gestern nur noch auf der linken Seite kauen, er sagt, hinten rechts zieht es beim Beißen. Bitte zeitnah einen Zahnarzttermin organisieren.",
+  "voice": "de-AT-IngridNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "dental pain, eating affected"
+ },
+ {
+  "id": "note_69",
+  "text": "Update zu Frau Wagner nach der Grippe: Sie war heute zum ersten Mal wieder im Speisesaal, hat eine halbe Portion geschafft und danach noch eine Viertelstunde mit ihrer Tischnachbarin geplaudert. Der Husten ist fast weg, nachts hustet sie noch etwas. Kräftemäßig braucht sie beim Aufstehen noch Hilfe, aber deutlich weniger als letzte Woche.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "gradual improvement tracking"
+ },
+ {
+  "id": "note_70",
+  "text": "Herr Lombardi war heute Nacht zweimal komplett durchgeschwitzt, wir haben Bettwäsche und Schlafanzug gewechselt. Fieber hatte er nicht. Bitte in der Übergabe erwähnen, falls es wieder vorkommt.",
+  "voice": "de-CH-JanNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "night sweat"
+ },
+ {
+  "id": "note_71",
+  "text": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung: morgens hundertzweiunddreißig zu vierundachtzig, abends hundertachtundzwanzig zu achtzig. Kein Schwindel mehr heute, sie ist zweimal sicher allein aufgestanden. Sieht gut aus mit der neuen Dosis, der Arzt wollte die Werte am Freitag sehen.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "-5%",
+  "length": "mittel",
+  "edge_case": "two measurements + med adjustment context"
+ },
+ {
+  "id": "note_72",
+  "text": "Frau Petrova heute ganz die Alte, Rückenschmerzen sind weg, sie hat sogar wieder gestrickt. Keine Auffälligkeiten.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "all-clear"
+ },
+ {
+  "id": "note_73",
+  "text": "Bei Frau Jansen ist seit heute Vormittag einiges anders: Sie muss ständig auf die Toilette, es brennt wohl beim Wasserlassen, und sie wirkt verwirrter als sonst, hat mich zweimal mit ihrer Schwester verwechselt. Temperatur siebenunddreißig Komma sechs. Das Ganze riecht nach Blasenentzündung, bitte morgen früh Urinprobe machen und den Arzt anrufen.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "suspected UTI cluster of symptoms"
+ },
+ {
+  "id": "note_74",
+  "text": "Der Enkel von Herrn Steiner war zum ersten Mal seit Monaten da, die beiden haben zwei Stunden Schach gespielt, Herr Steiner hat den ganzen Abend davon erzählt.",
+  "voice": "de-AT-JonasNeural",
+  "rate": "+5%",
+  "length": "kurz",
+  "edge_case": "short positive social note"
+ },
+ {
+  "id": "note_75",
+  "text": "Wichtig fürs Protokoll: Beim Stellen der Abendmedikation ist mir aufgefallen, dass im Dispenser von Herrn Petrov für heute Abend zwei Marcumar lagen statt einer. Ich habe die Tablette entfernt, bevor er sie bekommen hat, es ist ihm also nichts passiert. Der Dispenser wurde am Sonntag von der Aushilfe gestellt. Ich habe die Wohnbereichsleitung informiert und wir kontrollieren jetzt alle Dispenser vom Wochenende nach. Bitte das Vier-Augen-Prinzip beim Stellen wieder konsequent einhalten.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "+0%",
+  "length": "lang",
+  "edge_case": "complex med error near-miss"
+ },
+ {
+  "id": "note_76",
+  "text": "Frau Nowak ist seit heute Morgen heiser und mag wegen Halsschmerzen kaum trinken. Wir geben lauwarmen Tee mit Honig schluckweise. Bitte die Trinkmenge heute mitzählen.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "hoarse voice, drinking less"
+ },
+ {
+  "id": "note_77",
+  "text": "Herr Weiß ist heute um elf aus dem Krankenhaus zurückgekommen. Entlassbrief liegt im Fach, neu ist ein Blutverdünner, den Plan habe ich schon eingetragen. Er ist noch wackelig auf den Beinen und deutlich dünner geworden, laut Brief hat er vier Kilo verloren. Heute bitte nur mit Begleitung laufen lassen und beim Abendessen eine Extraportion anbieten.",
+  "voice": "de-CH-LeniNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "return from hospital, status intake"
+ },
+ {
+  "id": "note_78",
+  "text": "Korrektur zu meinem Eintrag von vorhin: Der Sturz im Garten betraf nicht Frau Ebert, sondern Frau Eberhardt. Bei Frau Ebert ist alles in Ordnung.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+8%",
+  "length": "kurz",
+  "edge_case": "quick correction of earlier entry"
+ },
+ {
+  "id": "note_79",
+  "text": "Frau Krüger bekommt seit einer Woche das neue Schlafmittel. Einschlafen klappt jetzt gut, aber morgens kommt sie kaum in die Gänge, beim Frühstück ist sie zweimal fast mit dem Kopf auf den Tisch gesackt. Die Tagesmüdigkeit war vorher nicht da. Bitte beim Arzt ansprechen, ob die Dosis zu hoch ist.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "sleep medication effect query"
+ },
+ {
+  "id": "note_80",
+  "text": "Seit die Übelkeitstropfen abgesetzt sind, isst Frau Hartmann wieder normal, heute sogar Nachschlag beim Mittagessen.",
+  "voice": "de-AT-IngridNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "appetite normal again after adjustment"
+ },
+ {
+  "id": "note_81",
+  "text": "Beim Strümpfeanziehen ist mir bei Herrn Hansen eine kleine Blase an der rechten Ferse aufgefallen, etwa erbsengroß, nicht offen. Als Diabetiker ist das bei ihm heikel. Druckentlastung ist drin, wir haben weiche Socken angezogen und die Schuhe kontrolliert, da war ein Steinchen drin. Bitte täglich die Ferse kontrollieren und beim Diabetologen-Termin nächste Woche zeigen.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "foot care diabetic warning"
+ },
+ {
+  "id": "note_82",
+  "text": "Die Tochter von Frau Simon heute anrufen und sehr böse sein, warum Mutter gestern nicht bei Gymnastik war. Ich erklären, Frau Simon selber nicht wollen gehen, sie müde sein. Tochter trotzdem wollen sprechen mit Leitung. Ich geben Nummer von Büro. Frau Simon selber heute gut drauf, bei Gymnastik dabei.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "-5%",
+  "length": "mittel",
+  "edge_case": "non-native, family complaint"
+ },
+ {
+  "id": "note_83",
+  "text": "Herr Fuchs hat jetzt Funkkopfhörer für den Fernseher, seitdem gibt es keine Beschwerden der Nachbarn mehr wegen der Lautstärke, und er versteht die Nachrichten endlich wieder.",
+  "voice": "de-CH-JanNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "TV volume conflict resolved"
+ },
+ {
+  "id": "note_84",
+  "text": "Übergabe zu Herrn Okafor, war einiges heute. Morgens beim Rasieren hat er über ein Taubheitsgefühl in den Fingerspitzen der rechten Hand geklagt, das war nach etwa einer Stunde wieder weg, er konnte danach normal greifen und auch den Löffel halten. Mittags kam der neue Physiotherapeut, die Übungen für die Schulter wurden umgestellt, der Plan hängt jetzt im Zimmer am Schrank. Nachmittags hat er lange mit seinem Sohn in Lagos telefoniert und war danach bester Laune, hat im Aufenthaltsraum Geschichten erzählt. Das Taubheitsgefühl von heute früh würde ich trotzdem ernst nehmen, bitte morgen gezielt nachfragen und falls es wiederkommt, sofort den Arzt verständigen.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "lang",
+  "edge_case": "end-of-shift roundup across topics, single resident"
+ },
+ {
+  "id": "note_85",
+  "text": "Am Rollator von Frau Lindner zieht die linke Bremse nicht mehr richtig, ich habe ihn erstmal weggestellt und ihr den Leihrollator gegeben. Bitte Reparatur beim Sanitätshaus anmelden.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "walker brake defect"
+ },
+ {
+  "id": "note_86",
+  "text": "Herr Hansen will sich das Insulin neuerdings nur noch in den Bauch links spritzen lassen, die Stelle ist schon verhärtet. Wir haben ihm erklärt, warum gewechselt werden muss, er blockt ab. Heute hat er die Injektion rechts dann doch zugelassen, als die Kollegin es ihm am Modell gezeigt hat. Bitte dranbleiben und die verhärtete Stelle beobachten.",
+  "voice": "de-AT-JonasNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "refusing insulin injection site rotation"
+ },
+ {
+  "id": "note_87",
+  "text": "Bei Herrn Vogel heute nichts Besonderes, nachmittags war der Besuchsdienst mit dem Hund da, das hat ihm sichtlich gutgetan.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "all-clear with visitor info"
+ },
+ {
+  "id": "note_88",
+  "text": "Beim Abendessen hat sich Herr Roth an einem Stück Fleisch verschluckt, er hat stark gehustet und war kurz blau im Gesicht. Nach festem Klopfen zwischen die Schulterblätter kam das Stück raus, danach hat er sich schnell erholt und wollte unbedingt weiteressen. Wir haben das Fleisch dann klein geschnitten. Bitte ab sofort bei Fleischgerichten alles klein schneiden und beim Essen in der Nähe bleiben.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "choking incident at dinner"
+ },
+ {
+  "id": "note_89",
+  "text": "Nachkontrolle bei Frau Sand: Temperatur heute früh sechsunddreißig Komma acht, also wieder normal. Sie fühlt sich gut.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "temperature normalized"
+ },
+ {
+  "id": "note_90",
+  "text": "Ich mache mir langsam Sorgen um Herrn Egger. Heute hat er zum dritten Mal diese Woche den Weg von der Cafeteria zu seinem Zimmer nicht gefunden und stand ratlos im falschen Stockwerk. Beim Mittagessen hat er versucht, die Suppe mit der Gabel zu essen, und es erst gemerkt, als ich ihm den Löffel hingelegt habe. Seine Frau sagt, beim Besuch am Sonntag habe er sie zweimal nach dem Namen ihrer Tochter gefragt. Einzeln wäre das alles nichts, aber es häuft sich seit ungefähr einem Monat. Ich fände eine gerontopsychiatrische Abklärung sinnvoll, bitte beim nächsten Arztkontakt ansprechen und bis dahin die Orientierungshilfen am Flur erneuern, die Schilder sind ziemlich verblasst.",
+  "voice": "de-CH-LeniNeural",
+  "rate": "-5%",
+  "length": "lang",
+  "edge_case": "gradual cognitive decline worry, many examples"
+ },
+ {
+  "id": "note_91",
+  "text": "Der Herr vom Achter hat heute seine Wäsche selbst zusammengelegt und wollte unbedingt beim Tischdecken helfen, das machen wir jetzt fest zur Aufgabe für ihn.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "nameless, floor reference"
+ },
+ {
+  "id": "note_92",
+  "text": "Der Dekubitus an der linken Ferse von Frau Seidel heilt weiter gut, der Durchmesser ist unter einen Zentimeter geschrumpft und der Wundgrund ist sauber rosig. Verband gewechselt nach Plan, nächster Wechsel am Donnerstag. Freilagerung klappt mit dem neuen Kissen deutlich besser als vorher.",
+  "voice": "de-AT-IngridNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "pressure sore healing progress"
+ },
+ {
+  "id": "note_93",
+  "text": "Herr Lombardi klagte über Flimmern vor den Augen, Blutdruck hundertzweiundsiebzig zu hundertvier, Puls sechsundneunzig. Arzt ist angerufen, wir warten auf Rückruf. Er liegt und bleibt unter Beobachtung.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+5%",
+  "length": "kurz",
+  "edge_case": "two vitals, one resident, quick"
+ },
+ {
+  "id": "note_94",
+  "text": "Zwischen Frau Winkler und ihrer Zimmernachbarin Frau Groß kriselt es weiter wegen des Fensters, die eine will lüften, die andere friert. Heute gab es deswegen wieder lautstarken Streit vor dem Mittagessen. Wir haben als Kompromiss feste Lüftungszeiten vereinbart und einen Zettel ans Fenster gehängt. Beide waren einverstanden, mal sehen, wie lange. Beim Heimbeirat ist das Thema Zimmerwechsel trotzdem angemeldet.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "roommate conflict over window"
+ },
+ {
+  "id": "note_95",
+  "text": "Frau Lorenz hat irgendwann im Laufe des Vormittags ihre Augentropfen bekommen, die Kollegin weiß nicht mehr genau wann, jedenfalls vor dem Mittagessen. Fürs Protokoll bitte künftig die Uhrzeit direkt eintragen.",
+  "voice": "de-DE-AmalaNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "ambiguous time + med"
+ },
+ {
+  "id": "note_96",
+  "text": "Die Gartengruppe war heut bei dem schönen Wetter fast zwei Stunden draußen, Frau Brunner hat die Tomaten aufgebunden und war ganz in ihrem Element. Leider hat sie sich dabei den Nacken verbrannt, wir haben es erst beim Abendessen gemerkt, die Haut ist gerötet aber ohne Blasen. After-Sun ist drauf. Beim nächsten Mal bitte ans Sonnenhüterl und Eincremen denken.",
+  "voice": "de-AT-JonasNeural",
+  "rate": "-5%",
+  "length": "mittel",
+  "edge_case": "Austrian flavour, gardening activity + sunburn"
+ },
+ {
+  "id": "note_97",
+  "text": "Herrn Maier war beim schnellen Aufstehen nach dem Mittagsschlaf schwarz vor Augen, er hat sich am Schrank abgefangen. Wir üben jetzt das langsame Aufstehen in Etappen. Blutdruck im Liegen und Stehen bitte morgen vergleichen.",
+  "voice": "de-DE-KillianNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "dizziness standing, orthostatic suspicion"
+ },
+ {
+  "id": "note_98",
+  "text": "Zum Ausflug in den Stadtpark heute Nachmittag. Herr Walter und Herr Petrov waren beide dabei, mit dem Kleinbus, die Stimmung war super. Beim Aussteigen hat Herr Walter allerdings den Tritt verfehlt und ist gegen die Tür getaumelt, die Betreuerin konnte ihn halten, passiert ist nichts, aber der Schreck saß tief und er wollte danach erstmal zehn Minuten sitzen bleiben. Im Park selbst lief alles gut, Eis gegessen, Enten gefüttert. Auf dem Rückweg hat Herr Walter dann gesagt, ihm sei das peinlich gewesen und er wolle beim nächsten Mal lieber nicht mehr mit. Das wäre schade, bitte im Team überlegen, wie wir ihm die Angst nehmen, vielleicht mit dem niedrigeren Einstieg beim anderen Bus.",
+  "voice": "de-DE-ConradNeural",
+  "rate": "+0%",
+  "length": "lang",
+  "edge_case": "two residents, shared outing, both with findings — main resident chosen"
+ },
+ {
+  "id": "note_99",
+  "text": "Frau Groß hatte einen unauffälligen Tag, die Stelle am Rücken ist heute blasser als gestern, Lagerung läuft nach Plan.",
+  "voice": "de-DE-KatjaNeural",
+  "rate": "+0%",
+  "length": "kurz",
+  "edge_case": "all-clear"
+ },
+ {
+  "id": "note_100",
+  "text": "Erster Tag von Herrn Castellano bei uns. Der Einzug lief ruhig, die Familie hat beim Einrichten geholfen und ist gegen siebzehn Uhr gegangen. Er wirkt noch sehr zurückhaltend, hat auf dem Zimmer gegessen und möchte vorerst nicht in den Speisesaal. Seine Medikamentenliste vom Hausarzt liegt vor und ist ins System übertragen. Nachts hat er geklingelt, weil er den Lichtschalter nicht gefunden hat, wir haben ihm ein Nachtlicht hingestellt. Bitte in den nächsten Tagen behutsam Kontaktangebote machen.",
+  "voice": "de-CH-JanNeural",
+  "rate": "+0%",
+  "length": "mittel",
+  "edge_case": "new admission first-day summary"
+ }
+]

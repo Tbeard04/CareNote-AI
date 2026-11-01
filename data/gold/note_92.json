@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Seidel",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Dekubitus linke Ferse heilt: Durchmesser unter 1 cm, Wundgrund sauber rosig.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "heilt weiter gut, der Durchmesser ist unter einen Zentimeter geschrumpft und der Wundgrund ist sauber rosig",
+   "measurement": null
+  },
+  {
+   "text": "Verbandswechsel nach Plan erfolgt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Verband gewechselt nach Plan",
+   "measurement": null
+  },
+  {
+   "text": "Freilagerung mit neuem Kissen deutlich verbessert.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Freilagerung klappt mit dem neuen Kissen deutlich besser als vorher",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Der Dekubitus an der linken Ferse",
+   "note": "bestehender Dekubitus in Abheilung"
+  }
+ ],
+ "follow_up_actions": [
+  "Nächster Verbandswechsel am Donnerstag."
+ ]
+}

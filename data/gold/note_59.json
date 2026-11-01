@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Huber",
+ "time_mention": "heut",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Aktive Teilnahme am Kegeln im Garten.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "der hat beim Kegeln im Garten mitgmacht",
+   "measurement": null
+  },
+  {
+   "text": "Danach starke Erschöpfung, beim Kaffee fast eingenickt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "hinterher war er arg kaputt und ist beim Kaffee fast eingenickt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Morgen das Aktivierungsprogramm etwas kürzer halten."
+ ]
+}

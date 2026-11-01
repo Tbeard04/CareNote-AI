@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Simon",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Sehr still, Teilnahme am Gedächtnistraining verweigert, sonst ihr Lieblingstermin.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "war heute sehr still und hat beim Gedächtnistraining nicht mitgemacht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

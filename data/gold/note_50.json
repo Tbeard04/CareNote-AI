@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Herr Novak",
+ "time_mention": "heute Mittag und Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Mittags und abends fast nichts gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat heute Mittag und Abend fast nichts gegessen",
+   "measurement": null
+  },
+  {
+   "text": "Untere Prothese drückt seit Tagen, Kauen schmerzt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die untere Prothese drückt seit ein paar Tagen und das Kauen tut weh",
+   "measurement": null
+  },
+  {
+   "text": "Auf weiche Kost umgestellt, besser toleriert.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Wir haben auf weiche Kost umgestellt, das ging besser",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "das Kauen tut weh",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Zahnarzttermin machen, Prothese anpassen lassen."
+ ]
+}

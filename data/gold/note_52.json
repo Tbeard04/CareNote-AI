@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Groß",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rote Hautstelle am unteren Rücken, ca. zwei Euro groß, wegdrückbar nicht — bleibt rot.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "am Rücken unten eine rote Stelle, ungefähr so groß wie Zwei-Euro-Stück",
+   "measurement": null
+  },
+  {
+   "text": "Seitenlagerung begonnen, Kollegin informiert.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich legen sie dann mehr auf die Seite und sagen Kollegin Bescheid",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Wenn ich drücken, es nicht weggehen, bleiben rot",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Heute Abend die Stelle wieder anschauen."
+ ]
+}

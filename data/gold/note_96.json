@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Brunner",
+ "time_mention": "heut",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Fast zwei Stunden Gartenaktivität, sehr engagiert.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "hat die Tomaten aufgebunden und war ganz in ihrem Element",
+   "measurement": null
+  },
+  {
+   "text": "Sonnenbrand im Nacken, gerötet ohne Blasen, After-Sun aufgetragen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "hat sie sich dabei den Nacken verbrannt, wir haben es erst beim Abendessen gemerkt, die Haut ist gerötet aber ohne Blasen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Beim nächsten Gartentermin an Sonnenhut und Eincremen denken."
+ ]
+}

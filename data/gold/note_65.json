@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Frau Seidel",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Wechseldruckmatratze eingebaut und eingestellt, liegt nach eigener Aussage deutlich bequemer.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Wechseldruckmatratze ist eingebaut und eingestellt, Frau Seidel liegt nach eigener Aussage deutlich bequemer",
+   "measurement": null
+  },
+  {
+   "text": "Fersen frei gelagert, Hautkontrolle unauffällig.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Fersen sind jetzt frei gelagert. Hautkontrolle heute unauffällig",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Petrova",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rückenschmerzen abgeklungen, wieder Alltagsaktivität (Stricken).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Rückenschmerzen sind weg, sie hat sogar wieder gestrickt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

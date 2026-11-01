@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Lombardi",
+ "time_mention": "heute Nacht",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Zweimal nächtliches Durchschwitzen, Wäschewechsel nötig, kein Fieber.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "war heute Nacht zweimal komplett durchgeschwitzt, wir haben Bettwäsche und Schlafanzug gewechselt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "In der Übergabe erwähnen, falls es wieder vorkommt."
+ ]
+}

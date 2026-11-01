@@ -1,0 +1,36 @@
+{
+ "resident_ref": "Herr Weiß",
+ "time_mention": "heute um elf",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rückkehr aus dem Krankenhaus, neuer Blutverdünner, Medikationsplan aktualisiert.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "neu ist ein Blutverdünner, den Plan habe ich schon eingetragen",
+   "measurement": null
+  },
+  {
+   "text": "Wackelig auf den Beinen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er ist noch wackelig auf den Beinen",
+   "measurement": null
+  },
+  {
+   "text": "Deutlich abgenommen, laut Entlassbrief vier Kilo.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "deutlich dünner geworden, laut Brief hat er vier Kilo verloren",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Er ist noch wackelig auf den Beinen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Heute nur mit Begleitung laufen lassen.",
+  "Beim Abendessen eine Extraportion anbieten."
+ ]
+}

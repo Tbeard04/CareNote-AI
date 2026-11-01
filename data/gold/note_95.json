@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Frau Lorenz",
+ "time_mention": "irgendwann im Laufe des Vormittags",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Augentropfen verabreicht, genauer Zeitpunkt nicht dokumentiert (vor dem Mittagessen).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "hat irgendwann im Laufe des Vormittags ihre Augentropfen bekommen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Künftig die Uhrzeit der Gabe direkt eintragen."
+ ]
+}

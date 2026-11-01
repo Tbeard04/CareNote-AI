@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Yildiz",
+ "time_mention": "seit dem Frühstück",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Brille seit dem Frühstück verschwunden, Zimmer und Speisesaal erfolglos abgesucht.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Die Brille von Herrn Yildiz ist seit dem Frühstück verschwunden, wir haben das Zimmer und den Speisesaal abgesucht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Weitersuchen.",
+  "Sonst die Tochter wegen der Ersatzbrille anrufen."
+ ]
+}

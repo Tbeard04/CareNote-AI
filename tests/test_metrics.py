@@ -125,7 +125,7 @@ def test_aggregate_groups_by_provider_and_condition() -> None:
 def test_gold_files_are_internally_consistent() -> None:
     root = Path(__file__).parent.parent / "data"
     gold_files = sorted((root / "gold").glob("note_*.json"))
-    assert len(gold_files) == 16
+    assert len(gold_files) == 100
     for gold_path in gold_files:
         gold = CareNote.model_validate_json(gold_path.read_text(encoding="utf-8"))
         script = (root / "scripted" / f"{gold_path.stem}.txt").read_text(encoding="utf-8")

@@ -1,0 +1,33 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": "um siebzehn Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unterzucker mit Blutzucker 58.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "hatte um siebzehn Uhr einen Unterzucker, Blutzucker achtundfünfzig",
+   "measurement": {
+    "value": 58,
+    "unit": "mg/dl"
+   }
+  },
+  {
+   "text": "Nach Traubenzucker und Saft nach zwanzig Minuten Wert 110.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Traubenzucker und Saft gegeben, nach zwanzig Minuten wieder bei hundertzehn",
+   "measurement": {
+    "value": 110,
+    "unit": "mg/dl"
+   }
+  },
+  {
+   "text": "Abendessen vollständig gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Abendessen hat er komplett gegessen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

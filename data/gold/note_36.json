@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Walter",
+ "time_mention": "heute Vormittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Vormittags problemlos mit Rollator bis in den Garten gelaufen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "ist heute Vormittag ohne Probleme mit dem Rollator bis in den Garten gelaufen",
+   "measurement": null
+  },
+  {
+   "text": "Nachmittags plötzlich Aufstehen unmöglich, Beine tragen nicht, Rücktransport im Rollstuhl.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Am Nachmittag konnte er dann plötzlich gar nicht mehr aufstehen und sagte, die Beine tragen ihn nicht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "konnte er dann plötzlich gar nicht mehr aufstehen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Morgen unbedingt dem Arzt vorstellen."
+ ]
+}

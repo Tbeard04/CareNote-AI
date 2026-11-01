@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Maier",
+ "time_mention": "heut",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Duschen erneut abgelehnt, Waschung am Waschbecken zugelassen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "wollt heut wieder partout net duschen",
+   "measurement": null
+  },
+  {
+   "text": "Dritte Woche ohne Dusche.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Des is jetzt die dritte Woch ohne Duschen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bezugspflegerin soll am Montag nochmal mit ihm reden."
+ ]
+}

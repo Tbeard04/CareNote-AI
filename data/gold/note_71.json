@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Öztürk",
+ "time_mention": "morgens",
+ "entry_type": "vitalwert_messung",
+ "observations": [
+  {
+   "text": "Blutdruck morgens 132 zu 84.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "morgens hundertzweiunddreißig zu vierundachtzig",
+   "measurement": {
+    "value": 132,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Blutdruck abends 128 zu 80.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "abends hundertachtundzwanzig zu achtzig",
+   "measurement": {
+    "value": 128,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Kein Schwindel, zweimal sicher allein aufgestanden.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Kein Schwindel mehr heute, sie ist zweimal sicher allein aufgestanden",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Werte am Freitag dem Arzt vorlegen."
+ ]
+}

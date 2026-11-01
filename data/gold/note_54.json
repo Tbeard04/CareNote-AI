@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Ivanova",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Beim Stützen des stolpernden Herrn Weiß beinahe mitgestürzt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "hat heute beim Spaziergang Herrn Weiß gestützt, als er gestolpert ist, dabei ist sie selbst beinahe mit umgefallen",
+   "measurement": null
+  },
+  {
+   "text": "Danach erschrocken, Puls spürbar erhöht; nach 30 Minuten Ruhe wieder wohlauf.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Ivanova war danach ziemlich erschrocken und ihr Puls war spürbar hoch",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "dabei ist sie selbst beinahe mit umgefallen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Künftig bei Spaziergängen des Paares eine Begleitung mitschicken."
+ ]
+}

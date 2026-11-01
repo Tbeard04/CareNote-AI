@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Frau Albrecht",
+ "time_mention": "Heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Nach telefonischer Besuchsabsage des Sohnes über eine Stunde geweint, wollte nicht getröstet werden.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "dass er den geplanten Besuch am Wochenende schon wieder absagen muss, und danach hat sie über eine Stunde geweint",
+   "measurement": null
+  },
+  {
+   "text": "Abendessen stehen lassen, nur Nachtisch gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat auch das Abendessen stehen lassen, nur den Nachtisch hat sie gegessen",
+   "measurement": null
+  },
+  {
+   "text": "Beim gemeinsamen Fotoanschauen beruhigt, später gelacht.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "haben wir zusammen alte Fotos angeschaut, da wurde sie ruhiger und hat sogar gelacht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Morgen besonders aufmerksam sein.",
+  "Eventuell die Seelsorgerin informieren."
+ ]
+}

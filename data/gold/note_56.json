@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Winkler",
+ "time_mention": "seit gestern",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Ständiges Kratzen an beiden Unterarmen, Haut trocken, Kratzspuren sichtbar.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "kratzt sich seit gestern ständig an beiden Unterarmen, die Haut ist trocken und man sieht schon Kratzspuren",
+   "measurement": null
+  },
+  {
+   "text": "Rückfettende Lotion laut Pflegeplan zweimal aufgetragen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Wir haben die rückfettende Lotion aus dem Pflegeplan zweimal aufgetragen",
+   "measurement": null
+  },
+  {
+   "text": "Juckreiz nachts am stärksten.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie sagt, nachts ist das Jucken am schlimmsten",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Wenn bis Montag keine Besserung, Hautarzttermin anfragen."
+ ]
+}

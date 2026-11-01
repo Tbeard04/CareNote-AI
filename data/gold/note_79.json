@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Krüger",
+ "time_mention": "seit einer Woche",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unter neuem Schlafmittel gutes Einschlafen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Einschlafen klappt jetzt gut",
+   "measurement": null
+  },
+  {
+   "text": "Morgens kaum wach zu bekommen, beim Frühstück zweimal fast mit dem Kopf auf den Tisch gesackt — neue Tagesmüdigkeit.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "morgens kommt sie kaum in die Gänge, beim Frühstück ist sie zweimal fast mit dem Kopf auf den Tisch gesackt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "zweimal fast mit dem Kopf auf den Tisch gesackt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Beim Arzt ansprechen, ob die Dosis zu hoch ist."
+ ]
+}

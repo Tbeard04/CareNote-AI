@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Keller",
+ "time_mention": "Nach dem Besuch ihres Bruders",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Nach Streit mit dem Bruder sehr aufgewühlt, Herzklopfen angegeben.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "war Frau Keller sehr aufgewühlt, die beiden hatten wohl Streit ums Erbe",
+   "measurement": null
+  },
+  {
+   "text": "Blutdruck 160 zu 95.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck war hundertsechzig zu fünfundneunzig",
+   "measurement": {
+    "value": 160,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Nach einer Stunde Ruhe Blutdruck 140 zu 85.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nach einer Stunde Ruhe im Zimmer wieder hundertvierzig zu fünfundachtzig",
+   "measurement": {
+    "value": 140,
+    "unit": "mmHg"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Betreuerin über den Erbstreit informieren."
+ ]
+}

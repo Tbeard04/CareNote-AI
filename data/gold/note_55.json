@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Steiner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Marcumar-Vorrat reicht nur bis Samstag.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Marcumar-Tabletten von Herrn Steiner reichen nur noch bis Samstag",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Rezept diese Woche in die Apotheke bringen."
+ ]
+}

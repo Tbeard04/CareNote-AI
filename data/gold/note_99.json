@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Groß",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Hautstelle am Rücken blasser als am Vortag, Lagerung nach Plan.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Stelle am Rücken ist heute blasser als gestern, Lagerung läuft nach Plan",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

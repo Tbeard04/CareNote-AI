@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Scholz",
+ "time_mention": "Am Nachmittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Podologische Versorgung erfolgt, eingewachsener Nagel am rechten großen Zeh deutlich gebessert.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "der eingewachsene Nagel am großen Zeh rechts sieht viel besser aus als vor vier Wochen",
+   "measurement": null
+  },
+  {
+   "text": "Beim Basteln mehrfach den Faden verloren, dieselbe Frage dreimal gestellt — neu für sie.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "hat Frau Scholz mehrfach den Faden verloren und dieselbe Frage drei Mal gestellt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Konzentrationsauffälligkeit beobachten und ins Übergabebuch aufnehmen."
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": "Heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Besteht auf Injektionsstelle Bauch links; Stelle bereits verhärtet.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "will sich das Insulin neuerdings nur noch in den Bauch links spritzen lassen, die Stelle ist schon verhärtet",
+   "measurement": null
+  },
+  {
+   "text": "Nach Demonstration am Modell Injektion rechts zugelassen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Heute hat er die Injektion rechts dann doch zugelassen, als die Kollegin es ihm am Modell gezeigt hat",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Beim Spritzstellenwechsel dranbleiben.",
+  "Verhärtete Stelle beobachten."
+ ]
+}

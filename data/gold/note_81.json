@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Erbsengroße, geschlossene Blase an der rechten Ferse — bei Diabetes riskant.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "eine kleine Blase an der rechten Ferse aufgefallen, etwa erbsengroß, nicht offen",
+   "measurement": null
+  },
+  {
+   "text": "Druckentlastung, weiche Socken, Steinchen im Schuh gefunden und entfernt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Druckentlastung ist drin, wir haben weiche Socken angezogen und die Schuhe kontrolliert, da war ein Steinchen drin",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "eine kleine Blase an der rechten Ferse",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Ferse täglich kontrollieren.",
+  "Beim Diabetologen-Termin nächste Woche zeigen."
+ ]
+}

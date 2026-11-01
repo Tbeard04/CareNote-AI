@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Herr Schneider",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unruhe angegeben.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "hat über Unruhe geklagt",
+   "measurement": null
+  },
+  {
+   "text": "Bedarfsmedikation verabreicht (Angabe unspezifisch), danach Besserung.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "ich hab ihm die Bedarfsmedikation gegeben wie immer, danach ging es besser",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

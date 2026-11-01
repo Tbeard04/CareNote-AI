@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Hartmann",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Nach Absetzen der Übelkeitstropfen wieder normales Essverhalten, Nachschlag beim Mittagessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "isst Frau Hartmann wieder normal, heute sogar Nachschlag beim Mittagessen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

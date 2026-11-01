@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Brandt",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Bei der Grundpflege nach der Hand geschlagen, Bestehlungsvorwurf geäußert — erstmalig.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "hat heute Morgen bei der Grundpflege plötzlich nach meiner Hand geschlagen und geschimpft, wir würden ihn bestehlen",
+   "measurement": null
+  },
+  {
+   "text": "Nach Unterbrechung und Wiederkommen zu zweit Pflege ruhig zugelassen, entschuldigte sich.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "nach zehn Minuten mit einer Kollegin wiedergekommen, dann ließ er alles ruhig zu und hat sich sogar entschuldigt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Dokumentieren, ob sich das Verhalten wiederholt."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Maier",
+ "time_mention": "nach dem Mittagsschlaf",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Beim schnellen Aufstehen Schwarzwerden vor Augen, am Schrank abgefangen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "war beim schnellen Aufstehen nach dem Mittagsschlaf schwarz vor Augen, er hat sich am Schrank abgefangen",
+   "measurement": null
+  },
+  {
+   "text": "Langsames Aufstehen in Etappen wird geübt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Wir üben jetzt das langsame Aufstehen in Etappen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "schwarz vor Augen, er hat sich am Schrank abgefangen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Morgen Blutdruck im Liegen und Stehen vergleichen."
+ ]
+}

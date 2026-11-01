@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Lorenz",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Starke Rückenschmerzen beim Lagern, selbst eingeschätzt mit 7 von 10.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "hat beim Lagern über starke Schmerzen im Rücken geklagt, sie schätzt sie auf sieben von zehn",
+   "measurement": null
+  },
+  {
+   "text": "Schmerztablette abgelehnt wegen Übelkeit, Wärmflasche angenommen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die angebotene Schmerztablette hat sie abgelehnt, sie sagt, davon wird ihr immer schlecht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "über starke Schmerzen im Rücken geklagt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Mit dem Arzt über eine Alternative zur Schmerztablette sprechen."
+ ]
+}

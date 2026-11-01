@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Esposito",
+ "time_mention": "seit gestern",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verstopfung seit gestern, heute kein Stuhlgang.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "klagt seit gestern über Verstopfung, heute wieder kein Stuhlgang",
+   "measurement": null
+  },
+  {
+   "text": "Verordnetes Macrogol gegeben, Trinken angeboten.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich habe ihm das verordnete Macrogol gegeben und viel zu trinken angeboten",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Wenn bis morgen Abend kein Stuhlgang, Arzt informieren."
+ ]
+}

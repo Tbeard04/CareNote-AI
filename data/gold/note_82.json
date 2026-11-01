@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Frau Simon",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Tochter beschwerte sich telefonisch über verpasste Gymnastik; Bewohnerin hatte selbst nicht teilnehmen wollen (Müdigkeit). Büronummer weitergegeben.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Die Tochter von Frau Simon heute anrufen und sehr böse sein, warum Mutter gestern nicht bei Gymnastik war",
+   "measurement": null
+  },
+  {
+   "text": "Heute gute Stimmung, Teilnahme an der Gymnastik.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Frau Simon selber heute gut drauf, bei Gymnastik dabei",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

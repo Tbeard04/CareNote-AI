@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Frau Sand",
+ "time_mention": "heute früh",
+ "entry_type": "vitalwert_messung",
+ "observations": [
+  {
+   "text": "Temperatur 36,8 — wieder normal, Wohlbefinden gut.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Temperatur heute früh sechsunddreißig Komma acht",
+   "measurement": {
+    "value": 36.8,
+    "unit": "°C"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Frau Martin",
+ "time_mention": "heute Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unterschenkel deutlich geschwollen, Dellen vom Strumpfbund sichtbar.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "sind die Unterschenkel heute Abend deutlich geschwollen, man sieht die Dellen vom Strumpfbund",
+   "measurement": null
+  },
+  {
+   "text": "Kompressionsstrümpfe heute nicht getragen, Anziehen schmerzt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Kompressionsstrümpfe hat sie heute nicht getragen, sie sagt, das Anziehen tut ihr weh",
+   "measurement": null
+  },
+  {
+   "text": "Beine hochgelagert.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beine sind hochgelagert",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Morgen beim Anziehen der Kompressionsstrümpfe helfen.",
+  "Schwellung dem Arzt melden, wenn sie nicht zurückgeht."
+ ]
+}

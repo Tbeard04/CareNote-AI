@@ -1,0 +1,59 @@
+{
+ "resident_ref": "Herr Costa",
+ "time_mention": "heute Nachmittag gegen fünfzehn Uhr vierzig",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Beobachteter Sturz im Flur, vermutlich über die Teppichkante, seitlich gefallen, kein Kopfaufprall.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "im Flur vor seinem Zimmer gestürzt, vermutlich über die Teppichkante",
+   "measurement": null
+  },
+  {
+   "text": "Schmerzen in der linken Hüfte, Stehen und wenige Schritte möglich.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Er klagt über Schmerzen in der linken Hüfte, kann aber stehen und ein paar Schritte gehen",
+   "measurement": null
+  },
+  {
+   "text": "Blutdruck nach dem Sturz 150 zu 88.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck nach dem Sturz hundertfünfzig zu achtundachtzig",
+   "measurement": {
+    "value": 150,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Puls 78.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Puls achtundsiebzig",
+   "measurement": {
+    "value": 78,
+    "unit": "pro Minute"
+   }
+  },
+  {
+   "text": "Hausarzt informiert, Sturzprotokoll ausgefüllt, Teppichkante provisorisch fixiert.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Hausarzt ist informiert und kommt morgen früh vorbei. Sturzprotokoll ist ausgefüllt, die Teppichkante haben wir erstmal mit Klebeband fixiert",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "im Flur vor seinem Zimmer gestürzt",
+   "note": null
+  },
+  {
+   "risk": "schmerz",
+   "evidence_span": "Er klagt über Schmerzen in der linken Hüfte",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Heute Nacht zweistündlich nach ihm sehen.",
+  "Bei stärkeren Schmerzen sofort den Notdienst rufen."
+ ]
+}

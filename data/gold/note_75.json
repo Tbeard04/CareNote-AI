@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Petrov",
+ "time_mention": "heute Abend",
+ "entry_type": "risiko_beobachtung",
+ "observations": [
+  {
+   "text": "Im Abenddispenser zwei Marcumar statt einer vorgefunden; Tablette vor Ausgabe entfernt, Bewohner nicht gefährdet.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "dass im Dispenser von Herrn Petrov für heute Abend zwei Marcumar lagen statt einer. Ich habe die Tablette entfernt, bevor er sie bekommen hat",
+   "measurement": null
+  },
+  {
+   "text": "Wohnbereichsleitung informiert, Nachkontrolle aller Wochenend-Dispenser läuft.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich habe die Wohnbereichsleitung informiert und wir kontrollieren jetzt alle Dispenser vom Wochenende nach",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Vier-Augen-Prinzip beim Stellen der Medikamente wieder konsequent einhalten."
+ ]
+}

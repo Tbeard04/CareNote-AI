@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr vom Achter",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Wäsche selbst zusammengelegt, möchte beim Tischdecken helfen — wird feste Aufgabe.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat heute seine Wäsche selbst zusammengelegt und wollte unbedingt beim Tischdecken helfen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Tischdecken als feste Aufgabe einplanen."
+ ]
+}

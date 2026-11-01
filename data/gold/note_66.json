@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Frau Lang",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Beim Aufstehen vom Sofa aufs Gesäß gerutscht, mit Hilfe sofort wieder aufgestanden, keine Schmerzen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "ist beim Aufstehen vom Sofa aufs Gesäß gerutscht, sie konnte mit Hilfe gleich wieder aufstehen und hat keine Schmerzen",
+   "measurement": null
+  },
+  {
+   "text": "Sturzprotokoll angelegt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sturzprotokoll ist angelegt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "ist beim Aufstehen vom Sofa aufs Gesäß gerutscht",
+   "note": null
+  }
+ ],
+ "follow_up_actions": []
+}

@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Herr Costa",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Beschwerdefrei, Hüfte ohne Probleme, mit Rollator im Garten unterwegs.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "heute beschwerdefrei, die Hüfte macht ihm keine Probleme mehr, er war mit dem Rollator im Garten",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

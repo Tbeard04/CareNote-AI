@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Castellano",
+ "time_mention": "Erster Tag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Sehr zurückhaltend, isst auf dem Zimmer, möchte vorerst nicht in den Speisesaal.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Er wirkt noch sehr zurückhaltend, hat auf dem Zimmer gegessen und möchte vorerst nicht in den Speisesaal",
+   "measurement": null
+  },
+  {
+   "text": "Medikamentenliste des Hausarztes liegt vor und ist übertragen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Seine Medikamentenliste vom Hausarzt liegt vor und ist ins System übertragen",
+   "measurement": null
+  },
+  {
+   "text": "Nachts geklingelt (Lichtschalter nicht gefunden), Nachtlicht bereitgestellt.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Nachts hat er geklingelt, weil er den Lichtschalter nicht gefunden hat, wir haben ihm ein Nachtlicht hingestellt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "In den nächsten Tagen behutsam Kontaktangebote machen."
+ ]
+}

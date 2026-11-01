@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Walter",
+ "time_mention": "heute Nachmittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Beim Aussteigen aus dem Kleinbus Tritt verfehlt, gegen die Tür getaumelt, von Betreuerin gehalten — unverletzt, aber deutlich erschrocken.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "hat Herr Walter allerdings den Tritt verfehlt und ist gegen die Tür getaumelt, die Betreuerin konnte ihn halten",
+   "measurement": null
+  },
+  {
+   "text": "Äußerte Scham und möchte beim nächsten Ausflug nicht mehr mitfahren.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "ihm sei das peinlich gewesen und er wolle beim nächsten Mal lieber nicht mehr mit",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "den Tritt verfehlt und ist gegen die Tür getaumelt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Im Team überlegen, wie ihm die Angst genommen werden kann, eventuell Bus mit niedrigerem Einstieg."
+ ]
+}

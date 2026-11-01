@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Richter",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Zweimal starkes Husten beim Trinken, Verdacht auf Verschlucken.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "heute beim Essen zwei Mal stark husten, wenn sie trinken",
+   "measurement": null
+  },
+  {
+   "text": "Wasser mit Verdickung gereicht, besser toleriert.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Ich geben dann das Wasser mit Verdickung, das gehen besser",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Logopädie fragen, ob ein Schlucktest nötig ist."
+ ]
+}

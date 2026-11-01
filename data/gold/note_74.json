@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Herr Steiner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Erster Enkelbesuch seit Monaten, zwei Stunden Schach, gehobene Stimmung den ganzen Abend.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "war zum ersten Mal seit Monaten da, die beiden haben zwei Stunden Schach gespielt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

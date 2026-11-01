@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Dimitrova",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Hörgerät rechts ausgefallen, Batterie leer, keine Ersatzbatterien vorrätig.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "ist das Hörgerät rechts schon wieder ausgefallen, die Batterie war leer und wir haben gerade keine Ersatzbatterien mehr da",
+   "measurement": null
+  },
+  {
+   "text": "Rückzug beim Mittagstisch, da sie nichts verstanden hat.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Sie hat sich beim Mittagstisch zurückgezogen, weil sie nichts verstanden hat",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Morgen Batterien aus dem Lager holen."
+ ]
+}
