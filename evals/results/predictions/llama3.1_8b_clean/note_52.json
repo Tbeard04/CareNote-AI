@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Frau Groß",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "rote Stelle am Rücken unten",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Ich heute beim Waschen sehen bei Frau Groß am Rücken unten eine rote Stelle, ungefähr so groß wie Zwei-Euro-Stück.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "heute Abend wieder schauen"
+ ]
+}

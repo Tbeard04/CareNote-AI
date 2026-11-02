@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Frau Scholz",
+ "time_mention": "Morgens, Am späten Vormittag, Mittagessen, Am Nachmittag, Abends",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Fadenverlust und Wiederholung von Fragen beim Basteln",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Am Nachmittag beim Basteln hat Frau Scholz mehrfach den Faden verloren und dieselbe Frage drei Mal gestellt, das kannte ich von ihr so noch nicht, sonst ist sie geistig topfit.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Die Konzentrationssache vom Nachmittag würde ich erstmal nur beobachten, aber bitte mit ins Übergabebuch nehmen"
+ ]
+}

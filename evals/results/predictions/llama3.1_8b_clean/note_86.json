@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verhärtete Stelle nach Insulininjektion",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "die Stelle ist schon verhärtet",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "die Stelle ist schon verhärtet",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "die verhärtete Stelle beobachten"
+ ]
+}

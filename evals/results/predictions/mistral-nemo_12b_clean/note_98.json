@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Herr Walter",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Walter hat beim Aussteigen den Tritt verfehlt und ist gegen die Tür getaumelt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Walter hat allerdings den Tritt verfehlt und ist gegen die Tür getaumelt",
+   "measurement": null
+  },
+  {
+   "text": "Herr Walter wollte nach dem Vorfall erstmal zehn Minuten sitzen bleiben.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "und er wollte danach erstmal zehn Minuten sitzen bleiben",
+   "measurement": null
+  },
+  {
+   "text": "Herr Walter hat gesagt, ihm sei das peinlich gewesen und er wolle beim nächsten Mal lieber nicht mehr mit.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "auf dem Rückweg hat Herr Walter dann gesagt, ihm sei das peinlich gewesen und er wolle beim nächsten Mal lieber nicht mehr mit",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Herr Walter hat allerdings den Tritt verfehlt und ist gegen die Tür getaumelt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Im Team überlegen, wie wir Herrn Walter die Angst nehmen, vielleicht mit dem niedrigeren Einstieg beim anderen Bus."
+ ]
+}

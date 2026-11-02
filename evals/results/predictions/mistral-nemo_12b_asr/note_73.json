@@ -1,0 +1,42 @@
+{
+ "resident_ref": "Frau Jansen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Jansen muss ständig auf die Toilette.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Bei Frau Jansen ist seit heute Vormittag einiges anders. Sie muss ständig auf die Toilette",
+   "measurement": null
+  },
+  {
+   "text": "Frau Jansen hat Schmerzen beim Wasserlassen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "es brennt wohl beim Wasser lassen",
+   "measurement": null
+  },
+  {
+   "text": "Frau Jansen wirkt verwirrt und hat mich zweimal mit ihrer Schwester verwechselt.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "und sie wirkt verwirrter als sonst, hat mich zweimal mit ihrer Schwester verwechselt",
+   "measurement": null
+  },
+  {
+   "text": "Frau Jansen hat eine erhöhte Temperatur von 37,6 Grad.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Temperatur 37,6",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "es brennt wohl beim Wasser lassen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "morgen früh Urinprobe machen",
+  "den Arzt anrufen"
+ ]
+}

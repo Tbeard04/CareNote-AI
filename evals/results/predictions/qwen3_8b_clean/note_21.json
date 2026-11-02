@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Esposito",
+ "time_mention": "gestern",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verstopfung",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Esposito klagt seit gestern über Verstopfung, heute wieder kein Stuhlgang.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Wenn bis morgen Abend nichts kommt, bitte den Arzt informieren."
+ ]
+}

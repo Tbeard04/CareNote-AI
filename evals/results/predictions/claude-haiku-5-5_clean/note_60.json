@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": "um siebzehn Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unterzucker um 17 Uhr, Blutzucker 58 (Einheit nicht genannt). Traubenzucker und Saft gegeben, nach 20 Minuten Wert 110 (Einheit nicht genannt).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Hansen hatte um siebzehn Uhr einen Unterzucker, Blutzucker achtundfünfzig",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herr Mayer",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "schwarz vor Augen",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Herr Mayer war beim schnellen Aufstehen nach dem Mittagsschlaf schwarz vor Augen",
+   "measurement": null
+  },
+  {
+   "text": "sich am Schrank abgefangen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Mayer war beim schnellen Aufstehen nach dem Mittagsschlaf schwarz vor Augen, er hat sich am Schrank abgefangen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Blutdruck im Liegen und stehen bitte morgen vergleichen",
+  "Übung des langsame Aufstehen in Etappen"
+ ]
+}

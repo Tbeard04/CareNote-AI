@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Herrn Hansen",
+ "time_mention": "heute früh",
+ "entry_type": "vitalwert_messung",
+ "observations": [
+  {
+   "text": "Blutzuckerwert heute früh 192 (Einheit nicht genannt).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutzucker bei Herrn Hansen heute früh nicht an 192.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

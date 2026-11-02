@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Herrn Hansen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Blase an der rechten Verse",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Beim Strünfinzin ist mir bei Herrn Hansen eine kleine Blase an der rechten Verse aufgefallen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Beim Strünfinzin ist mir bei Herrn Hansen eine kleine Blase an der rechten Verse aufgefallen",
+   "note": "Als Diabetiker ist das bei ihm heikel"
+  }
+ ],
+ "follow_up_actions": [
+  "Druckentlastung ist drin",
+  "weiche Socken angezogen",
+  "die Schuhe kontrolliert",
+  "Bitte täglich die Verse kontrollieren",
+  "beim Diabetologentermin nächste Woche zeigen"
+ ]
+}

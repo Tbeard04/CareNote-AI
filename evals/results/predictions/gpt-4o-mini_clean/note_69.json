@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Wagner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Kräftemäßig braucht sie beim Aufstehen noch Hilfe, aber deutlich weniger als letzte Woche.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Kräftemäßig braucht sie beim Aufstehen noch Hilfe, aber deutlich weniger als letzte Woche.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,16 @@
+{
+ "resident_ref": "Frau Brunner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "hat heute nur etwa einen Halbenliter geschafft, obwohl wir dreimal aktiv angeboten haben.",
+   "note": "zweiter Tag in Folge mit so wenig"
+  }
+ ],
+ "follow_up_actions": [
+  "Trinkprotokoll läuft weiter"
+ ]
+}

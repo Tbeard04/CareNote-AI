@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Ott",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verständigung mit Herrn Ott durch die neue Bildtafel deutlich verbessert.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "klappt die Verständigung mit Herrn Ott deutlich besser",
+   "measurement": null
+  },
+  {
+   "text": "Herr Ott zeigt selbstständig Durst an.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "er hat heute selbstständig Durst angezeigt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bildtafel immer griffbereit am Bett lassen"
+ ]
+}

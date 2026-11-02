@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": "um siebzehn Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unterzucker mit anschließender Blutzuckersteigerung nach Zuckergabe",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Achtung, Herr Hansen hatte um siebzehn Uhr einen Unterzucker, Blutzucker achtundfünfzig. Traubenzucker und Saft gegeben, nach zwanzig Minuten wieder bei hundertzehn.",
+   "measurement": {
+    "value": 85.0,
+    "unit": "mg/dl"
+   }
+  },
+  {
+   "text": "Vollständiges Verzehr des Abendessens",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Abendessen hat er komplett gegessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

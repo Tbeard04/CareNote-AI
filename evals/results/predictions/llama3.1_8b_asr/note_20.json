@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Dimitro",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Hörgerät rechts ausgefallen",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "das Hörgerwald rechts schon wieder ausgefallen",
+   "measurement": null
+  },
+  {
+   "text": "Batterie leer",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "die Batterie war leer",
+   "measurement": null
+  },
+  {
+   "text": "keine Ersatzbatterien vorhanden",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "wir haben gerade keine Ersatzbatterien mehr da",
+   "measurement": null
+  },
+  {
+   "text": "Rückzug vom Mittagstisch",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Sie hat sich beim Mittagstisch zurückgezogen, weil sie nichts verstanden hat",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Batterien aus dem Lager holen"
+ ]
+}

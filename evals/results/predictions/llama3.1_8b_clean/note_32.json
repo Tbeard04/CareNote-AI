@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Herr Schneider",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Über Unruhe geklagt",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Herr Schneider hat über Unruhe geklagt",
+   "measurement": null
+  },
+  {
+   "text": "Besserung nach Bedarfsmedikation",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "danach ging es besser",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

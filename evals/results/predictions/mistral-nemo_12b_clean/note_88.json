@@ -1,0 +1,42 @@
+{
+ "resident_ref": "Herr Roth",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Roth hat sich beim Abendessen an einem Stück Fleisch verschluckt.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Beim Abendessen hat sich Herr Roth an einem Stück Fleisch verschluckt",
+   "measurement": null
+  },
+  {
+   "text": "Herr Roth hat stark gehustet und war kurz blau im Gesicht.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "er hat stark gehustet und war kurz blau im Gesicht",
+   "measurement": null
+  },
+  {
+   "text": "Nach festem Klopfen zwischen die Schulterblätter kam das Stück Fleisch raus.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Nach festem Klopfen zwischen die Schulterblätter kam das Stück raus",
+   "measurement": null
+  },
+  {
+   "text": "Herr Roth wollte unbedingt weiteressen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "dann hat er sich schnell erholt und wollte unbedingt weiteressen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Beim Abendessen hat sich Herr Roth an einem Stück Fleisch verschluckt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte ab sofort bei Fleischgerichten alles klein schneiden",
+  "beim Essen in der Nähe bleiben"
+ ]
+}

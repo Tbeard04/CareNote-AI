@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Kowalski",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Gewichtsabnahme",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Herr Kowalski heute gewogen, achtundsechzig Komma vier Kilo, das sind fast zwei Kilo weniger als letzten Monat.",
+   "measurement": {
+    "value": 86.4,
+    "unit": "kg"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

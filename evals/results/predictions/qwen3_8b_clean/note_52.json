@@ -1,0 +1,25 @@
+{
+ "resident_ref": "Frau Groß",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rote Stelle am Rücken unten",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich heute beim Waschen sehen bei Frau Groß am Rücken unten eine rote Stelle",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Ich heute beim Waschen sehen bei Frau Groß am Rücken unten eine rote Stelle, ungefähr so groß wie Zwei-Euro-Stück. Wenn ich drücken, es nicht weggehen, bleiben rot",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Ich legen sie dann mehr auf die Seite",
+  "sagen Kollegin Bescheid",
+  "Bitte heute Abend wieder schauen"
+ ]
+}

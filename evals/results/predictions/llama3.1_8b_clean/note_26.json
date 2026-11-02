@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Richter",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "stark husten beim Trinken",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Richter heute beim Essen zwei Mal stark husten, wenn sie trinken.",
+   "measurement": null
+  },
+  {
+   "text": "leichtes Verschlucken",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich glauben, sie verschlucken sich leicht.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte Logopädie fragen, ob Schlucktest nötig"
+ ]
+}

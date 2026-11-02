@@ -4,13 +4,13 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Starke Rückenschmerzen im Lendenbereich beim Aufstehen, Bewohnerin berichtet über sehr starke Schmerzen.",
+   "text": "Rückenschmerzen unten, besonders beim Aufstehen; Wärmekissen wirkt etwas.",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "der Rücken tut sehr weh, unten, wenn sie aufstehen",
    "measurement": null
   },
   {
-   "text": "Verweigerung der Nahrungsaufnahme beim Frühstück aufgrund der Schmerzen.",
+   "text": "Verweigert Frühstück aufgrund der Schmerzen.",
    "themenfeld": "selbstversorgung",
    "evidence_span": "Sie nicht wollen Frühstück essen deswegen",
    "measurement": null
@@ -20,10 +20,10 @@
   {
    "risk": "schmerz",
    "evidence_span": "der Rücken tut sehr weh, unten, wenn sie aufstehen",
-   "note": "Starke Schmerzen beim Aufstehen, Einfluss auf Essverhalten."
+   "note": "Starke Rückenschmerzen beim Aufstehen."
   }
  ],
  "follow_up_actions": [
-  "Bitte Doktor fragen wegen Schmerzmittel"
+  "Doktor fragen wegen Schmerzmittel"
  ]
 }

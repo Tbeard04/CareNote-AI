@@ -1,0 +1,36 @@
+{
+ "resident_ref": "Herr Novak",
+ "time_mention": "heute Mittag und Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Heute Mittag und Abend kaum Nahrungsaufnahme.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat heute Mittag und Abend fast nichts gegessen",
+   "measurement": null
+  },
+  {
+   "text": "Untere Prothese drückt seit einigen Tagen; Bewohner gibt an, es tue kaum weh.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die untere Prothese drückt seit ein paar Tagen",
+   "measurement": null
+  },
+  {
+   "text": "Umstellung auf weiche Kost; Essen ging daraufhin besser.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Wir haben auf weiche Kost umgestellt, das ging besser",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "es kaum tut weh",
+   "note": "Schmerzangabe im Zusammenhang mit der unteren Prothese."
+  }
+ ],
+ "follow_up_actions": [
+  "Termin beim Zahnarzt machen",
+  "Prothese anpassen lassen"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Lehmann",
+ "time_mention": "heute Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Lehmann wurde laut und hat mit dem Stock auf den Tisch geschlagen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Herr Lehmann wurde laut und hat mit dem Stock auf den Tisch geschlagen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte im Blick behalten, ob die Gereizzeit anhält."
+ ]
+}

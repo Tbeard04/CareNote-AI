@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Meier",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Widerstand gegen Duschen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "der Herr Meier wollt heute wieder Patune duschen, gel. Hab ihm gut zugeredet, aber er hat bloß gebrummt, lasst mich in Ruhe.",
+   "measurement": null
+  },
+  {
+   "text": "Duschen am Waschbecken zugelassen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Waschen am Waschbecken hat er dann zuglassen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "die Bezugspflegerin am Montag nochmal mit ihm reden"
+ ]
+}

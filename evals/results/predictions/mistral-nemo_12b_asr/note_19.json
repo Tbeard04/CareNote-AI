@@ -1,0 +1,15 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Blutzuckerwert bei Herrn Hansen heute früh nicht wie erwartet.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutzucker bei Herrn Hansen heute früh nicht an 192.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

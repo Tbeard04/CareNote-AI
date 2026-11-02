@@ -8,17 +8,21 @@
    "themenfeld": "selbstversorgung",
    "evidence_span": "Sie hat heute Mittag kaum etwas gegessen, vielleicht zwei, drei Löffelsuppe.",
    "measurement": null
+  },
+  {
+   "text": "Blutdruck war 145 zu 90.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck war 145 zu 90.",
+   "measurement": {
+    "value": 145.0,
+    "unit": "mmHg"
+   }
   }
  ],
  "risk_flags": [
   {
    "risk": "sturz",
    "evidence_span": "Beim Aufstehen vom Stuhl ist sie fast gestürzt, ich musste sie stützen.",
-   "note": null
-  },
-  {
-   "risk": "dehydration",
-   "evidence_span": "Sie hat heute Mittag kaum etwas gegessen, vielleicht zwei, drei Löffelsuppe.",
    "note": null
   }
  ],

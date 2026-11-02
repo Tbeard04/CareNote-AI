@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herr Roth",
+ "time_mention": "Beim Abendessen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verschlucktes Stück Fleisch",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beim Abendessen hat sich Herr Roth an einem Stück Fleisch verschluckt",
+   "measurement": null
+  },
+  {
+   "text": "Starker Husten und bläuliche Verfärbung des Gesichts",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "er hat stark gehustet und war kurz blau im Gesicht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Beim Abendessen hat sich Herr Roth an einem Stück Fleisch verschluckt",
+   "note": "Risiko durch verschlucktes Essen, das zu einem Sturz führen könnte"
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte ab sofort bei Fleischgerichten alles klein schneiden",
+  "beim Essen in der Nähe bleiben"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Herr Walter",
+ "time_mention": "heute Vormittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Walter ist heute Vormittag ohne Probleme mit dem Rollator bis in den Garten gelaufen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Walter ist heute Vormittag ohne Probleme mit dem Rollator bis in den Garten gelaufen.",
+   "measurement": null
+  },
+  {
+   "text": "Am Nachmittag konnte er dann plötzlich gar nicht mehr aufstehen und sagte, die Beine tragen ihn nicht.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Am Nachmittag konnte er dann plötzlich gar nicht mehr aufstehen und sagte, die Beine tragen ihn nicht.",
+   "measurement": null
+  },
+  {
+   "text": "Wir haben ihn mit dem Rollstuhl zurückgebracht.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Wir haben ihn mit dem Rollstuhl zurückgebracht.",
+   "measurement": null
+  },
+  {
+   "text": "Das sollte morgen unbedingt der Arzt sehen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Das sollte morgen unbedingt der Arzt sehen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Der Arzt soll morgen Herrn Walter sehen."
+ ]
+}

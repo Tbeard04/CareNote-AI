@@ -4,7 +4,7 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Herr Okavor hat beim Frühstück seine Tabletten nicht nehmen wollen, hat sie erst liegen lassen und dann nach langem Zureden doch genommen.",
+   "text": "Hat beim Frühstück seine Tabletten nicht nehmen wollen, hat sie erst liegen lassen und dann nach langem Zureden doch genommen.",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Herr Okavor hat beim Frühstück seine Tabletten nicht nehmen wollen, hat sie erst liegen lassen und dann nach langem Zureden doch genommen.",
    "measurement": null

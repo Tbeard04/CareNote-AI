@@ -1,0 +1,32 @@
+{
+ "resident_ref": "Herr Weiss",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Mobilisierungseinschränkung",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er ist noch wackelig auf der Beine",
+   "measurement": null
+  },
+  {
+   "text": "Körpergewichtsabnahme",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "deutlich dünner geworden",
+   "measurement": {
+    "value": 4.0,
+    "unit": "kg"
+   }
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Heute bitte nur mit Begleitung laufen lassen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Beim Abendessen eine extra Portion anbieten"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Hartmann",
+ "time_mention": "seit der Mittagsdosis",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Übelkeit seit der Mittagsdosis des neuen Antibiotikums.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "seit der Mittagsdosis vom neuen Antibiotikum übel",
+   "measurement": null
+  },
+  {
+   "text": "Einmaliges Erbrechen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "sie hat einmal erbrochen",
+   "measurement": null
+  },
+  {
+   "text": "Eingeschränkte Nahrungsaufnahme: nur Zwieback und Tee.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "danach nur Zwieback und Tee genommen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte morgen früh in der Praxis anrufen, ob sie es weiternehmen soll."
+ ]
+}

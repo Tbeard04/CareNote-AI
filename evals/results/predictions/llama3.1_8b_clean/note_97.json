@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herrn Maier",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "schwarz vor Augen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herrn Maier war beim schnellen Aufstehen nach dem Mittagsschlaf schwarz vor Augen",
+   "measurement": null
+  },
+  {
+   "text": "sich am Schrank abgefangen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herrn Maier war beim schnellen Aufstehen nach dem Mittagsschlaf schwarz vor Augen, er hat sich am Schrank abgefangen",
+   "measurement": null
+  },
+  {
+   "text": "langsame Aufstehen in Etappen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Wir üben jetzt das langsame Aufstehen in Etappen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Blutdruck im Liegen und Stehen bitte morgen vergleichen"
+ ]
+}

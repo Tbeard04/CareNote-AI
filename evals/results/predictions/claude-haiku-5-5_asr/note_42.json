@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Petrov",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Deutliche Atemnot beim Treppensteigen nach einem halben Stockwerk; Festhalten am Geländer und Pause nötig. Vor zwei Wochen noch kein Problem.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "beim Treppensteigen nach einem halben Stockwerk deutlich außer Atem",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Zeitnah dem Hausarzt melden"
+ ]
+}

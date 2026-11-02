@@ -1,0 +1,21 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Jilmas hat Überschmerzen im rechten Knie beim Laufen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Jilmas hat heute Morgen wieder Überschmerzen im rechten Knie geklagt, so beim Laufen, ne.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Herr Jilmas hat heute Morgen wieder Überschmerzen im rechten Knie geklagt, so beim Laufen, ne.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": []
+}

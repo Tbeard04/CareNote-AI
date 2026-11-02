@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Frau Wolff",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Wunde am rechten Unterschenkel hat gerötete Ränder und mehr Wundsekret als beim letzten Mal.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beim Verbandswechsel bei Frau Wolff sah die Wunde am rechten Unterschenkel heute schlechter aus, die Ränder sind gerötet und es kam mehr Wunnsäkert als beim letzten Mal.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte den Wundmanager noch diese Woche einschalten."
+ ]
+}

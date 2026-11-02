@@ -1,0 +1,33 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Der Verband am linken Unterschenkel wurde gewechselt.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Bei Herrn Janssen irgendwann nach dem Frühstück den Verband am linken Unterschenkel gewechselt.",
+   "measurement": null
+  },
+  {
+   "text": "Die Wunde sieht ein bisschen besser aus als beim letzten Mal.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Wunde sieht ein bisschen besser aus als beim letzten Mal.",
+   "measurement": null
+  },
+  {
+   "text": "Die Ränder der Wunde sind ruhiger.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Ränder sind ruhiger.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Janssen sagt, es juckt, aber es tut nicht mehr weh.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Er sagt, es juckt, aber es tut nicht mehr weh.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

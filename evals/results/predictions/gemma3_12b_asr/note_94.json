@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Winkler",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Zwischen Frau Winkler und ihrer Zimmernachbarin Frau Groß kriselt es weiter wegen des Fensters, die eine will Lüften, die andere friert.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Zwischen Frau Winkler und ihrer Zimmernachbarin Frau Groß kriselt es weiter wegen des Fensters, die eine will Lüften, die andere friert.",
+   "measurement": null
+  },
+  {
+   "text": "Heute gab es deswegen wieder lautstarken Streit vor dem Mittagessen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Heute gab es deswegen wieder lautstarken Streit vor dem Mittagessen.",
+   "measurement": null
+  },
+  {
+   "text": "Wir haben als Kompromiss feste Lüftungszeiten vereinbart und einen Zettel ans Fenster gehängt.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Wir haben als Kompromiss feste Lüftungszeiten vereinbart und einen Zettel ans Fenster gehängt.",
+   "measurement": null
+  },
+  {
+   "text": "Beide waren einverstanden, mal sehen, wie lange.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Beide waren einverstanden, mal sehen, wie lange.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Beim Heimbeirat ist das Thema Zimmerwechsel trotzdem angemeldet."
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "resident_ref": "Frau Lorenz",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Lorenz hat beim Lagern über starke Schmerzen im Rücken geklagt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Lorenz hat beim Lagern über starke Schmerzen im Rücken geklagt.",
+   "measurement": {
+    "value": 7.0,
+    "unit": "von 10"
+   }
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Frau Lorenz hat beim Lagern über starke Schmerzen im Rücken geklagt.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte mit dem Arzt über eine Alternative sprechen."
+ ]
+}

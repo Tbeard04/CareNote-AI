@@ -1,0 +1,41 @@
+{
+ "resident_ref": "Herr Walter",
+ "time_mention": "heute Nachmittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Walter hat beim Aussteigen aus dem Kleinbus den Tritt verfehlt und ist gegen die Tür getaumelt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Beim Aussteigen hat Herr Walter allerdings den Tritt verfehlt und ist gegen die Tür getaumelt",
+   "measurement": null
+  },
+  {
+   "text": "Herr Walter wollte nach dem Taumeln erst mal 10 Minuten sitzen bleiben.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "und er wollte danach erst mal 10 Minuten sitzen bleiben",
+   "measurement": null
+  },
+  {
+   "text": "Herr Walter hat sich für das Taumeln geschämt.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Auf dem Rückweg hat Herr Walter dann gesagt, ihm sei das peinlich gewesen",
+   "measurement": null
+  },
+  {
+   "text": "Herr Walter möchte beim nächsten Ausflug nicht mehr mitfahren.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "und er wolle beim nächsten Mal lieber nicht mehr mit",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Beim Aussteigen hat Herr Walter allerdings den Tritt verfehlt und ist gegen die Tür getaumelt",
+   "note": "Taumeln beim Aussteigen aus dem Kleinbus"
+  }
+ ],
+ "follow_up_actions": [
+  "Im Team überlegen, wie wir ihm die Angst nehmen, vielleicht mit dem niedrigeren Einstieg beim anderen Bus."
+ ]
+}

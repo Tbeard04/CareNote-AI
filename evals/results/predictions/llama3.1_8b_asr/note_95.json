@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Frau Lorenz",
+ "time_mention": "im Laufe des Vormittags",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Augentropfen wurden gegeben",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Lorenz hat irgendwann im Laufe des Vormittags ihre Augentropfen bekommen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Fürs Protokoll bitte künftig die Uhrzeit direkt eintragen"
+ ]
+}

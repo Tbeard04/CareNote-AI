@@ -1,0 +1,17 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Walter konnte am Nachmittag nicht mehr aufstehen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "am Nachmittag konnte er dann plötzlich gar nicht mehr aufstehen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Das sollte morgen unbedingt der Arzt sehen."
+ ]
+}

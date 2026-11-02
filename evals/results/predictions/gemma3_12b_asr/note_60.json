@@ -1,0 +1,39 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": "um 17 Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Hansen hatte einen Unterzucker mit einem Blutzucker von 58.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Achtung, Herr Hansen hatte um 17 Uhr einen Unterzucker, Blutzucker 58.",
+   "measurement": {
+    "value": 58.0,
+    "unit": "unbekannt"
+   }
+  },
+  {
+   "text": "Traubenzucker und Saft wurden verabreicht.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Traubenzucker und Saft gegeben",
+   "measurement": null
+  },
+  {
+   "text": "Der Blutzuckerwert war nach 20 Minuten bei 110.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nach 20 Minuten wieder bei 110",
+   "measurement": {
+    "value": 110.0,
+    "unit": "unbekannt"
+   }
+  },
+  {
+   "text": "Herr Hansen hat das Abendessen komplett gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Abendessen hat er komplett gegessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

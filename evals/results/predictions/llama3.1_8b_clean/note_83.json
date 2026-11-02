@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Herr Fuchs",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "keine Beschwerden der Nachbarn mehr wegen der Lautstärke",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Herr Fuchs hat jetzt Funkkopfhörer für den Fernseher, seitdem gibt es keine Beschwerden der Nachbarn mehr wegen der Lautstärke",
+   "measurement": null
+  },
+  {
+   "text": "er versteht die Nachrichten endlich wieder",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Herr Fuchs hat jetzt Funkkopfhörer für den Fernseher, seitdem gibt es keine Beschwerden der Nachbarn mehr wegen der Lautstärke, und er versteht die Nachrichten endlich wieder",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

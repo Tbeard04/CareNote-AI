@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Huber",
+ "time_mention": "heut",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Aktive Teilnahme am Kegeln im Garten mit Erfolg",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Beim Herrn Huber war heut ein richtig guter Tag, der hat beim Kegeln im Garten mitgmacht und zwei Mal voll abgräumt, da war was los.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Vielleicht morgen a bissle kürzer treten mit dem Programm"
+ ]
+}

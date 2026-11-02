@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Krüger",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Krüger hat seit einer Woche das neue Schlafmittel und hat seitdem morgens Schwierigkeiten, in die Gänge zu kommen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Frau Krüger bekommt seit einer Woche das neue Schlafmittel. Einschlafen klappt jetzt gut, aber morgens kommt sie kaum in die Gänge",
+   "measurement": null
+  },
+  {
+   "text": "Frau Krüger hat seit Beginn der Einnahme des neuen Schlafmittels Tagesmüdigkeit.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Die Tagesmüdigkeit war vorher nicht da.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "beim Frühstück ist sie zweimal fast mit dem Kopf auf den Tisch gesackt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Ansprechen beim Arzt, ob die Dosis zu hoch ist."
+ ]
+}

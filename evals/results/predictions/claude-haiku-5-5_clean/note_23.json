@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Kowalski",
+ "time_mention": "heute",
+ "entry_type": "vitalwert_messung",
+ "observations": [
+  {
+   "text": "Gewichtsabnahme auf 68,4 kg, fast 2 kg weniger als im Vormonat.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "das sind fast zwei Kilo weniger als letzten Monat",
+   "measurement": {
+    "value": 68.4,
+    "unit": "kg"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

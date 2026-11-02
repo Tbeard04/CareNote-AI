@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Lombardi",
+ "time_mention": "heute Nacht",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Nächtliches Schwitzen: zweimal komplett durchgeschwitzt, Bettwäsche und Schlafanzug mussten gewechselt werden.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "zweimal komplett durchgeschwitzt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "In der Übergabe erwähnen, falls es wieder vorkommt."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Meier",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Meier verweigert das Duschen; reagiert auf gutes Zureden abweisend (brummt, will in Ruhe gelassen werden).",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat er bloß gebrummt, lasst mich in Ruhe",
+   "measurement": null
+  },
+  {
+   "text": "Waschen am Waschbecken wird zugelassen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Waschen am Waschbecken hat er dann zuglassen.",
+   "measurement": null
+  },
+  {
+   "text": "Seit drei Wochen kein Duschen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Das ist jetzt die dritte Woche ohne Duschen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bezugspflegerin am Montag nochmal mit Herrn Meier reden lassen"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Ivanova",
+ "time_mention": "heute",
+ "entry_type": "risiko_beobachtung",
+ "observations": [
+  {
+   "text": "Beinahe-Sturz beim Stützen von Herrn Weiß während des Spaziergangs; Frau Ivanova selbst fast gestürzt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "dabei ist sie selbst beinahe mit umgefallen",
+   "measurement": null
+  },
+  {
+   "text": "Nach dem Vorfall erschrocken, Puls spürbar erhöht; 30 Minuten Ruhe, danach wieder wohl.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "ihr Puls war spürbar hoch",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "als er gestolpert ist, dabei ist sie selbst beinahe mit umgefallen",
+   "note": "Beinahe-Sturz beim Stützen einer zweiten Person; beiden ist nichts passiert."
+  }
+ ],
+ "follow_up_actions": [
+  "Künftig bitte bei dem Paar eine Begleitung mit schicken."
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": "17 Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unterzucker",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Achtung, Herr Hansen hatte um 17 Uhr einen Unterzucker",
+   "measurement": null
+  },
+  {
+   "text": "Blutzucker 58",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutzucker 58",
+   "measurement": {
+    "value": 58.0,
+    "unit": "mmol/l"
+   }
+  },
+  {
+   "text": "Blutzucker wieder bei 110 nach 20 Minuten",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nach 20 Minuten wieder bei 110",
+   "measurement": {
+    "value": 110.0,
+    "unit": "mmol/l"
+   }
+  },
+  {
+   "text": "Abendessen komplett gegessen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Abendessen hat er komplett gegessen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

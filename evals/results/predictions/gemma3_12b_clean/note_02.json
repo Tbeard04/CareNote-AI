@@ -1,0 +1,45 @@
+{
+ "resident_ref": "Herr Yilmaz",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Yilmaz klagt über Schmerzen im rechten Knie beim Laufen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ähm, ja, also Herr Yilmaz hat heute Morgen wieder über Schmerzen im rechten Knie geklagt, so beim Laufen, ne.",
+   "measurement": null
+  },
+  {
+   "text": "Die übliche Dosis wurde verabreicht.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich hab ihm dann... äh... die übliche Dosis gegeben, wie besprochen.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Yilmaz wollte nicht zur Gymnastik runter.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er wollte danach nicht zur Gymnastik runter",
+   "measurement": null
+  },
+  {
+   "text": "gesessen war die ganze Zeit auf dem Zimmer.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "hat die ganze Zeit auf dem Zimmer gesessen.",
+   "measurement": null
+  },
+  {
+   "text": "Trinken klappt gut.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Trinken klappt gut",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Herr Yilmaz hat heute Morgen wieder über Schmerzen im rechten Knie geklagt, so beim Laufen, ne.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": []
+}

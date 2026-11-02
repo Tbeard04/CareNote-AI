@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herr Novak",
+ "time_mention": "heute Mittag und Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Nahrungsaufnahme am Mittag und Abend stark reduziert.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "fast nichts gegessen",
+   "measurement": null
+  },
+  {
+   "text": "Untere Prothese drückt seit einigen Tagen; Kauen schmerzhaft. Auf weiche Kost umgestellt, Verbesserung der Nahrungsaufnahme.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die untere Prothese drückt seit ein paar Tagen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "das Kauen tut weh",
+   "note": "Schmerzen beim Kauen, vermutlich durch die untere Prothese."
+  }
+ ],
+ "follow_up_actions": [
+  "Termin beim Zahnarzt machen",
+  "Prothese anpassen lassen"
+ ]
+}

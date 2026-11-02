@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Ebert",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Ebert und Frau Lang hatten heute beim Mittagessen einen Streit.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Frau Ebert und Frau Lang hatten heute beim Mittagessen einen Streit",
+   "measurement": null
+  },
+  {
+   "text": "Frau Ebert hat danach geweint und wollte nicht mehr im Speisesaal sitzen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Ebert hat danach geweint und wollte nicht mehr im Speisesaal sitzen",
+   "measurement": null
+  },
+  {
+   "text": "Frau Ebert hat auf dem Zimmer gegessen, aber nur die Hälfte gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Frau Ebert hat auf dem Zimmer gegessen, aber nur die Hälfte",
+   "measurement": null
+  },
+  {
+   "text": "Frau Lang war nachher wie immer.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Frau Lang war nachher wie immer",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Vielleicht die Sitzordnung ändern."
+ ]
+}

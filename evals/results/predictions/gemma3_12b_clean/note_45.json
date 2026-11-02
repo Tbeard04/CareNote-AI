@@ -1,0 +1,42 @@
+{
+ "resident_ref": "Frau Albrecht",
+ "time_mention": "Heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Albrecht hat über eine Stunde geweint, nachdem ihr Sohn den Besuch abgesagt hat.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "ihr Sohn hat am Telefon gesagt, dass er den geplanten Besuch am Wochenende schon wieder absagen muss, und danach hat sie über eine Stunde geweint",
+   "measurement": null
+  },
+  {
+   "text": "Frau Albrecht wollte nicht getröstet werden.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Sie wollte nicht getröstet werden",
+   "measurement": null
+  },
+  {
+   "text": "Frau Albrecht hat das Abendessen stehen lassen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat sie das Abendessen stehen lassen",
+   "measurement": null
+  },
+  {
+   "text": "Frau Albrecht wurde ruhiger, als alte Fotos angeschaut wurden, und hat sogar gelacht.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Später am Abend haben wir zusammen alte Fotos angeschaut, da wurde sie ruhiger und hat sogar gelacht",
+   "measurement": null
+  },
+  {
+   "text": "Frau Albrecht sagte beim Zubettgehen, es geht schon wieder.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Beim Zubettgehen sagte sie, es geht schon wieder",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "morgen besonders aufmerksam sein",
+  "die Seelsorgerin informieren, die beiden verstehen sich gut"
+ ]
+}

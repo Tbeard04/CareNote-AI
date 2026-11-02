@@ -1,0 +1,47 @@
+{
+ "resident_ref": "Frau Keller",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Keller war sehr aufgewühlt",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Nach dem Besuch ihres Bruders war Frau Keller sehr aufgewühlt",
+   "measurement": null
+  },
+  {
+   "text": "Frau Keller klagte über Herzklopfen",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Sie hat über Herzklopfen geklagt",
+   "measurement": null
+  },
+  {
+   "text": "Blutdruck hundertsechzig zu fünfundneunzig",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck war hundertsechzig zu fünfundneunzig",
+   "measurement": {
+    "value": 165.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Blutdruck hundertvierzig zu fünfundachtzig nach einer Stunde Ruhe",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nach einer Stunde Ruhe im Zimmer wieder hundertvierzig zu fünfundachtzig",
+   "measurement": {
+    "value": 144.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Frau Keller war gefasst beim Abendessen",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Beim Abendessen war sie gefasst",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "die Betreuerin über die Erbgeschichte informieren"
+ ]
+}

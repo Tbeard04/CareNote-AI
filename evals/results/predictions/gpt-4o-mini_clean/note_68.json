@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Fuchs",
+ "time_mention": "seit gestern",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Fuchs mag seit gestern nur noch auf der linken Seite kauen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Fuchs mag seit gestern nur noch auf der linken Seite kauen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte zeitnah einen Zahnarzttermin organisieren."
+ ]
+}

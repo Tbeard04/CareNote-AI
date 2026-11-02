@@ -1,0 +1,36 @@
+{
+ "resident_ref": "Frau Martin",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Unterschenkel sind deutlich geschwollen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Bei Frau Martin sind die Unterschenkel heute aber deutlich geschwollen",
+   "measurement": null
+  },
+  {
+   "text": "Die Kompressionsstrümpfe wurden nicht getragen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Kompressionsstrümpfe hat sie heute nicht getragen",
+   "measurement": null
+  },
+  {
+   "text": "Die Bewohnerin hat Schmerzen beim Tragen der Kompressionsstrümpfe.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "sie sagt, dass Anzehntut ihr weht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "sie sagt, dass Anzehntut ihr weht",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte morgen beim Anziehen helfen",
+  "zu Schwäligkeiten dem Arzt melden, wenn sie nicht zurückgehen"
+ ]
+}

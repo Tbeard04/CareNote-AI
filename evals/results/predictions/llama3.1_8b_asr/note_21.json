@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Esposito",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "kein Stuhlgang seit gestern",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Esposito klagt seit gestern über Verstockfung, heute wieder kein Stuhlgang.",
+   "measurement": null
+  },
+  {
+   "text": "Verstockfung",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Esposito klagt seit gestern über Verstockfung, heute wieder kein Stuhlgang.",
+   "measurement": null
+  },
+  {
+   "text": "normal",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Er ist normal.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "den Arzt informieren, wenn bis Morgenabend nichts kommt"
+ ]
+}

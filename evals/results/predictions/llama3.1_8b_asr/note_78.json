@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Ebert",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Alles in Ordnung",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Bei Frau Ebert ist alles in Ordnung.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

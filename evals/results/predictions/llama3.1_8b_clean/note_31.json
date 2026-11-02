@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Maier",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Wollte nicht duschen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Hab ihm gut zugeredet, aber er hat bloß gebrummt, lasst's mich in Ruh.",
+   "measurement": null
+  },
+  {
+   "text": "Wusch sich am Waschbecken",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Waschen am Waschbecken hat er dann zuglassen.",
+   "measurement": null
+  },
+  {
+   "text": "Dritte Woche ohne Duschen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Des is jetzt die dritte Woch ohne Duschen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Die Bezugspflegerin soll am Montag mit ihm reden"
+ ]
+}

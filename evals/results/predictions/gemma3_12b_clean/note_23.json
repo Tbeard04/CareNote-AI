@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Kowalski",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Gewicht von Herrn Kowalski beträgt 58,4 kg, was fast zwei Kilo weniger ist als letzten Monat.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Kowalski heute gewogen, achtundsechzig Komma vier Kilo, das sind fast zwei Kilo weniger als letzten Monat.",
+   "measurement": {
+    "value": 58.4,
+    "unit": "Kilo"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

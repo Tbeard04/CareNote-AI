@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Yilmaz",
+ "time_mention": "heute Nacht um zwei",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Stand an der Haustür und wollte nach Hause zu ihrer Mutter",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Stand heute Nacht um zwei im Mantel an der Haustür und wollte nach Hause zu ihrer Mutter.",
+   "measurement": null
+  },
+  {
+   "text": "Kamillentee getrunken und über ihre Mutter gesprochen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Wir haben einen Kamillentee getrunken und über ihre Mutter gesprochen.",
+   "measurement": null
+  },
+  {
+   "text": "Könnte schlafen",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Danach konnte sie schlafen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte im Team besprechen, ob wir die Biografiearbeit vorziehen"
+ ]
+}

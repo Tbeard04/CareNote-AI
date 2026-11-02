@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Keller",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Keller war aufgewühlt nach Streit mit ihrem Bruder",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Nach dem Besuch ihres Bruders war Frau Keller sehr aufgewühlt, die beiden hatten wohl Streit ums Erbe.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Keller hatte Herzklopfen und Blutdruck von 160 zu 95",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie hat über Herzklopfen geklagt, Blutdruck war 160 zu 95",
+   "measurement": null
+  },
+  {
+   "text": "Frau Keller hatte nach einer Stunde Blutdruck von 145 zu 85",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nach einer Stunde Ruhe in Zimmer wieder 145 zu 85",
+   "measurement": null
+  },
+  {
+   "text": "Frau Keller war gefasst beim Abendessen",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Beim Abendessen war sie gefasst",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Betreuerin über die Erbgeschichte informieren"
+ ]
+}

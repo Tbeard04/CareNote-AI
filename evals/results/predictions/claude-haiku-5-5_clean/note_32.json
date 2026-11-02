@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Herr Schneider",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Bewohner klagt über Unruhe. Bedarfsmedikation gegeben (\"wie immer\"); danach Besserung.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "ich hab ihm die Bedarfsmedikation gegeben wie immer, danach ging es besser",
+   "measurement": null
+  },
+  {
+   "text": "Klagt über Unruhe.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "hat über Unruhe geklagt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

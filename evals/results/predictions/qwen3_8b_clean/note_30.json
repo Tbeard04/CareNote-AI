@@ -1,0 +1,41 @@
+{
+ "resident_ref": "Frau Wolf",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Wunde am rechten Unterschenkel zeigt Zeichen einer Verschlechterung",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Wunde am rechten Unterschenkel heute schlechter aus",
+   "measurement": null
+  },
+  {
+   "text": "Erhöhte Wundsekretion",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "es kam mehr Wundsekret als beim letzten Mal",
+   "measurement": null
+  },
+  {
+   "text": "Schmerzgefühl nachts",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie sagt, es pocht nachts",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "die Wunde am rechten Unterschenkel heute schlechter aus",
+   "note": null
+  },
+  {
+   "risk": "schmerz",
+   "evidence_span": "Sie sagt, es pocht nachts",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Foto für die Wunddoku ist gemacht",
+  "Bitte den Wundmanager noch diese Woche einschalten"
+ ]
+}

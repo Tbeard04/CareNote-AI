@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Herr Fuchs",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Funkköpfe für den Fernseher wurden erhöht, um Lärmbelästigung zu reduzieren.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Herr Fuchs hat jetzt Funkköpfe höher für den Fernseher, seitdem gibt es keine beschwerende Nachbarn mehr wegen der Lautstärke, und er versteht die Nachrichten endlich wieder.",
+   "measurement": null
+  },
+  {
+   "text": "Die Lärmbelästigung durch den Fernseher wurde reduziert.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Herr Fuchs hat jetzt Funkköpfe höher für den Fernseher, seitdem gibt es keine beschwerende Nachbarn mehr wegen der Lautstärke, und er versteht die Nachrichten endlich wieder.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Fuchs versteht die Nachrichten wieder.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Herr Fuchs hat jetzt Funkköpfe höher für den Fernseher, seitdem gibt es keine beschwerende Nachbarn mehr wegen der Lautstärke, und er versteht die Nachrichten endlich wieder.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

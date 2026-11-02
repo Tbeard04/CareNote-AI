@@ -1,0 +1,15 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Hartmann isst wieder normal",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Seit die Übelkeitstropfen abgesetzt sind, isst Frau Hartmann wieder normal",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

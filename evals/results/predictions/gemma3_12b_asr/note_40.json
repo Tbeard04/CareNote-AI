@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Frau Martin",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Unterschenkel sind geschwollen, man seien die Telle vom Strumpfbund.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Bei Frau Martin sind die Unterschenkel heute aber deutlich geschwollen, man seien die Telle vom Strumpfbund.",
+   "measurement": null
+  },
+  {
+   "text": "Die Kompressionsstrümpfe hat sie heute nicht getragen, sie sagt, dass Anzehntut ihr weht. Wenn sie hochgelagert sind.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Kompressionsstrümpfe hat sie heute nicht getragen, sie sagt, dass Anzehntut ihr weht. Wenn sie hochgelagert sind.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte morgen beim Anzehen helfen",
+  "zu Schwäligkeiten dem Arzt melden, wenn sie nicht zurückgehen"
+ ]
+}

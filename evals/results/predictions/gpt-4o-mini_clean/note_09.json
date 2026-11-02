@@ -10,6 +10,12 @@
    "measurement": null
   }
  ],
- "risk_flags": [],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "beim Transfer vom Bett in den Rollstuhl hat sie gezittert und wollte sich nicht richtig festhalten.",
+   "note": null
+  }
+ ],
  "follow_up_actions": []
 }

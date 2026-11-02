@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Seidel",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Dekubitus an der linken Ferse heilt gut",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Der Dekubitus an der linken Ferse von Frau Seidel heilt weiter gut",
+   "measurement": null
+  },
+  {
+   "text": "Durchmesser unter einem Zentimeter",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "der Durchmesser ist unter einen Zentimeter geschrumpft",
+   "measurement": null
+  },
+  {
+   "text": "Wundgrund sauber rosig",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "der Wundgrund ist sauber rosig",
+   "measurement": null
+  },
+  {
+   "text": "Freilagerung klappt besser",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Freilagerung klappt mit dem neuen Kissen deutlich besser als vorher",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Nächster Verbandwechsel am Donnerstag"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "resident_ref": "Herr Walter",
+ "time_mention": "heute Nachmittag",
+ "entry_type": "risiko_beobachtung",
+ "observations": [
+  {
+   "text": "Beim Aussteigen aus dem Kleinbus Tritt verfehlt, gegen die Tür getaumelt; von der Betreuerin gehalten, ohne Verletzung.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "hat Herr Walter allerdings den Tritt verfehlt und ist gegen die Tür getaumelt",
+   "measurement": null
+  },
+  {
+   "text": "Schreckreaktion nach dem Vorfall; wollte danach 10 Minuten sitzen bleiben.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "wollte danach erst mal 10 Minuten sitzen bleiben",
+   "measurement": {
+    "value": 10.0,
+    "unit": "Minuten"
+   }
+  },
+  {
+   "text": "Äußert, ihm sei der Vorfall peinlich gewesen; möchte beim nächsten Mal nicht mehr am Ausflug teilnehmen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "ihm sei das peinlich gewesen und er wolle beim nächsten Mal lieber nicht mehr mit",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "hat Herr Walter allerdings den Tritt verfehlt und ist gegen die Tür getaumelt",
+   "note": "Beinahe-Sturz beim Aussteigen aus dem Kleinbus; Betreuerin konnte halten, kein Schaden."
+  }
+ ],
+ "follow_up_actions": [
+  "Im Team überlegen, wie Herrn Walter die Angst genommen werden kann, ggf. mit dem niedrigeren Einstieg beim anderen Bus"
+ ]
+}

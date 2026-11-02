@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Maier",
+ "time_mention": "heut",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Körperpflege: Duschen heute abgelehnt, trotz gutem Zureden; Waschen am Waschbecken wurde zugelassen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "wollt heut wieder partout net duschen",
+   "measurement": null
+  },
+  {
+   "text": "Seit drei Wochen kein Duschen (Körperpflege).",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Des is jetzt die dritte Woch ohne Duschen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bezugspflegerin am Montag nochmal mit Herrn Maier reden"
+ ]
+}

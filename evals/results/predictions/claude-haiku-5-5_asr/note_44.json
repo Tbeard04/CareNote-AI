@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herr Brand",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Dreimaliger Wechsel der kompletten Kleidung erforderlich, da die Vorlage nicht mehr zuverlässig hält.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "dreimal die komplette Kleidung wechseln, die Vorlage hält nicht mehr zuverlässig",
+   "measurement": null
+  },
+  {
+   "text": "Leichte Hautrötung im Intimbereich; Schutzcreme aufgetragen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Haut im Intimbereich ist schon leicht gerültet",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Die Haut im Intimbereich ist schon leicht gerültet",
+   "note": "Hautrötung im Intimbereich bei häufigem Vorlagenwechsel; Haut beobachten."
+  }
+ ],
+ "follow_up_actions": [
+  "größere Vorlagen bestellen",
+  "die Haut im Blick behalten"
+ ]
+}

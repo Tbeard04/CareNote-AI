@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Berger",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rechter Arm kaum gehoben, Besteck in die linke Hand genommen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Beim Abendessen ist mir dann aufgefallen, dass sie den rechten Arm kaum hebt, sie hat das Besteck in die linke Hand genommen.",
+   "measurement": null
+  },
+  {
+   "text": "Schulter tut weh, druckempfindlich.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "sie meint, sie hat sich im Garten am Rosenbogen gestoßen. Die Schulter ist nicht geschwollen, aber druckempfindlich.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte morgen beobachten und wenn es schlimmer wird, den Arzt dazuholen."
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Lombardi klagte über Flimmern vor den Augen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Herr Lombardi klagte über Flimmern vor den Augen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Arzt ist angerufen, wir warten auf Rückruf"
+ ]
+}

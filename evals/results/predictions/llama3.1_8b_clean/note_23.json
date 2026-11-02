@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Kowalski",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "gewichtsabnahme",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Kowalski heute gewogen, achtundsechzig Komma vier Kilo, das sind fast zwei Kilo weniger als letzten Monat.",
+   "measurement": {
+    "value": 68.4,
+    "unit": "kg"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

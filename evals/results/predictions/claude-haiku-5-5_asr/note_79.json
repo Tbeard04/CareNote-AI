@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Krüger",
+ "time_mention": "morgens",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Morgens kaum in Gang kommend seit Beginn des neuen Schlafmittels vor einer Woche.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "morgens kommt sie kaum in die Gänge",
+   "measurement": null
+  },
+  {
+   "text": "Beim Frühstück zweimal fast mit dem Kopf auf den Tisch gesackt (Tagesmüdigkeit unter neuem Schlafmittel).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "beim Frühstück ist sie zweimal fast mit dem Kopf auf den Tisch gesackt",
+   "measurement": null
+  },
+  {
+   "text": "Tagesmöglichkeit war vorher nicht vorhanden.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Die Tagesmöglichkeit war vorher nicht da",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "beim Frühstück ist sie zweimal fast mit dem Kopf auf den Tisch gesackt",
+   "note": "Tagesmüdigkeit unter Schlafmittel, Sturzgefahr möglich."
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte beim Arzt ansprechen, ob die Dosis zu hoch ist."
+ ]
+}

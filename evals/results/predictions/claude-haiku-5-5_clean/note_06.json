@@ -1,17 +1,17 @@
 {
  "resident_ref": "Frau Lindner",
  "time_mention": "über den ganzen Vormittag",
- "entry_type": "berichteblatt_eintrag",
+ "entry_type": "risiko_beobachtung",
  "observations": [
   {
-   "text": "Trinkmenge über den Vormittag deutlich zu gering (ca. ein halbes Glas)",
+   "text": "Wiederholt zu geringe Trinkmenge; am Vormittag nur ca. ein halbes Glas getrunken.",
    "themenfeld": "selbstversorgung",
    "evidence_span": "viel zu wenig getrunken, vielleicht ein halbes Glas über den ganzen Vormittag",
    "measurement": null
   },
   {
-   "text": "Lippen ganz trocken",
-   "themenfeld": "selbstversorgung",
+   "text": "Lippen ganz trocken.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Die Lippen waren ganz trocken",
    "measurement": null
   }
@@ -20,10 +20,10 @@
   {
    "risk": "dehydration",
    "evidence_span": "viel zu wenig getrunken",
-   "note": "Unzureichende Flüssigkeitsaufnahme mit trockenen Lippen."
+   "note": "Wiederholt zu geringe Trinkmenge, trockene Lippen."
   }
  ],
  "follow_up_actions": [
-  "Im Spätdienst aktiv Getränke anbieten und eintragen"
+  "Bitte im Spätdienst aktiv Getränke anbieten und eintragen."
  ]
 }

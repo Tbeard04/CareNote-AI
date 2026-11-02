@@ -1,0 +1,25 @@
+{
+ "resident_ref": "Frau Winkler",
+ "time_mention": "Heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Konflikt mit der Zimmernachbarin (Frau Groß) wegen des Fensters (Lüften vs. Frieren), heute lautstarker Streit vor dem Mittagessen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "wieder lautstarken Streit vor dem Mittagessen",
+   "measurement": null
+  },
+  {
+   "text": "Thema Zimmerwechsel beim Heimbeirat angemeldet.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Beim Heimbeirat ist das Thema Zimmerwechsel trotzdem angemeldet.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Feste Lüftungszeiten als Kompromiss vereinbart",
+  "Zettel ans Fenster gehängt",
+  "Thema Zimmerwechsel beim Heimbeirat angemeldet"
+ ]
+}

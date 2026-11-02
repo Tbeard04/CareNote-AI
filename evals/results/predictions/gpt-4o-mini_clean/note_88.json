@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Roth",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Roth hat sich an einem Stück Fleisch verschluckt und war kurz blau im Gesicht.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "er hat stark gehustet und war kurz blau im Gesicht.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Nach festem Klopfen zwischen die Schulterblätter kam das Stück raus.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bei Fleischgerichten alles klein schneiden und beim Essen in der Nähe bleiben."
+ ]
+}

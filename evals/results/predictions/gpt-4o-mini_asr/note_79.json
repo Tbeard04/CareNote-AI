@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Frau Krüger",
+ "time_mention": "seit einer Woche",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Morgens kommt sie kaum in die Gänge, beim Frühstück ist sie zweimal fast mit dem Kopf auf den Tisch gesackt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "aber morgens kommt sie kaum in die Gänge, beim Frühstück ist sie zweimal fast mit dem Kopf auf den Tisch gesackt.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte beim Arzt ansprechen, ob die Dosis zu hoch ist."
+ ]
+}

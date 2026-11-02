@@ -1,0 +1,36 @@
+{
+ "resident_ref": "Herr Okafor",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Taubheitsgefühl in den Fingerspitzen der rechten Hand am Morgen",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Morgens beim Rasieren hat er über ein Taubheitsgefühl in den Fingerspitzen der rechten Hand geklagt",
+   "measurement": null
+  },
+  {
+   "text": "Neuer Physiotherapeut und umgestellte Übungen für die Schulter",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Mittags kam der neue Physiotherapeut, die Übungen für die Schulter wurden umgestellt",
+   "measurement": null
+  },
+  {
+   "text": "Langes Telefongespräch mit Sohn in Lagos und gute Laune",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Nachmittags hat er lange mit seinem Sohn in Lagos telefoniert und war danach bester Laune",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Das Taubheitsgefühl von heute früh würde ich trotzdem ernst nehmen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Morgen gezielt nach Taubheitsgefühl fragen",
+  "Falls Taubheitsgefühl wiederkommt, sofort Arzt verständigen"
+ ]
+}

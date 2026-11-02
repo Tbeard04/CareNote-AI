@@ -1,0 +1,42 @@
+{
+ "resident_ref": "Frau Berger",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frisur gefallen",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Der Friseurtermin heute Morgen war schön, sie war ganz stolz auf die Frisur und hat allen davon erzählt.",
+   "measurement": null
+  },
+  {
+   "text": "Nichte besuchte",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Mittags war ihre Nichte da, die hat Kuchen mitgebracht, Apfelkuchen glaube ich, und die beiden haben lange im Garten gesessen.",
+   "measurement": null
+  },
+  {
+   "text": "Schulter schmerzt",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beim Abendessen ist mir dann aufgefallen, dass sie den rechten Arm kaum hebt, sie hat das Besteck in die linke Hand genommen und gesagt, die Schulter tut seit dem Nachmittag weh.",
+   "measurement": null
+  },
+  {
+   "text": "Schulter nicht geschwollen, aber druckempfindlich",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Schulter ist nicht geschwollen, aber druckempfindlich.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Beim Abendessen ist mir dann aufgefallen, dass sie den rechten Arm kaum hebt, sie hat das Besteck in die linke Hand genommen und gesagt, die Schulter tut seit dem Nachmittag weh.",
+   "note": "Bitte morgen beobachten und wenn es schlimmer wird, den Arzt dazuholen."
+  }
+ ],
+ "follow_up_actions": [
+  "Morgen beobachten",
+  "Wenn es schlimmer wird, Arzt holen"
+ ]
+}

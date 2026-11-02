@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Walter",
+ "time_mention": "heute Vormittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Am Nachmittag konnte er dann plötzlich gar nicht mehr aufstehen und sagte, die Beine tragen ihn nicht.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Am Nachmittag konnte er dann plötzlich gar nicht mehr aufstehen und sagte, die Beine tragen ihn nicht.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Das sollte morgen unbedingt der Arzt sehen."
+ ]
+}

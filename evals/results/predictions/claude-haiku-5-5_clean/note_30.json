@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Wolf",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Wunde am rechten Unterschenkel heute schlechter als zuvor, Wundränder gerötet, mehr Wundsekret als beim letzten Verbandswechsel.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "sah die Wunde am rechten Unterschenkel heute schlechter aus, die Ränder sind gerötet und es kam mehr Wundsekret als beim letzten Mal",
+   "measurement": null
+  },
+  {
+   "text": "Bewohnerin gibt nächtliches Pochen an der Wunde an.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "es pocht nachts",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "es pocht nachts",
+   "note": "Nächtliches Pochen laut Angabe der Bewohnerin."
+  }
+ ],
+ "follow_up_actions": [
+  "Wundmanager noch diese Woche einschalten"
+ ]
+}

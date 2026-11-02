@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Öztürk",
+ "time_mention": "heute Vormittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "schwindlig beim Aufstehen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Frau Öztürk ist heute Vormittag beim Aufstehen zweimal schwindlig geworden",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Das neue Blutdruckmittel nimmt sie seit Montag",
+   "note": "Dosierung nachfragen beim Hausarzt"
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte beim Hausarzt wegen der Dosierung nachfragen"
+ ]
+}

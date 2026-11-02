@@ -4,9 +4,15 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Frau Ebert hat danach geweint und wollte nicht mehr im Speisesaal sitzen.",
+   "text": "Frau Ebert hat nach dem Streit geweint und wollte nicht mehr im Speisesaal sitzen.",
    "themenfeld": "leben_in_sozialen_beziehungen",
    "evidence_span": "Frau Ebert hat danach geweint und wollte nicht mehr im Speisesaal sitzen.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Ebert hat nur die Hälfte im Zimmer gegessen gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie hat dann auf dem Zimmer gegessen, aber nur die Hälfte.",
    "measurement": null
   }
  ],

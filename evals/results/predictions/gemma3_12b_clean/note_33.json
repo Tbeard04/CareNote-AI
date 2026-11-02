@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Brunner",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Brunner hat heute nur etwa einen halben Liter getrunken, obwohl wir dreimal aktiv angeboten haben.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Brunner, nein Moment, Frau Brunner meine ich, hat heute nur etwa einen halben Liter geschafft, obwohl wir dreimal aktiv angeboten haben.",
+   "measurement": null
+  },
+  {
+   "text": "Die Lippen sind noch okay.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Lippen sind noch okay",
+   "measurement": null
+  },
+  {
+   "text": "Es ist der zweite Tag in Folge mit so wenig Flüssigkeitsaufnahme.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "das ist der zweite Tag in Folge mit so wenig.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "hat heute nur etwa einen halben Liter geschafft, obwohl wir dreimal aktiv angeboten haben.",
+   "note": "Reduzierte Flüssigkeitsaufnahme über zwei Tage."
+  }
+ ],
+ "follow_up_actions": [
+  "Trinkprotokoll läuft weiter"
+ ]
+}

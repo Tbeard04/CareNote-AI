@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Frau Winkler",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Streit vor dem Mittagessen",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Heute gab es deswegen wieder lautstarken Streit vor dem Mittagessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Beobachtung des Kompromisses mit festeren Lüftungszeiten",
+  "Überprüfung der Wirkung des Zettels am Fenster"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Okafor",
+ "time_mention": "Morgens",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Klage über Taubheitsgefühl in den Fingerspitzen der rechten Hand beim Rasieren; nach etwa einer Stunde wieder abgeklungen, danach normales Greifen und Halten des Löffels möglich.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "über ein Taubheitsgefühl in den Fingerspitzen der rechten Hand geklagt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "morgen gezielt nachfragen",
+  "falls es wieder kommt, sofort den Arzt verständigen"
+ ]
+}

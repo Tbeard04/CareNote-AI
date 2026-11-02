@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Albers",
+ "time_mention": "gegen 1 Uhr und nochmal gegen halb vier",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Albers ist mehrmals im Flur unterwegs",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Albers war allerdings wieder viel unterwegs, ich habe ihm gegen 1 Uhr und nochmal gegen halb vier im Flur angetroffen",
+   "measurement": null
+  },
+  {
+   "text": "Herr Albers hat sich an der Tür zu Zimmer von Frau Sand aufgehalten",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "einmal stand er an der Tür vom Zimmer von Frau Sand und wollte hinein",
+   "measurement": null
+  },
+  {
+   "text": "Sensormatte vor dem Bett von Herrn Albers funktioniert",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Die Sensormatte vor seinem Bett hat beide Male ausgelöst, das funktioniert gut",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "tagsüberschauen, ob er müde ist und eventuell den Mittagsschlaf verlängern"
+ ]
+}

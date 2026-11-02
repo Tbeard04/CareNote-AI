@@ -1,0 +1,51 @@
+{
+ "resident_ref": "Herr Weiss",
+ "time_mention": "heute um 11 Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Weiss ist heute um 11 Uhr aus dem Krankenhaus zurückgekommen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Weiss ist heute um 11 Uhr aus dem Krankenhaus zurückgekommen.",
+   "measurement": null
+  },
+  {
+   "text": "Der Entlassbrief liegt im Fach Neuischen Blutverdünner.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Entlassbrief liegt im Fach Neuischen Blutverdünner",
+   "measurement": null
+  },
+  {
+   "text": "Er ist noch wackelig auf der Beine.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er ist noch wackelig auf der Beine",
+   "measurement": null
+  },
+  {
+   "text": "Er ist deutlich dünner geworden.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "deutlich dünner geworden",
+   "measurement": null
+  },
+  {
+   "text": "Laut Brief hat er 4 kg verloren.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Laut Brief hat er 4 kg verloren",
+   "measurement": {
+    "value": 4.0,
+    "unit": "kg"
+   }
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Er ist noch wackelig auf der Beine",
+   "note": "Aufgrund der Wackeligkeit auf den Beinen besteht Sturzrisiko."
+  }
+ ],
+ "follow_up_actions": [
+  "Heute bitte nur mit Begleitung laufen lassen",
+  "beim Abendessen eine extra Portion anbieten"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Roth",
+ "time_mention": "Beim Abendessen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verschlucken an einem Stück Fleisch beim Abendessen mit starkem Husten und kurzzeitiger Blaufärbung des Gesichts; Stück nach festem Klopfen zwischen die Schulterblätter gelöst, danach rasche Erholung.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "an einem Stück Fleisch verschluckt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bei Fleischgerichten ab sofort alles klein schneiden",
+  "Beim Essen in der Nähe bleiben"
+ ]
+}

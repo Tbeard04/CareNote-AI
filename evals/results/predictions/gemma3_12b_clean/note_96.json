@@ -1,0 +1,36 @@
+{
+ "resident_ref": "Frau Brunner",
+ "time_mention": "heut",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Brunner hat sich beim Aufbinden der Tomaten einen Sonnenbrand am Nacken zugezogen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "leider hat sie sich dabei den Nacken verbrannt",
+   "measurement": null
+  },
+  {
+   "text": "Die Haut von Frau Brunner ist gerötet, aber ohne Blasen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Haut ist gerötet aber ohne Blasen",
+   "measurement": null
+  },
+  {
+   "text": "After-Sun wurde auf den Sonnenbrand von Frau Brunner aufgetragen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "After-Sun ist drauf",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Beim nächsten Mal bitte ans Sonnenhüterl und Eincremen denken.",
+   "note": "Hinweis auf Prävention von erneuten Hautschäden durch Sonneneinstrahlung."
+  }
+ ],
+ "follow_up_actions": [
+  "ans Sonnenhüterl denken",
+  "Eincremen"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "resident_ref": "Frau Scholz",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Körperpflege mit wenig Unterstützung",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Morgens lief alles wie immer, Körperpflege mit wenig Unterstützung",
+   "measurement": null
+  },
+  {
+   "text": "Frühstück komplett",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Morgens lief alles wie immer, Körperpflege mit wenig Unterstützung, Frühstück komplett",
+   "measurement": null
+  },
+  {
+   "text": "Nägel sind jetzt versorgt",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Am späten Vormittag kam die Podologin, die Nägel sind jetzt versorgt",
+   "measurement": null
+  },
+  {
+   "text": "eingewachsener Nagel am großen Zeh rechts sieht viel besser aus als vor vier Wochen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Am späten Vormittag kam die Podologin, die Nägel sind jetzt versorgt, sie hat gesagt, der eingewachsene Nagel am großen Zeh rechts sieht viel besser aus als vor vier Wochen",
+   "measurement": null
+  },
+  {
+   "text": "Mittagessen gut",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Mittagessen gut",
+   "measurement": null
+  },
+  {
+   "text": "Faden verloren beim Basteln",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Am Nachmittag beim Basteln hat Frau Scholz mehrfach den Faden verloren",
+   "measurement": null
+  },
+  {
+   "text": "Konzentrationsschwäche beim Basteln",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Am Nachmittag beim Basteln hat Frau Scholz mehrfach den Faden verloren und dieselbe Frage drei Mal gestellt",
+   "measurement": null
+  },
+  {
+   "text": "Telefonat mit Schwester",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Abends war sie wie immer, hat mit ihrer Schwester telefoniert",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "eingewachsener Nagel am großen Zeh rechts sieht viel besser aus als vor vier Wochen",
+   "note": null
+  },
+  {
+   "risk": "schmerz",
+   "evidence_span": "eingewachsener Nagel am großen Zeh rechts sieht viel besser aus als vor vier Wochen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Konzentrationssache vom Nachmittag beobachten"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Yilmaz",
+ "time_mention": "heute Nacht um zwei",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Bewohnerin verlässt nachts orientierungssuchend die Wohnung und möchte zu ihrer Mutter nach Hause; nachts um 02:00 Uhr im Mantel an der Haustür angetroffen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "stand heute Nacht um zwei im Mantel an der Haustür und wollte nach Hause zu ihrer Mutter",
+   "measurement": null
+  },
+  {
+   "text": "Nächtliches Verlassenwollen tritt in der dritten Nacht in Folge auf.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Das ist die dritte Nacht in Folge.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Im Team besprechen, ob die Biografiearbeit vorgezogen wird."
+ ]
+}

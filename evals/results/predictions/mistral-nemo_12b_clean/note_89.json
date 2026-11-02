@@ -1,0 +1,24 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Temperatur heute früh sechsunddreißig Komma acht",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Temperatur heute früh sechsunddreißig Komma acht",
+   "measurement": {
+    "value": 36.8,
+    "unit": "°C"
+   }
+  },
+  {
+   "text": "Sie fühlt sich gut",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Sie fühlt sich gut",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

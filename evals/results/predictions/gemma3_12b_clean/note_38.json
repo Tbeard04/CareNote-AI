@@ -1,0 +1,38 @@
+{
+ "resident_ref": "Frau Lorenz",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Lorenz klagt über starke Schmerzen im Rücken beim Lagern.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Lorenz hat beim Lagern über starke Schmerzen im Rücken geklagt",
+   "measurement": {
+    "value": 7.0,
+    "unit": "von zehn"
+   }
+  },
+  {
+   "text": "Frau Lorenz hat eine Schmerztablette abgelehnt, da ihr davon übel wird.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die angebotene Schmerztablette hat sie abgelehnt, sie sagt, davon wird ihr immer schlecht",
+   "measurement": null
+  },
+  {
+   "text": "Frau Lorenz hat eine Wärmflasche angenommen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Wärmflasche hat sie angenommen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "sie schätzt sie auf sieben von zehn",
+   "note": "Wiederholtes Auftreten des Themas deutet auf chronischen Schmerz hin."
+  }
+ ],
+ "follow_up_actions": [
+  "mit dem Arzt über eine Alternative sprechen"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Ott",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verständigung mit Herrn Ott verbessert sich mit der neuen Bildtafel",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Mit der neuen Bildtafel klappt die Verständigung mit Herrn Ott deutlich besser",
+   "measurement": null
+  },
+  {
+   "text": "Herr Ott hat heute selbstständig Durst angezeigt",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "er hat heute selbstständig Durst angezeigt",
+   "measurement": null
+  },
+  {
+   "text": "Bildtafel sollte immer griffbereit am Bett liegen",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Bitte die Tafel immer griffbereit am Bett lassen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bildtafel immer griffbereit am Bett liegen lassen"
+ ]
+}

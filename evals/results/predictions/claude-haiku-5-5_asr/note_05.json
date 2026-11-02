@@ -1,12 +1,12 @@
 {
  "resident_ref": "Herr Okavor",
- "time_mention": "heute",
+ "time_mention": "beim Frühstück",
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Medikamenteneinnahme verweigert: Tabletten beim Frühstück zunächst liegen gelassen, erst nach langem Zureden eingenommen.",
+   "text": "Verweigerung der Tabletteneinnahme beim Frühstück; Tabletten zunächst liegen gelassen, nach langem Zureden eingenommen.",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "hat beim Frühstück seine Tabletten nicht nehmen wollen, hat sie erst liegen lassen und dann nach langem Zureden doch genommen",
+   "evidence_span": "seine Tabletten nicht nehmen wollen, hat sie erst liegen lassen und dann nach langem Zureden doch genommen",
    "measurement": null
   }
  ],

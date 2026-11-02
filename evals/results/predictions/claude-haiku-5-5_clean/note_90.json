@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herr Egger",
+ "time_mention": "Heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Orientierungsschwierigkeiten: Weg von der Cafeteria zum Zimmer nicht nicht sicher gefunden, stand ratlos im falschen Stockwerk; Häufung seit ungefähr einem Monat.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "hat er zum dritten Mal diese Woche den Weg von der Cafeteria zu seinem Zimmer nicht gefunden und stand ratlos im falschen Stockwerk",
+   "measurement": null
+  },
+  {
+   "text": "Beim Mittagessen Verwechslung des Essbestecks (Suppe mit der Gabel gegessen); Fehler erst bemerkt, als der Löffel hingelegt wurde.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Beim Mittagessen hat er versucht, die Suppe mit der Gabel zu essen",
+   "measurement": null
+  },
+  {
+   "text": "Wiederholtes Nachfragen nach dem Namen der Tochter beim Besuch am Sonntag (laut Angabe der Ehefrau).",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "er sie zweimal nach dem Namen ihrer Tochter gefragt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Gerontopsychiatrische Abklärung beim nächsten Arztkontakt ansprechen",
+  "Orientierungshilfen am Flur erneuern (Schilder verblasst)"
+ ]
+}

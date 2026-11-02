@@ -1,0 +1,18 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Brille von Herrn Yildes seit dem Frühstück verschwunden",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Die Brille von Herrn Yildes ist seit dem Frühstück verschwunden",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "weitersuchen",
+  "sonst die Tochter wegen der Ersatzbrille anrufen"
+ ]
+}

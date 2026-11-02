@@ -1,0 +1,59 @@
+{
+ "resident_ref": "Frau Öztürk",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung",
+   "measurement": {
+    "value": 132.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung",
+   "measurement": {
+    "value": 128.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung",
+   "measurement": {
+    "value": 84.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung",
+   "measurement": {
+    "value": 80.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Kein Schwindel mehr heute",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Kein Schwindel mehr heute",
+   "measurement": null
+  },
+  {
+   "text": "Sie ist zweimal sicher allein aufgestanden",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Sie ist zweimal sicher allein aufgestanden",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "der Arzt wollte die Werte am Freitag sehen"
+ ]
+}

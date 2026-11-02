@@ -1,0 +1,26 @@
+{
+ "resident_ref": "Frau Sand",
+ "time_mention": "heute Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "erhöhte Temperatur",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Sand hat erhöhte Temperatur, siebenunddreißig Komma neun heute Abend gemessen.",
+   "measurement": {
+    "value": 37.9,
+    "unit": "°C"
+   }
+  },
+  {
+   "text": "viele Flüssigkeiten getrunken",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Viel getrunken hat sie schon.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Morgen früh bitte nochmal messen"
+ ]
+}

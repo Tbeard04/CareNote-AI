@@ -1,0 +1,20 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Sand hat erhöhte Temperatur",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Sand hat erhöhte Temperatur",
+   "measurement": {
+    "value": 37.9,
+    "unit": "°C"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Morgen früh bitte nochmal messen"
+ ]
+}

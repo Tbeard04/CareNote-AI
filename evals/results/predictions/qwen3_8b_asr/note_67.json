@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Keller",
+ "time_mention": "nach dem Besuch ihres Bruders",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Emotionale Belastung durch Streit um Erbe",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Nach dem Besuch ihres Bruders war Frau Keller sehr aufgewühlt, die beiden hatten wohl Streit ums Erbe.",
+   "measurement": null
+  },
+  {
+   "text": "Erhöhter Blutdruck nach emotionaler Belastung",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie hat über Herzklopfen geklagt, Blutdruck war 160 zu 95, nach einer Stunde Ruhe in Zimmer wieder 145 zu 85.",
+   "measurement": {
+    "value": 160.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Erhöhter Blutdruck nach Ruhephase",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie hat über Herzklopfen geklagt, Blutdruck war 160 zu 95, nach einer Stunde Ruhe in Zimmer wieder 145 zu 85.",
+   "measurement": {
+    "value": 145.0,
+    "unit": "mmHg"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte die Betreuerin über die Erbgeschichte informieren"
+ ]
+}

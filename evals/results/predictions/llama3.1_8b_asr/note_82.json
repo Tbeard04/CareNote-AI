@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Simon",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Simon war gestern nicht bei Gymnastik",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Ich erklären, Frau Simon selber nicht wollen gehen, sie müde sein.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Simon war heute bei Gymnastik",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Frau Simon selber heute gut drauf, bei Gymnastik dabei.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Die Tochter von Frau Simon sprechen"
+ ]
+}

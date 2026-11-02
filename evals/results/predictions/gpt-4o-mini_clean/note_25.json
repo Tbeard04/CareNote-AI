@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Herr Lehmann",
+ "time_mention": "heute Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Gereiztheit ist neu bei ihm.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Bei Herrn Lehmann bitte im Blick behalten, ob die Gereiztheit anhält, das ist neu bei ihm.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

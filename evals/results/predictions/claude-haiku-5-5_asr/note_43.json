@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Frau Simon",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Bewohnerin wirkt heute deutlich zurückgezogen und sehr still.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "war heute sehr still",
+   "measurement": null
+  },
+  {
+   "text": "Nahm nicht am Gedächtnistraining teil; dieser Termin ist sonst ein Lieblingstermin der Bewohnerin.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "hat beim Gedichtnistraining nicht mitgemacht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

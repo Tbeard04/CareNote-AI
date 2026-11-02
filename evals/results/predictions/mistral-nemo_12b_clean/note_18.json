@@ -1,0 +1,27 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Krause hat heute Nacht schlecht geschlafen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Frau Krause hat heute Nacht schlecht geschlafen.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Krause war gegen drei Uhr wach.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "war gegen drei Uhr wach.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Krause war sehr unruhig.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "war sehr unruhig.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

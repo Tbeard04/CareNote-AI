@@ -1,0 +1,33 @@
+{
+ "resident_ref": "Herr Weiß",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Körpergewicht abgenommen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "laut Brief hat er vier Kilo verloren",
+   "measurement": {
+    "value": 4.0,
+    "unit": "Kilo"
+   }
+  },
+  {
+   "text": "Mobilitätseinschränkung",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er ist noch wackelig auf den Beinen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "Er ist noch wackelig auf den Beinen und deutlich dünner geworden, laut Brief hat er vier Kilo verloren",
+   "note": "Körpergewicht abgenommen"
+  }
+ ],
+ "follow_up_actions": [
+  "Heute bitte nur mit Begleitung laufen lassen",
+  "Beim Abendessen eine Extraportion anbieten"
+ ]
+}

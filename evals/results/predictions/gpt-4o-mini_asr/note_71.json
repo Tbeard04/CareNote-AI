@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Öztürk",
+ "time_mention": "morgens",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Kontrollmessung nach der Dosisanpassung morgens 132 zu 84, abends 128 zu 80.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung morgens 132 zu 84, abends 128 zu 80.",
+   "measurement": null
+  },
+  {
+   "text": "Kein Schwindel mehr heute, sie ist zweimal sicher allein aufgestanden.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Kein Schwindel mehr heute, sie ist zweimal sicher allein aufgestanden.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Arzt wollte die Werte am Freitag sehen."
+ ]
+}

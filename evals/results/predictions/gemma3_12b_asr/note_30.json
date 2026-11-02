@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Frau Wolff",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Wunde am rechten Unterschenkel sah beim Verbandswechsel schlechter aus.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beim Verbandswechsel bei Frau Wolff sah die Wunde am rechten Unterschenkel heute schlechter aus",
+   "measurement": null
+  },
+  {
+   "text": "Die Ränder der Wunde sind gerötet.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Ränder sind gerötet",
+   "measurement": null
+  },
+  {
+   "text": "Es kam mehr Wundsekret als beim letzten Mal.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "es kam mehr Wunnsäkert als beim letzten Mal",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Foto für die Wunddoku ist gemacht.",
+  "Bitte den Wundmanager noch diese Woche einschalten."
+ ]
+}

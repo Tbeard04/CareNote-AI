@@ -1,0 +1,54 @@
+{
+ "resident_ref": "Frau Jansen",
+ "time_mention": "seit heute Vormittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Ständiger Harndrang.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie muss ständig auf die Toilette",
+   "measurement": null
+  },
+  {
+   "text": "Brennen beim Wasserlassen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "es brennt wohl beim Wasser lassen",
+   "measurement": null
+  },
+  {
+   "text": "Verwirrter als sonst.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "wirkt verwirrter als sonst",
+   "measurement": null
+  },
+  {
+   "text": "Mehrfache Verwechslung der Bewohnerin mit ihrer Schwester.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "hat mich zweimal mit ihrer Schwester verwechselt",
+   "measurement": null
+  },
+  {
+   "text": "Erhöhte Temperatur von 37,6 (Einheit nicht genannt).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Temperatur 37,6",
+   "measurement": null
+  },
+  {
+   "text": "Zustand wird im Zusammenhang mit einer vorangegangenen Blasenentzündung gesehen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Das Ganze liegt nach Blasenentzündung.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "es brennt wohl beim Wasser lassen",
+   "note": "Brennen beim Wasserlassen als mögliche Schmerzsymptomatik."
+  }
+ ],
+ "follow_up_actions": [
+  "Urinprobe morgen früh machen",
+  "Den Arzt anrufen"
+ ]
+}

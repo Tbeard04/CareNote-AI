@@ -1,0 +1,20 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "vitalwert_messung",
+ "observations": [
+  {
+   "text": "Erhöhte Körpertemperatur, 37,9 °C am Abend gemessen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Sand hat erhöhte Temperatur, siebenunddreißig Komma neun heute Abend gemessen",
+   "measurement": {
+    "value": 37.9,
+    "unit": "°C"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Morgen früh bitte nochmal messen."
+ ]
+}

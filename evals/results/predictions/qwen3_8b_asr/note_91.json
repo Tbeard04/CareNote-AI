@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Der Herr vom Achter",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Selbstständige Wäschezusammenlegung",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Der Herr vom Achter hat heute seine Wäsche selbst zusammengelegt und wollte unbedingt beim Tischdecken helfen, das machen wir jetzt fest zur Aufgabe für ihn.",
+   "measurement": null
+  },
+  {
+   "text": "Wunsch zur Teilnahme am Tischdecken",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Der Herr vom Achter hat heute seine Wäsche selbst zusammengelegt und wollte unbedingt beim Tischdecken helfen, das machen wir jetzt fest zur Aufgabe für ihn.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Das machen wir jetzt fest zur Aufgabe für ihn."
+ ]
+}

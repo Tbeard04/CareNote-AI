@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herm Castellano",
+ "time_mention": "Nachts",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Wirkt noch sehr zurückhaltend.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Er wirkt noch sehr zurückhaltend",
+   "measurement": null
+  },
+  {
+   "text": "Möchte vorerst nicht in den Speisesaal.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "möchte vorerst nicht in den Speisesaal",
+   "measurement": null
+  },
+  {
+   "text": "Nachts Klingeln, da der Lichtschalter nicht gefunden wurde; Nachtlicht bereitgestellt.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Nachts hat er geklingelt, weil er den Lichtschalter nicht gefunden hat",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "In den nächsten Tagen behutsam Kontaktangebote machen"
+ ]
+}

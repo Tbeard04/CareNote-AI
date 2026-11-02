@@ -1,0 +1,45 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Der Dekubitus an der linken Hüfte von Frau Seidelheit ist weiter gut.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Dekubitus an der linken Hüfte von Frau Seidelheit weiter gut.",
+   "measurement": null
+  },
+  {
+   "text": "Der Durchmesser des Dekubitus ist unter einen Zentimeter geschrumpft.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Durchmesser ist unter einen Zentimeter geschrumpft.",
+   "measurement": null
+  },
+  {
+   "text": "Der Wundgrund ist sauber und rosig.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Wundgrund ist sauber rosig.",
+   "measurement": null
+  },
+  {
+   "text": "Der Verband wurde nach Plan gewechselt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Verband gewechselt nach Plan",
+   "measurement": null
+  },
+  {
+   "text": "Der nächste Verbandwechsel ist am Donnerstag.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nächster Wechsel am Donnerstag",
+   "measurement": null
+  },
+  {
+   "text": "Die Freilegerung klappt mit dem neuen Kissen deutlich besser als vorher.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Freilegerung klappt mit dem neuen Kissen deutlich besser als vorher.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

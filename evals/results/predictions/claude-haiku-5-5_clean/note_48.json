@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Lindqvist",
+ "time_mention": "heute nach der Physiotherapie",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Erstmals wieder 10 m ohne Rollator gegangen (nach Physiotherapie); Bewohner war sehr stolz.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "zum ersten Mal wieder zehn Meter ohne Rollator geschafft",
+   "measurement": {
+    "value": 10.0,
+    "unit": "m"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

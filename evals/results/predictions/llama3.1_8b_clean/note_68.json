@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Fuchs",
+ "time_mention": "seit gestern",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Kauen nur noch auf der linken Seite",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Fuchs mag seit gestern nur noch auf der linken Seite kauen",
+   "measurement": null
+  },
+  {
+   "text": "Schmerz beim Beißen hinten rechts",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "hinten rechts zieht es beim Beißen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "hinten rechts zieht es beim Beißen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Zahnarzttermin organisieren"
+ ]
+}

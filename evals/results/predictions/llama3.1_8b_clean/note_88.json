@@ -1,0 +1,54 @@
+{
+ "resident_ref": "Herr Roth",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Roth hat sich beim Abendessen an einem Stück Fleisch verschluckt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Beim Abendessen hat sich Herr Roth an einem Stück Fleisch verschluckt",
+   "measurement": null
+  },
+  {
+   "text": "Herr Roth war kurz blau im Gesicht.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "er hat stark gehustet und war kurz blau im Gesicht",
+   "measurement": null
+  },
+  {
+   "text": "Nach festem Klopfen zwischen die Schulterblätter kam das Stück raus.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Nach festem Klopfen zwischen die Schulterblätter kam das Stück raus",
+   "measurement": null
+  },
+  {
+   "text": "Herr Roth hat sich schnell erholt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "danach hat er sich schnell erholt",
+   "measurement": null
+  },
+  {
+   "text": "Wir haben das Fleisch dann klein geschnitten.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Wir haben das Fleisch dann klein geschnitten",
+   "measurement": null
+  },
+  {
+   "text": "Bitte ab sofort bei Fleischgerichten alles klein schneiden.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Bitte ab sofort bei Fleischgerichten alles klein schneiden und beim Essen in der Nähe bleiben",
+   "measurement": null
+  },
+  {
+   "text": "Bitte ab sofort beim Essen in der Nähe bleiben.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Bitte ab sofort bei Fleischgerichten alles klein schneiden und beim Essen in der Nähe bleiben",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte ab sofort bei Fleischgerichten alles klein schneiden",
+  "Bitte ab sofort beim Essen in der Nähe bleiben"
+ ]
+}

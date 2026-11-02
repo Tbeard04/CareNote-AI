@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Petrov",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Petrov war heute beim Treppensteigen nach einem halben Stockwerk deutlich außer Atem.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Petrov war heute beim Treppensteigen nach einem halben Stockwerk deutlich außer Atem.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Zeitnah dem Hausarzt melden."
+ ]
+}

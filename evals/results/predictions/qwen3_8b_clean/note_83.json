@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Herr Fuchs",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Funkkopfhörer zur Lautstarkeregulierung im Fernseher",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Herr Fuchs hat jetzt Funkkopfhörer für den Fernseher",
+   "measurement": null
+  },
+  {
+   "text": "Reduzierung von Beschwerden der Nachbarn über Lautstärke",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "seitdem gibt es keine Beschwerden der Nachbarn mehr wegen der Lautstärke",
+   "measurement": null
+  },
+  {
+   "text": "Verbesserte Nachrichtenverständnis durch Funkkopfhörer",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "und er versteht die Nachrichten endlich wieder",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Brandt",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Brandt schlug heute Morgen plötzlich nach meiner Hand und schimpfte, wir würden ihn bestehlen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Herr Brandt hat heute Morgen bei der Grundpflege plötzlich nach meiner Hand geschlagen und geschimpft, wir würden ihn bestehlen.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Brandt entschuldigte sich anschließend für sein Verhalten.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "dann ließ er alles ruhig zu und hat sich sogar entschuldigt.",
+   "measurement": null
+  },
+  {
+   "text": "Es wurde festgestellt, dass solches Verhalten bei Herrn Brandt bisher nicht vorgekommen ist.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "So etwas kam bei ihm bisher nie vor.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte dokumentieren, ob sich das wiederholt."
+ ]
+}

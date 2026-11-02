@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Huber",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Der Bewohner hat heute arg wenig gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "der hat heut wieder arg wenig gegessen",
+   "measurement": null
+  },
+  {
+   "text": "Der Bewohner ist beim Laufen arg wackelig auf den Beinen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte nochmal draufschauen"
+ ]
+}

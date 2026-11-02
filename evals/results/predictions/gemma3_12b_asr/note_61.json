@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Scholz",
+ "time_mention": "Morgens, am späten Vormittag, am Nachmittag, abends",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Körperpflege mit wenig Unterstützung",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Körperpflege mit wenig Unterstützung",
+   "measurement": null
+  },
+  {
+   "text": "Frühstück komplett",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Frühstück komplett",
+   "measurement": null
+  },
+  {
+   "text": "Der eingewachsene Nagel am großen Zeh sieht viel besser aus als vor vier Wochen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "der eingewachsene Nagel am großen Zeh sieht viel besser aus als vor vier Wochen",
+   "measurement": null
+  },
+  {
+   "text": "Frau Scholz hat mehrfach den Faden verloren und dieselbe Frage dreimal gestellt",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Scholz hat mehrfach den Faden verloren und dieselbe Frage dreimal gestellt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "mit ins Übergabebuch nehmen"
+ ]
+}

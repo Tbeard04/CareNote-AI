@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herr Brand",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Kleidung musste dreimal gewechselt werden",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Bei Herrn Brand mussten wir heute dreimal die komplette Kleidung wechseln",
+   "measurement": null
+  },
+  {
+   "text": "Haut im Intimbereich ist gerültet",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Die Haut im Intimbereich ist schon leicht gerültet",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Die Haut im Intimbereich ist schon leicht gerültet",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Größere Vorlagen bestellen",
+  "Die Haut im Blick behalten"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Öztürk",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Öztürk ist heute Vormittag beim Aufstehen zweimal schwindelig geworden.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Öztürk ist heute Vormittag beim Aufstehen zweimal schwindelig geworden.",
+   "measurement": null
+  },
+  {
+   "text": "Sie muss sich gleich widersetzen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Sie muss sich gleich widersetzen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Frau Öztürk ist heute Vormittag beim Aufstehen zweimal schwindelig geworden.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte beim Hausarzt wegen der Dosierung Nachfragen."
+ ]
+}

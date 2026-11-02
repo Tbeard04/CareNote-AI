@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Petova",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Petova hat heute Morgen Rückenschmerzen angegeben.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Petova sagen heute Morgen, der Rücken tut sehr weh",
+   "measurement": null
+  },
+  {
+   "text": "Frau Petova möchte aufgrund von Rückenschmerzen kein Frühstück essen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie nicht wollen Frühstück essen deswegen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "der Rücken tut sehr weh",
+   "note": "Rückenschmerzen, Wunsch nach Schmerzmittel."
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte Doktor fragen wegen Schmerzmittel"
+ ]
+}

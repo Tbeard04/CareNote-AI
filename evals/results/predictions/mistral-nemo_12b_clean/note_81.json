@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Eine kleine Blase an der rechten Ferse wurde festgestellt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beim Strümpfeanziehen ist mir bei Herrn Hansen eine kleine Blase an der rechten Ferse aufgefallen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Als Diabetiker ist das bei ihm heikel",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Tägliche Kontrolle der Ferse",
+  "Zeigen beim Diabetologen-Termin nächste Woche"
+ ]
+}

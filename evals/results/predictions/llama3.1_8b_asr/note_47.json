@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Yilmaz",
+ "time_mention": "heute Nacht um zwei",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Stand an der Haustür und wollte nach Hause zu ihrer Mutter",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Stand heute Nacht um zwei im Mantel an der Haustür und wollte nach Hause zu ihrer Mutter.",
+   "measurement": null
+  },
+  {
+   "text": "Kameltige trunken und über ihre Mutter gesprochen",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Kamelntige trunken und über ihre Mutter gesprochen, danach konnte sie schlafen.",
+   "measurement": null
+  },
+  {
+   "text": "Schlafen konnte",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Kamelntige trunken und über ihre Mutter gesprochen, danach konnte sie schlafen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Biografiarbeit vorziehen"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Seidelheit",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Der Dekorbitus an der linken Verse von Frau Seidelheit weiter gut.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Dekorbitus an der linken Verse von Frau Seidelheit weiter gut.",
+   "measurement": null
+  },
+  {
+   "text": "Der Durchmesser ist unter einen Zentimeter geschrumpft und der Wundgrund ist sauber rosig.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Durchmesser ist unter einen Zentimeter geschrumpft und der Wundgrund ist sauber rosig.",
+   "measurement": null
+  },
+  {
+   "text": "Freilegerung klappt mit dem neuen Kissen deutlich besser als vorher.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Freilegerung klappt mit dem neuen Kissen deutlich besser als vorher.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Verband gewechselt nach Plan, nächster Wechsel am Donnerstag."
+ ]
+}

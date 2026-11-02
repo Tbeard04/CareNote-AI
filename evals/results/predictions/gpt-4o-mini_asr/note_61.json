@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Frau Scholz",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Scholz hat mehrfach den Faden verloren und dieselbe Frage dreimal gestellt.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Am Nachmittag beim Basteln hat Frau Scholz mehrfach den Faden verloren und dieselbe Frage dreimal gestellt, das kannte ich von ihr so noch nicht, sonst ist sie geistig topfit.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Konzentrationssache vom Nachmittag beobachten und ins Übergabebuch aufnehmen."
+ ]
+}

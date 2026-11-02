@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Herr Lindquist",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Hat heute nach der Physiotherapie zum ersten Mal wieder 10 Meter ohne Volato geschafft.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Lindquist hat heute nach der Physiotherapie zum ersten Mal wieder 10 Meter ohne Volato geschafft.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

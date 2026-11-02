@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Lindner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Linke Bremse des Rollators funktioniert nicht mehr richtig. Rollator wurde weggestellt, ein Leihrollator ausgegeben.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "zieht die linke Bremse nicht mehr richtig",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "zieht die linke Bremse nicht mehr richtig",
+   "note": "Defekte Bremse am Gehhilfsmittel als Sturzrisiko."
+  }
+ ],
+ "follow_up_actions": [
+  "Reparatur beim Sanitätshaus anmelden"
+ ]
+}

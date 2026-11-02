@@ -1,0 +1,53 @@
+{
+ "resident_ref": "Frau Keller",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Keller war nach dem Besuch ihres Bruders sehr aufgewühlt.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Nach dem Besuch ihres Bruders war Frau Keller sehr aufgewühlt",
+   "measurement": null
+  },
+  {
+   "text": "Frau Keller hat über Herzklopfen geklagt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie hat über Herzklopfen geklagt",
+   "measurement": null
+  },
+  {
+   "text": "Der Blutdruck war 160 zu 95.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck war 160 zu 95",
+   "measurement": {
+    "value": 160.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Der Blutdruck war nach einer Stunde Ruhe in Zimmer wieder 145 zu 85.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nach einer Stunde Ruhe in Zimmer wieder 145 zu 85",
+   "measurement": {
+    "value": 145.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Beim Abendessen war sie gefasst.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Beim Abendessen war sie gefasst",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Sie hat über Herzklopfen geklagt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte die Betreuerin über die Erbgeschichte informieren."
+ ]
+}

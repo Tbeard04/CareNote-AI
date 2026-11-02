@@ -1,0 +1,25 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "risiko_beobachtung",
+ "observations": [
+  {
+   "text": "Haltestange an der Dusche im Bad von Zimmer sieben ist locker.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Haltestange an der Dusche locker",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Haltestange an der Dusche locker",
+   "note": "Lockere Haltestange im Duschbereich als Sturzrisiko; Haustechnik informiert und Warnschild angebracht."
+  }
+ ],
+ "follow_up_actions": [
+  "Haustechnik informiert",
+  "Schild aufgehängt",
+  "Bis zur Reparatur beim Duschen besonders aufpassen"
+ ]
+}

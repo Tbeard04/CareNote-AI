@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": "heute früh",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Blutzucker hundertzweiundneunzig",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutzucker bei Herrn Hansen heute früh nüchtern hundertzweiundneunzig.",
+   "measurement": {
+    "value": 192.0,
+    "unit": "mg/dL"
+   }
+  },
+  {
+   "text": "Insulin gegeben",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Insulin wie angeordnet gegeben.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

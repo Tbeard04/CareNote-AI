@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Lindner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Lindner hat heute wieder viel zu wenig getrunken",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "sie hat heute wieder viel zu wenig getrunken",
+   "measurement": null
+  },
+  {
+   "text": "Die Lippen waren ganz trocken",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Lippen waren ganz trocken",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "sie hat heute wieder viel zu wenig getrunken",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "im Spätdienst aktiv Getränke anbieten und eintragen"
+ ]
+}

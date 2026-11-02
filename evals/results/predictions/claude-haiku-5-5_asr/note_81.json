@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herrn Hansen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Kleine, erbsengroße, nicht geöffnete Blase an der rechten Ferse bei Herrn Hansen; Diabetiker, daher heikel.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "eine kleine Blase an der rechten Verse aufgefallen, etwa erbsengroß, nicht offen",
+   "measurement": null
+  },
+  {
+   "text": "Steinchen in den Schuhen von Herrn Hansen gefunden.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "da war ein Steinchen drin",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "eine kleine Blase an der rechten Verse aufgefallen",
+   "note": "Blase an der Ferse bei Diabetiker; Druckentlastung veranlasst."
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte täglich die Verse kontrollieren",
+  "beim Diabetologentermin nächste Woche zeigen"
+ ]
+}

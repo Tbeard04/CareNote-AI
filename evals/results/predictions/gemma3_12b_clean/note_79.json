@@ -1,0 +1,41 @@
+{
+ "resident_ref": "Frau Krüger",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Krüger benötigt seit einer Woche ein neues Schlafmittel.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Krüger bekommt seit einer Woche das neue Schlafmittel.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Krüger hat Schwierigkeiten, morgens in die Gänge zu kommen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "morgens kommt sie kaum in die Gänge",
+   "measurement": null
+  },
+  {
+   "text": "Frau Krüger ist beim Frühstück zweimal fast mit dem Kopf auf den Tisch gesackt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "beim Frühstück ist sie zweimal fast mit dem Kopf auf den Tisch gesackt",
+   "measurement": null
+  },
+  {
+   "text": "Frau Krüger zeigt Tagesmüdigkeit.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Die Tagesmüdigkeit war vorher nicht da.",
+   "measurement": null
+  },
+  {
+   "text": "Die Dosis des Schlafmittels könnte zu hoch sein.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Bitte beim Arzt ansprechen, ob die Dosis zu hoch ist.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Arzt ansprechen"
+ ]
+}

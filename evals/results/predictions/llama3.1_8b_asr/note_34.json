@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Herr Albers",
+ "time_mention": "gegen 1 Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "war viel unterwegs",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Albers war allerdings wieder viel unterwegs",
+   "measurement": null
+  },
+  {
+   "text": "wollte in Zimmer von",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Er war an der Tür vom Zimmer von Frau Sand und wollte hinein",
+   "measurement": null
+  },
+  {
+   "text": "hat einen Tee getrunken",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Er war freundlich umlenkbar, hat einen Tee getrunken und ist danach wieder eingeschlafen",
+   "measurement": null
+  },
+  {
+   "text": "Sensormatte ausgelöst",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Die Sensormatte vor seinem Bett hat beide Male ausgelöst",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "tagsüberschauen, ob er müde ist und eventuell den Mittagsschlaf verlängern"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "resident_ref": "Frau Jansen",
+ "time_mention": "heute Vormittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "häufige Toilettengangbedürftigkeit",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie muss ständig auf die Toilette",
+   "measurement": {
+    "value": 1.0,
+    "unit": "mal"
+   }
+  },
+  {
+   "text": "Schmerz beim Wasserlassen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "es brennt wohl beim Wasser lassen",
+   "measurement": null
+  },
+  {
+   "text": "verminderte Orientierung",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "sie wirkt verwirrter als sonst, hat mich zweimal mit ihrer Schwester verwechselt",
+   "measurement": null
+  },
+  {
+   "text": "Fieber",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Temperatur 37,6",
+   "measurement": {
+    "value": 37.6,
+    "unit": "°C"
+   }
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "Sie muss ständig auf die Toilette",
+   "note": null
+  },
+  {
+   "risk": "sturz",
+   "evidence_span": "sie wirkt verwirrter als sonst, hat mich zweimal mit ihrer Schwester verwechselt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "morgen früh Urinprobe machen",
+  "den Arzt anrufen"
+ ]
+}

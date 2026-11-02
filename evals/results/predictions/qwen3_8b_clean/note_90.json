@@ -1,0 +1,46 @@
+{
+ "resident_ref": "Herrn Egger",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Egger hat die Orientierung im Haus verloren und ist mehrfach in das falsche Stockwerk gegangen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Heute hat er zum dritten Mal diese Woche den Weg von der Cafeteria zu seinem Zimmer nicht gefunden und stand ratlos im falschen Stockwerk.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Egger hat Schwierigkeiten, die Mahlzeiten selbständig zu essen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Beim Mittagessen hat er versucht, die Suppe mit der Gabel zu essen, und es erst gemerkt, als ich ihm den Löffel hingelegt habe.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Egger zeigt Anzeichen einer Orientierungsstörung.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Seine Frau sagt, beim Besuch am Sonntag habe er sie zweimal nach dem Namen ihrer Tochter gefragt. Einzeln wäre das alles nichts, aber es häuft sich seit ungefähr einem Monat.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Heute hat er zum dritten Mal diese Woche den Weg von der Cafeteria zu seinem Zimmer nicht gefunden und stand ratlos im falschen Stockwerk.",
+   "note": null
+  },
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Heute hat er zum dritten Mal diese Woche den Weg von der Cafeteria zu seinem Zimmer nicht gefunden und stand ratlos im falschen Stockwerk.",
+   "note": null
+  },
+  {
+   "risk": "schmerz",
+   "evidence_span": "Heute hat er zum dritten Mal diese Woche den Weg von der Cafeteria zu seinem Zimmer nicht gefunden und stand ratlos im falschen Stockwerk.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Ich fände eine gerontopsychiatrische Abklärung sinnvoll, bitte beim nächsten Arztkontakt ansprechen",
+  "bis dahin die Orientierungshilfen am Flur erneuern, die Schilder sind ziemlich verblasst"
+ ]
+}

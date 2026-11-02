@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Krause",
+ "time_mention": "heute Nacht",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schlafstörung",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Krause hat heute Nacht schlecht geschlafen, war gegen drei Uhr wach und sehr unruhig.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

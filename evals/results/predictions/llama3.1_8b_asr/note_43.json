@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Frau Simon",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "war sehr still",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "war sehr still und hat beim Gedichtnistraining nicht mitgemacht.",
+   "measurement": null
+  },
+  {
+   "text": "hat beim Gedichtnistraining nicht mitgemacht",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "war sehr still und hat beim Gedichtnistraining nicht mitgemacht.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

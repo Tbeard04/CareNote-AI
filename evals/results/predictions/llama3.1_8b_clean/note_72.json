@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Frau Petrova",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rückenschmerzen sind weg",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Rückenschmerzen sind weg",
+   "measurement": null
+  },
+  {
+   "text": "sie hat sogar wieder gestrickt",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "sie hat sogar wieder gestrickt",
+   "measurement": null
+  },
+  {
+   "text": "keine Auffälligkeiten",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "keine Auffälligkeiten",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

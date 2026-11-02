@@ -4,35 +4,32 @@
  "entry_type": "risiko_beobachtung",
  "observations": [
   {
-   "text": "Sturz im Bad am Waschbecken beim Umdrehen, nicht mit dem Kopf aufgeschlagen.",
+   "text": "Sturz im Bad beim Umdrehen am Waschbecken, nicht mit dem Kopf aufgeschlagen.",
    "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "Herr Nowak ist heute gegen 14.30 Uhr im Bad gestürzt, beim Umdrehen am Waschbecken",
+   "evidence_span": "heute gegen 14.30 Uhr im Bad gestürzt, beim Umdrehen am Waschbecken",
    "measurement": null
   },
   {
-   "text": "Prellung am linken Ellenbogen nach Sturz.",
+   "text": "Prellung am linken Ellenbogen nach dem Sturz.",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "hat aber eine Prellung am linken Ellenbogen",
+   "evidence_span": "eine Prellung am linken Ellenbogen",
    "measurement": null
   },
   {
-   "text": "Blutdruck nach dem Sturz 160/95 mmHg.",
+   "text": "Blutdruck nach dem Sturz 160 zu 95.",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Blutdruck danach 160 zu 95",
-   "measurement": {
-    "value": 160.0,
-    "unit": "mmHg"
-   }
+   "measurement": null
   }
  ],
  "risk_flags": [
   {
    "risk": "sturz",
-   "evidence_span": "Herr Nowak ist heute gegen 14.30 Uhr im Bad gestürzt",
+   "evidence_span": "im Bad gestürzt",
    "note": "Sturz beim Umdrehen am Waschbecken; Arzt verständigt, Sturzprotokoll ausgefüllt."
   }
  ],
  "follow_up_actions": [
-  "Bitte heute Nacht engmaschig nach ihm schauen."
+  "Heute Nacht engmaschig nach Herrn Nowak schauen."
  ]
 }

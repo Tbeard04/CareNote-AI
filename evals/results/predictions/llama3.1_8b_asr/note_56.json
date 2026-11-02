@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Winkler",
+ "time_mention": "seit gestern",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Kratzspuren auf Unterarmen",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Frau Winkler kratzt sich seit gestern ständig an beiden Unterarmen, die Haut ist trocken und man sieht schon Kratzspuren.",
+   "measurement": null
+  },
+  {
+   "text": "Trockene Haut auf Unterarmen",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Frau Winkler kratzt sich seit gestern ständig an beiden Unterarmen, die Haut ist trocken und man sieht schon Kratzspuren.",
+   "measurement": null
+  },
+  {
+   "text": "Jucken nachts am schlimmsten",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Sie sagt, nachts ist das Jucken am schlimmsten.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Hautarztanfrage anfragen, wenn bis Montag nicht besser"
+ ]
+}

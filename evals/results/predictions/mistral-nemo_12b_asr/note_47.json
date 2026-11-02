@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Yilmaz",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Yilmaz stand heute Nacht um zwei im Mantel an der Haustür und wollte nach Hause zu ihrer Mutter.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Yilmaz, die seit Montag bei uns ist, stand heute Nacht um zwei im Mantel an der Haustür und wollte nach Hause zu ihrer Mutter.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "stand heute Nacht um zwei im Mantel an der Haustür",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte im Team besprechen, ob wir die Biografiarbeit vorziehen."
+ ]
+}

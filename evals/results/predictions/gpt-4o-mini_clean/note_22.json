@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Öztürk",
+ "time_mention": "heute Vormittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Öztürk ist heute Vormittag beim Aufstehen zweimal schwindlig geworden, sie musste sich gleich wieder setzen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Öztürk ist heute Vormittag beim Aufstehen zweimal schwindlig geworden, sie musste sich gleich wieder setzen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Frau Öztürk ist heute Vormittag beim Aufstehen zweimal schwindlig geworden, sie musste sich gleich wieder setzen.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte beim Hausarzt wegen der Dosierung nachfragen."
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Frau Scholz",
+ "time_mention": "Am Nachmittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Beim Basteln am Nachmittag mehrfach Verlust des Gesprächs- bzw. Arbeitsfadens und Wiederholung derselben Frage (dreimal); für die Bewohnerin bisher untypisch.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "hat Frau Scholz mehrfach den Faden verloren und dieselbe Frage drei Mal gestellt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Konzentrationsauffälligkeit vom Nachmittag erstmal nur beobachten und ins Übergabebuch aufnehmen"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Yilmaz",
+ "time_mention": "heute Nacht",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Bewohnerin versucht, nach Hause zu ihrer Mutter zu gehen",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Frau Yilmaz, die seit Montag bei uns ist, stand heute Nacht um zwei im Mantel an der Haustür und wollte nach Hause zu ihrer Mutter.",
+   "measurement": null
+  },
+  {
+   "text": "Bewohnerin benötigt Begleitung, um nach Hause zu gelangen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Ich habe sie behutsam zurückbegleitet",
+   "measurement": null
+  },
+  {
+   "text": "Bewohnerin hat Schwierigkeiten, sich zu orientieren",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "wir haben einen Kamelntige trunken und über ihre Mutter gesprochen, danach konnte sie schlafen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte im Team besprechen, ob wir die Biografiarbeit vorziehen"
+ ]
+}

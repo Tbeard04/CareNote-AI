@@ -1,0 +1,45 @@
+{
+ "resident_ref": "Herr Esposito",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Esposito klagt seit gestern über Verstopfung, heute wieder kein Stuhlgang.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Esposito klagt seit gestern über Verstopfung, heute wieder kein Stuhlgang.",
+   "measurement": null
+  },
+  {
+   "text": "Ich habe ihm das verordnete Macrogol gegeben.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich habe ihm das verordnete Macrogol gegeben.",
+   "measurement": null
+  },
+  {
+   "text": "viel zu trinken angeboten.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "viel zu trinken angeboten.",
+   "measurement": null
+  },
+  {
+   "text": "Er isst normal.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Er isst normal.",
+   "measurement": null
+  },
+  {
+   "text": "Wenn bis morgen Abend nichts kommt, bitte den Arzt informieren.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Wenn bis morgen Abend nichts kommt, bitte den Arzt informieren.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "viel zu trinken angeboten.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": []
+}

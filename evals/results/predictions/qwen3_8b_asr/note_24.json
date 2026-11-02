@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Frau Berger",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schulter schmerzhaft",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Schulter tut seit dem Nachmittag weh",
+   "measurement": null
+  },
+  {
+   "text": "Schulter druckempfindlich",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Schulter ist nicht geschwollen, aber druckempfindlich",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "die Schulter tut seit dem Nachmittag weh",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "morgen beobachten",
+  "wenn es schlimmer wird, den Arzt dazuholen"
+ ]
+}

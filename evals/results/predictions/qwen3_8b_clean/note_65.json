@@ -1,0 +1,33 @@
+{
+ "resident_ref": "Frau Seidel",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Matratze wurde eingebaut und eingestellt",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "die neue Matratze geliefert wurde und, Moment, da klingelt gerade jemand, bin gleich wieder da. So, weiter, also die Wechseldruckmatratze ist eingebaut und eingestellt",
+   "measurement": null
+  },
+  {
+   "text": "Bewohnerin berichtet über verbesserte Bequemlichkeit",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Frau Seidel liegt nach eigener Aussage deutlich bequemer",
+   "measurement": null
+  },
+  {
+   "text": "Fersen sind frei gelagert",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Die Fersen sind jetzt frei gelagert",
+   "measurement": null
+  },
+  {
+   "text": "Hautkontrolle ohne Auffälligkeiten",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Hautkontrolle heute unauffällig",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

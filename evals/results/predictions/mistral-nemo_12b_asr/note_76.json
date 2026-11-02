@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Novak",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Novak ist seit heute Morgen heiser.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Novak ist seit heute Morgen heiser",
+   "measurement": null
+  },
+  {
+   "text": "Frau Novak hat Halsschmerzen und trinkt kaum.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "mag wegen Halsschmerzen kaum trinken",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "mag wegen Halsschmerzen kaum trinken",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Trinkmenge heute mitzählen"
+ ]
+}

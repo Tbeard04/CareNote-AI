@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Frau Simon",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Simon nahm gestern nicht an der Gymnastik teil; laut Pflegendem wollte sie aufgrund von Müdigkeit nicht gehen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Ich erklären, Frau Simon selber nicht wollen gehen, sie müde sein.",
+   "measurement": null
+  },
+  {
+   "text": "Tochter von Frau Simon ist mit der Nichtteilnahme an der Gymnastik unzufrieden und möchte mit der Leitung sprechen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Tochter trotzdem wollen sprechen mit Leitung.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Tochter von Frau Simon heute anrufen",
+  "Nummer des Büros an die Tochter weitergeben"
+ ]
+}

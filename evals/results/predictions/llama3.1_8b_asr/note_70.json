@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Lombardi",
+ "time_mention": "heute Nacht",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Lombardi war zweimal komplett durchgeschwitzt",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Herr Lombardi war heute Nacht zweimal komplett durchgeschwitzt",
+   "measurement": null
+  },
+  {
+   "text": "Bettwäsche und Schlafanzug wurden gewechselt",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "wir haben Bettwäsche und Schlafanzug gewechselt",
+   "measurement": null
+  },
+  {
+   "text": "Fieber war nicht vorhanden",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Fieber hatte er nicht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte in der Übergabe erwähnen, falls es wieder vorkommt"
+ ]
+}

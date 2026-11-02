@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Groß",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rote Stelle am Rücken festgestellt",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich heute beim Waschenseen bei Frau Groß am Rücken unten eine rote Stelle",
+   "measurement": null
+  },
+  {
+   "text": "Rote Stelle hat eine Größe von ungefähr zwei Euro Stück",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "ungefähr so groß wie zwei Euro Stück",
+   "measurement": null
+  },
+  {
+   "text": "Rötung bleibt bei Druck bestehen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Wenn ich drücken, es nicht weggehen, bleiben rot",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Ich legen Sie dann mehr auf die Seite und sagen Kollegin Bescheid",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte heute Abend wieder schauen"
+ ]
+}

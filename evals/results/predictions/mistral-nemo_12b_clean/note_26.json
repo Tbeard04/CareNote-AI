@@ -1,0 +1,29 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Richter hat beim Essen zwei Mal stark gehustet, wenn sie trinken.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Richter heute beim Essen zwei Mal stark husten, wenn sie trinken.",
+   "measurement": null
+  },
+  {
+   "text": "Es wird vermutet, dass Frau Richter sich leicht verschluckt.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Ich glauben, sie verschlucken sich leicht.",
+   "measurement": null
+  },
+  {
+   "text": "Es wurde Wasser mit Verdickung gegeben, um das Trinken zu erleichtern.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Ich geben dann das Wasser mit Verdickung, das gehen besser.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte Logopädie fragen, ob Schlucktest nötig."
+ ]
+}

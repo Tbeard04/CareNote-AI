@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Frau Groß",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Hautstelle am Rücken heute blasser als gestern",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Stelle am Rücken ist heute blasser als gestern",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "die Stelle am Rücken ist heute blasser als gestern",
+   "note": "Veränderung einer Hautstelle am Rücken; Dekubitus wird im Transkript nicht ausdrücklich genannt."
+  }
+ ],
+ "follow_up_actions": []
+}

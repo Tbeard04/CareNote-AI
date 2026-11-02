@@ -1,0 +1,17 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Petrov hatte beim Treppensteigen nach einem halben Stockwerk Atmungsprobleme und musste eine Pause machen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Petrov war heute beim Treppensteigen nach einem halben Stockwerk deutlich außer Atem, er musste sich am Geländer festhalten und eine Pause machen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "zeitnah dem Hausarzt melden"
+ ]
+}

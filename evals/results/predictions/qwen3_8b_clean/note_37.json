@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herrn Yildiz",
+ "time_mention": "Frühstück",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Brille nicht mehr vorhanden",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Die Brille von Herrn Yildiz ist seit dem Frühstück verschwunden",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "weitersuchen",
+  "die Tochter wegen der Ersatzbrille anrufen"
+ ]
+}

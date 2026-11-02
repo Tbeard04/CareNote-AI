@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Hartmann",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Ernährungssituation verbessert",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Seit die Übelkatztropfen abgesetzt sind, ist Frau Hartmann wieder normal, heute sogar Nachschlag beim Mittagessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

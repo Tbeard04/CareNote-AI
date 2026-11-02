@@ -1,0 +1,50 @@
+{
+ "resident_ref": "Herrn Costa",
+ "time_mention": "heute Nachmittag gegen fünfzehn Uhr vierzig",
+ "entry_type": "risiko_beobachtung",
+ "observations": [
+  {
+   "text": "Sturz im Flur vor Zimmer gestürzt, vermutlich über die Teppichkante; seitlich gefallen, nicht mit dem Kopf aufgekommen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "er ist seitlich gefallen und nicht mit dem Kopf aufgekommen",
+   "measurement": null
+  },
+  {
+   "text": "Schmerzen in der linken Hüfte nach dem Sturz; Patient kann stehen und einige Schritte gehen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Er klagt über Schmerzen in der linken Hüfte",
+   "measurement": null
+  },
+  {
+   "text": "Blutdruck nach dem Sturz 150/88.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck nach dem Sturz hundertfünfzig zu achtundachtzig",
+   "measurement": null
+  },
+  {
+   "text": "Puls nach dem Sturz 78.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Puls achtundsiebzig",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "vermutlich über die Teppichkante",
+   "note": "Sturz im Flur, Ursache vermutlich Teppichkante; Teppichkante vorläufig mit Klebeband fixiert."
+  },
+  {
+   "risk": "schmerz",
+   "evidence_span": "Er klagt über Schmerzen in der linken Hüfte",
+   "note": "Schmerzen linke Hüfte nach Sturz; bei stärkeren Schmerzen sofort Notdienst rufen."
+  }
+ ],
+ "follow_up_actions": [
+  "Hausarzt ist informiert und kommt morgen früh vorbei",
+  "Sturzprotokoll ausgefüllt",
+  "Teppichkante vorerst mit Klebeband fixiert",
+  "Heute Nacht zweistündlich nach Herrn Costa sehen",
+  "Bei stärkeren Schmerzen sofort den Notdienst rufen"
+ ]
+}

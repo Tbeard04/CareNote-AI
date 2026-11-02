@@ -1,0 +1,47 @@
+{
+ "resident_ref": "Frau Lorenz",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "starke Schmerzen im Rücken",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Lorenz hat beim Lagern über starke Schmerzen im Rücken geklagt",
+   "measurement": null
+  },
+  {
+   "text": "Schmerzstärke sieben von zehn",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "sie schätzt sie auf sieben von zehn",
+   "measurement": null
+  },
+  {
+   "text": "Abweisung Schmerztablette",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die angebotene Schmerztablette hat sie abgelehnt",
+   "measurement": null
+  },
+  {
+   "text": "Abweisung Schmerztablette wegen Übelkeit",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "sie sagt, davon wird ihr immer schlecht",
+   "measurement": null
+  },
+  {
+   "text": "Annahme Wärmflasche",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Wärmflasche hat sie angenommen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Frau Lorenz hat beim Lagern über starke Schmerzen im Rücken geklagt",
+   "note": "Das Thema kommt jetzt öfter"
+  }
+ ],
+ "follow_up_actions": [
+  "mit dem Arzt über eine Alternative sprechen"
+ ]
+}

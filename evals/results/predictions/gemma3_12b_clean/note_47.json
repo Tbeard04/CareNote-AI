@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Yilmaz",
+ "time_mention": "heute Nacht um zwei",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Yilmaz stand heute Nacht um zwei im Mantel an der Haustür und wollte nach Hause zu ihrer Mutter.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Yilmaz, die seit Montag bei uns ist, stand heute Nacht um zwei im Mantel an der Haustür und wollte nach Hause zu ihrer Mutter.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Yilmaz wurde behutsam zurückbegleitet.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Ich habe sie behutsam zurückbegleitet",
+   "measurement": null
+  },
+  {
+   "text": "Es wurde ein Kamillentee getrunken und über die Mutter von Frau Yilmaz gesprochen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "wir haben einen Kamillentee getrunken und über ihre Mutter gesprochen",
+   "measurement": null
+  },
+  {
+   "text": "Frau Yilmaz konnte nach dem Gespräch schlafen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "danach konnte sie schlafen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Im Team besprechen, ob wir die Biografiearbeit vorziehen."
+ ]
+}

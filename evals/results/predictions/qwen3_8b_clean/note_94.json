@@ -1,0 +1,25 @@
+{
+ "resident_ref": "Frau Winkler und Frau Groß",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Streit zwischen Bewohnerinnen über Fensterlüftung",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Zwischen Frau Winkler und ihrer Zimmernachbarin Frau Groß kriselt es weiter wegen des Fensters, die eine will lüften, die andere friert.",
+   "measurement": null
+  },
+  {
+   "text": "Lautstarker Streit vor dem Mittagessen",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Heute gab es deswegen wieder lautstarken Streit vor dem Mittagessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Feste Lüftungszeiten vereinbart",
+  "Zettel ans Fenster gehängt",
+  "Thema Zimmerwechsel beim Heimbeirat angemeldet"
+ ]
+}

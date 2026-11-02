@@ -1,0 +1,41 @@
+{
+ "resident_ref": "Frau Lorenz",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Starke Schmerzen im Rücken beim Lagern, Selbsteinschätzung 7 von 10.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "starke Schmerzen im Rücken",
+   "measurement": null
+  },
+  {
+   "text": "Angebotene Schmerztablette abgelehnt; Begründung: davon wird ihr immer schlecht.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die angebotene Schmerztablette hat sie abgelehnt, sie sagt, davon wird ihr immer schlecht.",
+   "measurement": null
+  },
+  {
+   "text": "Wärmflasche als alternative Maßnahme angenommen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Wärmflasche hat sie angenommen.",
+   "measurement": null
+  },
+  {
+   "text": "Schmerzthema tritt zunehmend häufiger auf.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "das Thema kommt jetzt öfter",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "starke Schmerzen im Rücken",
+   "note": "Wiederholtes Auftreten; Ablehnung der Schmerztablette."
+  }
+ ],
+ "follow_up_actions": [
+  "Mit dem Arzt über eine Alternative zur Schmerzmedikation sprechen."
+ ]
+}

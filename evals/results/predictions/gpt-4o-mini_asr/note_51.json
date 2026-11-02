@@ -1,0 +1,17 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Bitte bis zur Reparatur beim Duschen dort besonders aufpassen.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Haustechnik informieren",
+  "Schild aufhängen"
+ ]
+}

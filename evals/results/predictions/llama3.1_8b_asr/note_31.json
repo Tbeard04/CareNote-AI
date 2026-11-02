@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Meier",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Wiederholt Duschen verweigert",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Meier wollt heute wieder Patune duschen, gel. Hab ihm gut zugeredet, aber er hat bloß gebrummt, lasst mich in Ruhe.",
+   "measurement": null
+  },
+  {
+   "text": "Wäschen am Waschbecken zugelassen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Waschen am Waschbecken hat er dann zuglassen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Das ist jetzt die dritte Woche ohne Duschen, vielleicht mag die Bezugspflegerin am Montag nochmal mit ihm reden.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bezugspflegerin spricht mit Herrn Meier am Montag"
+ ]
+}

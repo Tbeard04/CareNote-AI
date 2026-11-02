@@ -1,0 +1,29 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Richter hat beim Essen zweimal stark gehustet, wenn sie trinken.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Frau Richter heute beim Essen zweimal stark husten, wenn sie trinken.",
+   "measurement": null
+  },
+  {
+   "text": "Es wird vermutet, dass Frau Richter sich leicht verschluckt.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Ich glaube, sie verschlucken sich leicht.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Bitte Logo-Pedifragen, ob schlucktestmütig.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Das Wasser mit Verdickung geben, um das Trinken zu erleichtern."
+ ]
+}

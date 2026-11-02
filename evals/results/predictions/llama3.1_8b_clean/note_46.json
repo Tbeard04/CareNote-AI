@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Herr Hoffmann",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Blutdruck hundertachtundzwanzig zu zweiundachtzig",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck hundertachtundzwanzig zu zweiundachtzig",
+   "measurement": {
+    "value": 128.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Puls vierundsechzig",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Puls vierundsechzig",
+   "measurement": {
+    "value": 64.0,
+    "unit": "Schläge pro Minute"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

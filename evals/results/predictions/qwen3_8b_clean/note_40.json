@@ -1,0 +1,33 @@
+{
+ "resident_ref": "Frau Martin",
+ "time_mention": "heute Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schwellung der Unterschenkel",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Bei Frau Martin sind die Unterschenkel heute Abend deutlich geschwollen, man sieht die Dellen vom Strumpfbund.",
+   "measurement": {
+    "value": 0.0,
+    "unit": "kg"
+   }
+  },
+  {
+   "text": "Nicht getragene Kompressionsstrümpfe",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Die Kompressionsstrümpfe hat sie heute nicht getragen, sie sagt, das Anziehen tut ihr weh.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Die Kompressionsstrümpfe hat sie heute nicht getragen, sie sagt, das Anziehen tut ihr weh.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte morgen beim Anziehen helfen",
+  "die Schwellung dem Arzt melden, wenn sie nicht zurückgeht"
+ ]
+}

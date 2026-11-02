@@ -1,0 +1,23 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Sommer hat die Augentropfen heute früh abgelehnt.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Sie hat die Augentropfen heute früh wieder abgelehnt",
+   "measurement": null
+  },
+  {
+   "text": "Frau Sommer hat angegeben, dass die Augentropfen brennen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "sagt, die brennen so",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte das Brennen beim nächsten Arztbesuch ansprechen"
+ ]
+}

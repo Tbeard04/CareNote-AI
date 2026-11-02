@@ -1,0 +1,33 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": "siebzehn Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unterzucker, Blutzucker achtundfünfzig.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Achtung, Herr Hansen hatte um siebzehn Uhr einen Unterzucker, Blutzucker achtundfünfzig.",
+   "measurement": {
+    "value": 50.0,
+    "unit": "mg/dl"
+   }
+  },
+  {
+   "text": "Nach zwanzig Minuten wieder bei hundertzehn.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Nach zwanzig Minuten wieder bei hundertzehn.",
+   "measurement": {
+    "value": 110.0,
+    "unit": "mg/dl"
+   }
+  },
+  {
+   "text": "Abendessen hat er komplett gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Abendessen hat er komplett gegessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Sommer",
+ "time_mention": "heute früh",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Sommer hat die Augentropfen heute früh abgelehnt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie hat die Augen getropft heute früh wieder abgelehnt",
+   "measurement": null
+  },
+  {
+   "text": "Frau Sommer beschreibt ein Brennen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "und sagt, die Brenne so",
+   "measurement": null
+  },
+  {
+   "text": "Frau Sommer nahm die Augentropfen später an.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich habe es später nochmal versucht, da ging es dann",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte das Brennen beim nächsten Arztbesuch ansprechen, nicht, dass da was nicht stimmt."
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Brandt",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Plötzlich aggressives Verhalten bei der Grundpflege: Schlagen nach der Pflegekraft und Vorwurf des Bestehlens. Nach Unterbrechung der Pflege und Rückkehr mit einer Kollegin ruhige Kooperation und Entschuldigung. Bisher kein vergleichbares Verhalten bekannt.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "plötzlich nach meiner Hand geschlagen und geschimpft, wir würden ihn bestehlen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Dokumentieren, ob sich das wiederholt"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Blutdruck von Herrn Hoffmann war 182 zu 82 mmHg.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck hundertachtundzwanzig zu zweiundachtzig",
+   "measurement": null
+  },
+  {
+   "text": "Puls von Herrn Hoffmann war 64 Schläge pro Minute.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Puls vierundsechzig",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

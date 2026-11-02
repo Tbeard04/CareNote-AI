@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Krüger",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Morgens Schwierigkeiten mit der Mobilisierung",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "morgens kommt sie kaum in die Gänge",
+   "measurement": null
+  },
+  {
+   "text": "Risiko für Sturz beim Frühstück",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "zweimal fast mit dem Kopf auf den Tisch gesackt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "zweimal fast mit dem Kopf auf den Tisch gesackt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte beim Arzt ansprechen, ob die Dosis zu hoch ist"
+ ]
+}

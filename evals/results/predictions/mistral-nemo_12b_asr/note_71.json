@@ -1,0 +1,29 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Blutdruck morgens 132 zu 84, abends 128 zu 80",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung morgens 132 zu 84, abends 128 zu 80",
+   "measurement": null
+  },
+  {
+   "text": "Kein Schwindel mehr heute",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Kein Schwindel mehr heute",
+   "measurement": null
+  },
+  {
+   "text": "Sie ist zweimal sicher allein aufgestanden",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Sie ist zweimal sicher allein aufgestanden",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Arzt soll die Werte am Freitag sehen"
+ ]
+}

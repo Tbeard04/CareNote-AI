@@ -1,0 +1,23 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rote Stelle am Rücken unten bei Frau Groß",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Ich heute beim Waschen sehen bei Frau Groß am Rücken unten eine rote Stelle, ungefähr so groß wie Zwei-Euro-Stück.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Ich heute beim Waschen sehen bei Frau Groß am Rücken unten eine rote Stelle, ungefähr so groß wie Zwei-Euro-Stück.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte heute Abend wieder schauen."
+ ]
+}

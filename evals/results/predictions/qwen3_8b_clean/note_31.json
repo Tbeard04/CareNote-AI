@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Maier",
+ "time_mention": "heut",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Widerstand gegen Duschen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "der Herr Maier wollt heut wieder partout net duschen",
+   "measurement": null
+  },
+  {
+   "text": "Widerstand gegen Duschen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "der Herr Maier wollt heut wieder partout net duschen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "die Bezugspflegerin am Montag nochmal mit ihm reden"
+ ]
+}

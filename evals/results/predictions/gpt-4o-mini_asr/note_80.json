@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Frau Hartmann",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Hartmann ist wieder normal.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Seit die Übelkatztropfen abgesetzt sind, ist Frau Hartmann wieder normal.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Hartmann hatte Nachschlag beim Mittagessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "heute sogar Nachschlag beim Mittagessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

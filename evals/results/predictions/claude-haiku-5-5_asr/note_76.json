@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Novak",
+ "time_mention": "seit heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Heiserkeit seit heute Morgen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "ist seit heute Morgen heiser",
+   "measurement": null
+  },
+  {
+   "text": "Halsschmerzen, Trinkbereitschaft vermindert",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "mag wegen Halsschmerzen kaum trinken",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "mag wegen Halsschmerzen kaum trinken",
+   "note": "Geringe Trinkmenge bei Halsschmerzen."
+  },
+  {
+   "risk": "schmerz",
+   "evidence_span": "Halsschmerzen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Lauwarmen Tee mit Honig schluckweise anbieten",
+  "Trinkmenge heute mitzählen"
+ ]
+}

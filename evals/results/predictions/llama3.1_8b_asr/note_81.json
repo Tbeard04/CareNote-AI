@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "kleine Blase an der rechten Verse",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Beim Strünfinzin ist mir bei Herrn Hansen eine kleine Blase an der rechten Verse aufgefallen, etwa erbsengroß, nicht offen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Als Diabetiker ist das bei ihm heikel.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "täglich die Verse kontrollieren",
+  "beim Diabetologentermin nächste Woche zeigen"
+ ]
+}

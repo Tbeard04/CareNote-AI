@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Krüger",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schlafmittel seit einer Woche",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Krüger bekommt seit einer Woche das neue Schlafmittel",
+   "measurement": null
+  },
+  {
+   "text": "Gut einschlafen, morgens aber schwer in die Gänge kommen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Einschlafen klappt jetzt gut, aber morgens kommt sie kaum in die Gänge",
+   "measurement": null
+  },
+  {
+   "text": "Zweimal fast mit dem Kopf auf den Tisch gesackt",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "beim Frühstück ist sie zweimal fast mit dem Kopf auf den Tisch gesackt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "beim Frühstück ist sie zweimal fast mit dem Kopf auf den Tisch gesackt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Ansprechen beim Arzt, ob die Dosis zu hoch ist"
+ ]
+}

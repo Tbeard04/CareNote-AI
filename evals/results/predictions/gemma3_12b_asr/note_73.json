@@ -1,0 +1,38 @@
+{
+ "resident_ref": "Frau Jansen",
+ "time_mention": "heute Vormittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Jansen hat seit heute Vormittag häufigen Harndrang.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie muss ständig auf die Toilette",
+   "measurement": null
+  },
+  {
+   "text": "Frau Jansen berichtet von Brennen beim Wasserlassen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "es brennt wohl beim Wasser lassen",
+   "measurement": null
+  },
+  {
+   "text": "Frau Jansen zeigt eine erhöhte Verwirrtheit.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "und sie wirkt verwirrter als sonst, hat mich zweimal mit ihrer Schwester verwechselt",
+   "measurement": null
+  },
+  {
+   "text": "Die Körpertemperatur von Frau Jansen beträgt 37,6.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Temperatur 37,6",
+   "measurement": {
+    "value": 37.6,
+    "unit": "°C"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte morgen früh Urinprobe machen und den Arzt anrufen."
+ ]
+}

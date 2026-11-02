@@ -1,10 +1,10 @@
 {
  "resident_ref": "Frau Petova",
  "time_mention": "heute Morgen",
- "entry_type": "risiko_beobachtung",
+ "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Starke Rückenschmerzen im unteren Rücken beim Aufstehen.",
+   "text": "Starke Rückenschmerzen unten beim Aufstehen. Wärmekissen gegeben, hilft etwas.",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "der Rücken tut sehr weh, unten, wenn sie aufstehen",
    "measurement": null
@@ -20,11 +20,10 @@
   {
    "risk": "schmerz",
    "evidence_span": "der Rücken tut sehr weh, unten, wenn sie aufstehen",
-   "note": "Schmerzen beim Aufstehen mit Auswirkung auf die Nahrungsaufnahme."
+   "note": "Starke Rückenschmerzen beim Aufstehen, ärztliche Abklärung zur Schmerztherapie angestoßen."
   }
  ],
  "follow_up_actions": [
-  "Wärmekissen gegeben.",
-  "Ärztliche Rücksprache wegen Schmerzmittel."
+  "Doktor fragen wegen Schmerzmittel"
  ]
 }

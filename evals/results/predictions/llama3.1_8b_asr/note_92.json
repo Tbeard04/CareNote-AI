@@ -1,0 +1,45 @@
+{
+ "resident_ref": "Frau Seidelheit",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Dekorbitus an der linken Vorderseite weiter gut",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Der Dekorbitus an der linken Verse von Frau Seidelheit weiter gut.",
+   "measurement": null
+  },
+  {
+   "text": "Durchmesser unter einen Zentimeter geschrumpft",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Der Durchmesser ist unter einen Zentimeter geschrumpft",
+   "measurement": null
+  },
+  {
+   "text": "Wundgrund sauber rosig",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Der Wundgrund ist sauber rosig",
+   "measurement": null
+  },
+  {
+   "text": "Verband gewechselt nach Plan",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Verband gewechselt nach Plan",
+   "measurement": null
+  },
+  {
+   "text": "Nächster Wechsel am Donnerstag",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "nächster Wechsel am Donnerstag",
+   "measurement": null
+  },
+  {
+   "text": "Freilegerung klappt mit dem neuen Kissen deutlich besser als vorher",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Freilegerung klappt mit dem neuen Kissen deutlich besser als vorher",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

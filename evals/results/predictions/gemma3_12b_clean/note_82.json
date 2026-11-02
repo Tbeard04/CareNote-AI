@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Simon",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Tochter von Frau Simon hat heute angerufen und war sehr böse, warum Mutter gestern nicht bei Gymnastik war.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Die Tochter von Frau Simon heute anrufen und sehr böse sein, warum Mutter gestern nicht bei Gymnastik war.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Simon selber nicht wollen gehen, sie müde sein.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich erklären, Frau Simon selber nicht wollen gehen, sie müde sein.",
+   "measurement": null
+  },
+  {
+   "text": "Tochter trotzdem wollen sprechen mit Leitung.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Tochter trotzdem wollen sprechen mit Leitung.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Simon selber heute gut drauf, bei Gymnastik dabei.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Frau Simon selber heute gut drauf, bei Gymnastik dabei.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Frau Simon selber heute gut drauf, bei Gymnastik dabei."
+ ]
+}

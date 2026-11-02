@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Esposito",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Esposito klagt seit gestern über Verstockfung, heute wieder kein Stuhlgang.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Esposito klagt seit gestern über Verstockfung, heute wieder kein Stuhlgang.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "Ich habe Ihnen das verordnete Makro-Goll gegeben und viel zu trinken angeboten.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Wenn bis Morgenabend nichts kommt, bitte den Arzt informieren."
+ ]
+}

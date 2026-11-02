@@ -4,9 +4,9 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Verweigerte beim Frühstück die Einnahme der Tabletten; Tabletten zunächst liegen gelassen, erst nach langem Zureden eingenommen.",
+   "text": "Verweigert die Einnahme der Tabletten beim Frühstück; Tabletten zunächst liegen gelassen, erst nach langem Zureden eingenommen.",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "hat sie erst liegen lassen und dann nach langem Zureden doch genommen",
+   "evidence_span": "seine Tabletten nicht nehmen wollen, hat sie erst liegen lassen und dann nach langem Zureden doch genommen",
    "measurement": null
   }
  ],

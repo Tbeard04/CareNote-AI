@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Fuchs",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Fuchs mag seit gestern nur noch auf der linken Seite kauen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Fuchs mag seit gestern nur noch auf der linken Seite kauen",
+   "measurement": null
+  },
+  {
+   "text": "Er sagt, hinten rechts zieht es beim Beißen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Er sagt, hinten rechts zieht es beim Beißen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte zeitnah einen Zahnärztamin organisieren."
+ ]
+}

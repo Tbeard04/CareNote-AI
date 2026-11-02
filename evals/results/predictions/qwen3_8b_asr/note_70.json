@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Lombardi",
+ "time_mention": "heute Nacht",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schwitzattacken mit vollständigem Durchschwitzen des Betts",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Herr Lombardi war heute Nacht zweimal komplett durchgeschwitzt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "Herr Lombardi war heute Nacht zweimal komplett durchgeschwitzt",
+   "note": "Schwitzattacken können auf Dehydrierung hindeuten"
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte in der Übergabe erwähnen, falls es wieder vorkommt"
+ ]
+}

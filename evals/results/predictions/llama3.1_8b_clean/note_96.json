@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Brunner",
+ "time_mention": "heut",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Nackenverbrühung",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Die Haut ist gerötet aber ohne Blasen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Die Haut ist gerötet aber ohne Blasen.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "ans Sonnenhüterl und Eincremen denken"
+ ]
+}

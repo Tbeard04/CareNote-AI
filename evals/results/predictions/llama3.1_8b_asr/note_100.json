@@ -1,0 +1,41 @@
+{
+ "resident_ref": "Herm Castellano",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Der Einzug lief ruhig.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Der Einzug lief ruhig, die Familie hat beim Einrichten geholfen und ist gegen 17 Uhr gegangen.",
+   "measurement": null
+  },
+  {
+   "text": "Er wirkt noch sehr zurückhaltend.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Er wirkt noch sehr zurückhaltend, hat auf dem Zimmer gegessen und möchte vorerst nicht in den Speisesaal.",
+   "measurement": null
+  },
+  {
+   "text": "Er möchte vorerst nicht in den Speisesaal.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Er wirkt noch sehr zurückhaltend, hat auf dem Zimmer gegessen und möchte vorerst nicht in den Speisesaal.",
+   "measurement": null
+  },
+  {
+   "text": "Er hat nachts geklingelt, weil er den Lichtschalter nicht gefunden hat.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Nachts hat er geklingelt, weil er den Lichtschalter nicht gefunden hat, wir haben ihm ein Nachtlicht hingestellt.",
+   "measurement": null
+  },
+  {
+   "text": "Bitte in den nächsten Tagen behutsam Kontaktangebote machen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Bitte in den nächsten Tagen behutsam Kontaktangebote machen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Behutsam Kontaktangebote machen"
+ ]
+}

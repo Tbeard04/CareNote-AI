@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herr Weiß",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Weiß ist wackelig auf den Beinen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er ist noch wackelig auf den Beinen",
+   "measurement": null
+  },
+  {
+   "text": "Herr Weiß hat vier Kilo verloren.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "laut Brief hat er vier Kilo verloren",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Heute bitte nur mit Begleitung laufen lassen",
+  "beim Abendessen eine Extraportion anbieten"
+ ]
+}

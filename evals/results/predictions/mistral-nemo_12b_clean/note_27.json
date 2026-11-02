@@ -1,0 +1,15 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die neue Bewohnerin hat erstmals am Gemeinschaftsessen teilgenommen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Die neue Bewohnerin von Zimmer fünfzehn hat heute das erste Mal am Gemeinschaftsessen teilgenommen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

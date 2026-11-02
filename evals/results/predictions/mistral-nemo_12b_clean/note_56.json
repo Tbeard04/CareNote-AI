@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Winkler",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Winkler kratzt sich seit gestern ständig an beiden Unterarmen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Frau Winkler kratzt sich seit gestern ständig an beiden Unterarmen.",
+   "measurement": null
+  },
+  {
+   "text": "Die Haut ist trocken und man sieht schon Kratzspuren.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Die Haut ist trocken und man sieht schon Kratzspuren.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Die Haut ist trocken und man sieht schon Kratzspuren.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Wenn es bis Montag nicht besser ist, bitte Hautarzttermin anfragen."
+ ]
+}

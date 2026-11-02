@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Herr Koster",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Hüfte macht ihm keine Probleme mehr.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Die Hüfte macht ihm keine Probleme mehr",
+   "measurement": null
+  },
+  {
+   "text": "Er war mit dem Rollator im Garten.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er war mit dem Rollator im Garten",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

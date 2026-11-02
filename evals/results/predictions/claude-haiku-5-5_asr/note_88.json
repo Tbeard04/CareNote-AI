@@ -1,0 +1,24 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verschlucken an einem Stück Fleisch beim Abendessen mit kurzzeitigem Husten und Blaufärbung des Gesichts; nach festem Klopfen zwischen die Schulterblätter Fremdkörper entfernt, danach schnelle Erholung.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat sich Herr Roth an einem Stück Fleisch verschwuckt",
+   "measurement": null
+  },
+  {
+   "text": "Kurzzeitige Blaufärbung des Gesichts während des Verschluckens.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "war kurz blau im Gesicht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bei Fleischgerichten ab sofort alles klein schneiden",
+  "Beim Essen in der Nähe bleiben"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "resident_ref": "Herr Costa",
+ "time_mention": "heute Nachmittag gegen 15.40 Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Costa ist im Flur vor seinem Zimmer gestürzt gestürzt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er ist heute Nachmittag gegen 15.40 Uhr im Flur vor seinem Zimmer gestürzt, vermutlich über die Teppichkante.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Costa klagt über Schmerzen in der linken Hüfte.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Er klagt über Schmerzen in der linken Hüfte",
+   "measurement": null
+  },
+  {
+   "text": "Der Blutdruck beträgt 150 zu 88.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck nach dem Sturz 150 zu 88",
+   "measurement": {
+    "value": 150.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Der Puls beträgt 78.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Puls 78",
+   "measurement": {
+    "value": 78.0,
+    "unit": "Schläge pro Minute"
+   }
+  },
+  {
+   "text": "Die Teppichkante wurde mit Klebeband fixiert.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "die Teppichkante haben wir erst mal mit Klebeband fixiert",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Er ist heute Nachmittag gegen 15.40 Uhr im Flur vor seinem Zimmer gestürzt, vermutlich über die Teppichkante.",
+   "note": "Sturz mit Schmerzen in der linken Hüfte."
+  },
+  {
+   "risk": "schmerz",
+   "evidence_span": "Er klagt über Schmerzen in der linken Hüfte",
+   "note": "Schmerzen in der linken Hüfte nach Sturz."
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte heute nach zweistündlich nach ihm sehen",
+  "bei stärkeren Schmerzen sofort den Notdienst rufen"
+ ]
+}

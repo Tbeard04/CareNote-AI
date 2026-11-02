@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herrn Petrov",
+ "time_mention": "heute Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Fehler beim Medikamentenstehen im Dispenser",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "beim Stellen der Abendmedikation ist mir aufgefallen, dass im Dispenser von Herrn Petrov für heute Abend 2 Markomahlagen statt einer",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Wir kontrollieren jetzt alle Dispenser vom Wochenende nach",
+  "Das Vier-Augen-Prinzip beim Stellen-Wieder-Konsequent-Einhalten"
+ ]
+}

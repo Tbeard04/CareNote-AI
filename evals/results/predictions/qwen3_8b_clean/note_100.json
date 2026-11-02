@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herrn Castellano",
+ "time_mention": "Erster Tag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Zurückhaltendes Verhalten",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Er wirkt noch sehr zurückhaltend",
+   "measurement": null
+  },
+  {
+   "text": "Widerstand gegen soziale Interaktion",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "hat auf dem Zimmer gegessen und möchte vorerst nicht in den Speisesaal",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte in den nächsten Tagen behutsam Kontaktangebote machen"
+ ]
+}

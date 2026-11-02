@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Seidel",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Dekubitus an der linken Ferse heilt weiter gut, Durchmesser ist unter einen Zentimeter geschrumpft, Wundgrund ist sauber rosig.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Dekubitus an der linken Ferse von Frau Seidel heilt weiter gut, der Durchmesser ist unter einen Zentimeter geschrumpft und der Wundgrund ist sauber rosig.",
+   "measurement": null
+  },
+  {
+   "text": "Freilagerung klappt mit dem neuen Kissen deutlich besser als vorher.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Freilagerung klappt mit dem neuen Kissen deutlich besser als vorher.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Verband gewechselt nach Plan, nächster Wechsel am Donnerstag."
+ ]
+}

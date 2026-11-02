@@ -1,10 +1,10 @@
 {
- "resident_ref": "Herr Demir",
- "time_mention": "Beim Abendessen",
+ "resident_ref": null,
+ "time_mention": null,
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Abendessen komplett verweigert, dabei ziemlich aufgebracht.",
+   "text": "Verweigerung der Essensaufnahme beim Abendessen, dabei deutlich aufgebracht.",
    "themenfeld": "selbstversorgung",
    "evidence_span": "Beim Abendessen hat er das Essen komplett verweigert und war dabei ziemlich aufgebracht",
    "measurement": null

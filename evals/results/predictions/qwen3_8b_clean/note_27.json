@@ -1,0 +1,21 @@
+{
+ "resident_ref": "von Zimmer fünfzehn",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Teilnahme am Gemeinschaftsessen",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Die neue Bewohnerin von Zimmer fünfzehn hat heute das erste Mal am Gemeinschaftsessen teilgenommen und gut gegessen.",
+   "measurement": null
+  },
+  {
+   "text": "Gut gegessen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Die neue Bewohnerin von Zimmer fünfzehn hat heute das erste Mal am Gemeinschaftsessen teilgenommen und gut gegessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

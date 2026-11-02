@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herrn Hansen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Eine kleine Blase an der rechten Verse aufgefallen, etwa erbsengroß, nicht offen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "eine kleine Blase an der rechten Verse aufgefallen, etwa erbsengroß, nicht offen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Als Diabetiker ist das bei ihm heikel.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Täglich die Verse kontrollieren",
+  "Beim Diabetologentermin nächste Woche zeigen"
+ ]
+}

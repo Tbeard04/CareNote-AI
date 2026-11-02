@@ -1,0 +1,47 @@
+{
+ "resident_ref": "Herr Albers",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Albers war viel unterwegs in der Nacht.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Albers war allerdings wieder viel unterwegs",
+   "measurement": null
+  },
+  {
+   "text": "Herr Albers wurde gegen ein Uhr und gegen halb vier im Flur angetroffen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "ich habe ihn gegen ein Uhr und nochmal gegen halb vier im Flur angetroffen",
+   "measurement": null
+  },
+  {
+   "text": "Herr Albers stand an der Tür von Frau B2s Zimmer und wollte hinein.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "einmal stand er an der Tür vom Zimmer von Frau Sand und wollte hinein",
+   "measurement": null
+  },
+  {
+   "text": "Herr Albers konnte freundlich umgelenkt werden.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Er war freundlich umlenkbar",
+   "measurement": null
+  },
+  {
+   "text": "Herr Albers hat einen Tee getrunken und ist danach wieder eingeschlafen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Er hat einen Tee getrunken und ist danach wieder eingeschlafen",
+   "measurement": null
+  },
+  {
+   "text": "Die Sensormatte vor Herrn B1s Bett hat beide Male ausgelöst.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Die Sensormatte vor seinem Bett hat beide Male ausgelöst",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Tagsüber prüfen, ob Herr Albers müde ist und eventuell den Mittagsschlaf verlängern."
+ ]
+}

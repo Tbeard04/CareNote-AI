@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Lang",
+ "time_mention": null,
+ "entry_type": "risiko_beobachtung",
+ "observations": [
+  {
+   "text": "Sturz beim Aufstehen vom Sofa auf das Gesäss; Wiederaufstehen nur mit Hilfe möglich.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "beim Aufstehen vom Sofa aufs Gesäss gerutscht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "beim Aufstehen vom Sofa aufs Gesäss gerutscht",
+   "note": "Sturzereignis beim Aufstehen vom Sofa; Wiederaufstehen mit Hilfe."
+  }
+ ],
+ "follow_up_actions": [
+  "Sturzprotokoll angelegt"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Yildiz",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Brille von Herrn Yildiz ist seit dem Frühstück verschwunden.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Die Brille von Herrn Yildiz ist seit dem Frühstück verschwunden",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "bitte weitersuchen",
+  "die Tochter wegen der Ersatzbrille anrufen"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herrn Petrov",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Im Dispenser von Herrn Petrov lagen für heute Abend zwei Marcumar statt einer.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "dass im Dispenser von Herrn Petrov für heute Abend zwei Marcumar lagen statt einer.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Alle Dispenser vom Wochenende nachkontrollieren.",
+  "Vier-Augen-Prinzip beim Stellen wieder konsequent einhalten."
+ ]
+}

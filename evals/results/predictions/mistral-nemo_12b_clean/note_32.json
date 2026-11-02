@@ -1,0 +1,15 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Schneider hat über Unruhe geklagt.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Herr Schneider hat über Unruhe geklagt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

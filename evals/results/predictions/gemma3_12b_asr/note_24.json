@@ -1,0 +1,59 @@
+{
+ "resident_ref": "Frau Berger",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Berger war stolz auf ihre Frisur nach dem Friseurtermin und hat allen davon erzählt.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "sie war ganz stolz auf die Frisur und hat allen davon erzählt",
+   "measurement": null
+  },
+  {
+   "text": "Frau Berger hat mit ihrer Nichte im Garten gesessen und Kuchen gegessen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "ihre Nichte da, die hat Kuchen mitgebracht, Apfelkuchen glaube ich, und die beiden haben lange im Garten gesessen",
+   "measurement": null
+  },
+  {
+   "text": "Frau Berger hat beim Abendessen Schwierigkeiten beim Heben des rechten Arms.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "den rechten Arm kaum hebt",
+   "measurement": null
+  },
+  {
+   "text": "Frau Berger hat das Besteck in die linke Hand genommen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "das Besteck in die linke Hand genommen",
+   "measurement": null
+  },
+  {
+   "text": "Frau Berger hat Schmerzen in der rechten Schulter seit dem Nachmittag.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Schulter tut seit dem Nachmittag weh",
+   "measurement": null
+  },
+  {
+   "text": "Frau Berger hat sich laut Aussage im Garten am Rosenbogen gestoßen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "sie meint, sie hat sich im Garten am Rosenbogen gestoßen",
+   "measurement": null
+  },
+  {
+   "text": "Die rechte Schulter von Frau Berger ist druckempfindlich.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Schulter ist nicht geschwollen, aber druckempfindlich",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "die Schulter tut seit dem Nachmittag weh",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte morgen beobachten und wenn es schlimmer wird, den Arzt dazuholen."
+ ]
+}

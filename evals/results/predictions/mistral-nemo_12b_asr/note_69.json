@@ -1,0 +1,45 @@
+{
+ "resident_ref": "Frau Wagner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Wagner hat eine halbe Portion geschafft.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "sie hat eine halbe Portion geschafft",
+   "measurement": null
+  },
+  {
+   "text": "Frau Wagner hat nach dem Essen noch eine Viertelstunde mit ihrer Tischnachbarin geplaudert.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "danach noch eine Viertelstunde mit ihrer Tischnachbarin geplaudert",
+   "measurement": null
+  },
+  {
+   "text": "Frau B1s Husten ist fast weg.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Husten ist fast weg",
+   "measurement": null
+  },
+  {
+   "text": "Frau Wagner hustet nachts noch etwas.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nachts hustet sie noch etwas",
+   "measurement": null
+  },
+  {
+   "text": "Frau Wagner braucht beim Aufstehen noch Hilfe.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Kräftemäßig braucht sie beim Aufstehen noch Hilfe",
+   "measurement": null
+  },
+  {
+   "text": "Frau Wagner braucht deutlich weniger Hilfe als letzte Woche.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "deutlich weniger als letzte Woche",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Nowak",
+ "time_mention": "seit heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Nowak ist heiser und mag wegen Halsschmerzen kaum trinken.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Nowak ist seit heute Morgen heiser und mag wegen Halsschmerzen kaum trinken.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "mag wegen Halsschmerzen kaum trinken.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte die Trinkmenge heute mitzählen."
+ ]
+}

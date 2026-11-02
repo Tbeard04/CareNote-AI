@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Krüger",
+ "time_mention": "morgens",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Seit etwa einer Woche Tagesmüdigkeit nach Beginn des neuen Schlafmittels; morgens kaum mobilisierbar.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "morgens kommt sie kaum in die Gänge",
+   "measurement": null
+  },
+  {
+   "text": "Beim Frühstück zweimal fast mit dem Kopf auf den Tisch gesackt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "beim Frühstück ist sie zweimal fast mit dem Kopf auf den Tisch gesackt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Beim Arzt ansprechen, ob die Dosis des Schlafmittels zu hoch ist"
+ ]
+}

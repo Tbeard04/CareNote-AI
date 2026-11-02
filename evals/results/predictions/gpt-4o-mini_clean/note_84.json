@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Okafor",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Taubheitsgefühl in den Fingerspitzen der rechten Hand.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "hat er über ein Taubheitsgefühl in den Fingerspitzen der rechten Hand geklagt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "morgen gezielt nachfragen",
+  "falls es wiederkommt, sofort den Arzt verständigen"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Im Bad von Zimmer sieben ist die Haltestange an der Dusche locker, ich habe die Haustechnik informiert und ein Schild aufgehängt.",
+   "note": "Besonders beim Duschen aufpassen."
+  }
+ ],
+ "follow_up_actions": []
+}

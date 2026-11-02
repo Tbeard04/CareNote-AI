@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Hartmann",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Hartmann isst wieder normal.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "isst Frau Hartmann wieder normal",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Baumann, Nein Moment, Frau Brunner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Brunner hat heute nur etwa einen Halbenliter geschafft, obwohl wir dreimal aktiv angeboten haben.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Brunner, meine ich, hat heute nur etwa einen Halbenliter geschafft, obwohl wir dreimal aktiv angeboten haben.",
+   "measurement": null
+  },
+  {
+   "text": "Die Lippen sind noch okay.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Lippen sind noch okay",
+   "measurement": null
+  },
+  {
+   "text": "Das ist der zweite Tag in Folge mit so wenig.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "das ist der zweite Tag in Folge mit so wenig",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "hat heute nur etwa einen Halbenliter geschafft, obwohl wir dreimal aktiv angeboten haben",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Trinkprotokoll läuft weiter"
+ ]
+}

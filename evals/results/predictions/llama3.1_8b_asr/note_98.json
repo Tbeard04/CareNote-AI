@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herr Walter",
+ "time_mention": "heute Nachmittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Walter ist gegen die Tür getaumelt",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Beim Aussteigen hat Herr Walter allerdings den Tritt verfehlt und ist gegen die Tür getaumelt",
+   "measurement": null
+  },
+  {
+   "text": "Herr Walter hat Angst vor dem Ausflug",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "er wolle beim nächsten Mal lieber nicht mehr mit",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "er wollte danach erst mal 10 Minuten sitzen bleiben",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Überlegen, wie wir ihm die Angst nehmen können",
+  "Möglicherweise mit dem niedrigeren Einstieg beim anderen Bus"
+ ]
+}

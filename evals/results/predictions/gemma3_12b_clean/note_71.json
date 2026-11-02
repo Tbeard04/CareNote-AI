@@ -1,0 +1,38 @@
+{
+ "resident_ref": "Frau Öztürk",
+ "time_mention": "morgens",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Blutdruckmessen nach Dosisanpassung: morgens 132/84, abends 128/80",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "morgens hundertzweiunddreißig zu vierundachtzig, abends hundertachtundzwanzig zu achtzig",
+   "measurement": {
+    "value": 132.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Kein Schwindel mehr",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Kein Schwindel mehr heute",
+   "measurement": null
+  },
+  {
+   "text": "Zweimal sicher allein aufgestanden",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "sie ist zweimal sicher allein aufgestanden",
+   "measurement": null
+  },
+  {
+   "text": "Sieht gut aus mit der neuen Dosis",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sieht gut aus mit der neuen Dosis",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Der Arzt wollte die Werte am Freitag sehen"
+ ]
+}

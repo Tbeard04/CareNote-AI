@@ -1,0 +1,29 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Lorenz hat beim Lagern über starke Schmerzen im Rücken geklagt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Lorenz hat beim Lagern über starke Schmerzen im Rücken geklagt",
+   "measurement": null
+  },
+  {
+   "text": "Sie schätzt sie auf sieben von zehn.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "sie schätzt sie auf sieben von zehn",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Frau Lorenz hat beim Lagern über starke Schmerzen im Rücken geklagt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte mit dem Arzt über eine Alternative sprechen"
+ ]
+}

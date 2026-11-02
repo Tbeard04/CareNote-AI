@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Frau Krause",
+ "time_mention": "gegen drei Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schlechter Schlaf in der Nacht, wach gegen 3 Uhr.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "schlecht geschlafen",
+   "measurement": null
+  },
+  {
+   "text": "Sehr unruhig während der Nacht.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "sehr unruhig",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

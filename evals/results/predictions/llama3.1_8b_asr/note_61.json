@@ -1,0 +1,59 @@
+{
+ "resident_ref": "Frau Scholz",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Körperpflege mit wenig Unterstützung",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Morgens lief alles wie immer, Körperpflege mit wenig Unterstützung",
+   "measurement": null
+  },
+  {
+   "text": "Frühstück komplett",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Morgens lief alles wie immer, Körperpflege mit wenig Unterstützung, Frühstück komplett",
+   "measurement": null
+  },
+  {
+   "text": "Nägel sind jetzt versorgt",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Podologin, die Nägel sind jetzt versorgt",
+   "measurement": null
+  },
+  {
+   "text": "Eingewachsener Nagel am großen Zeh sieht viel besser aus als vor vier Wochen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "der eingewachsene Nagel am großen Zeh sieht viel besser aus als vor vier Wochen",
+   "measurement": null
+  },
+  {
+   "text": "Mittagessen gut",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Mittagessen gut",
+   "measurement": null
+  },
+  {
+   "text": "Frau Scholz hat mehrfach den Faden verloren und dieselbe Frage dreimal gestellt",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Beim Basteln hat Frau Scholz mehrfach den Faden verloren und dieselbe Frage dreimal gestellt",
+   "measurement": null
+  },
+  {
+   "text": "Abends war sie wie immer, hat mit ihrer Schwester telefoniert",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Abends war sie wie immer, hat mit ihrer Schwester telefoniert",
+   "measurement": null
+  },
+  {
+   "text": "Konzentrationssache vom Nachmittag",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Die Konzentrationssache vom Nachmittag würde ich erst mal nur beobachten",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Konzentrationssache vom Nachmittag beobachten"
+ ]
+}

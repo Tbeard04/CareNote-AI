@@ -1,0 +1,36 @@
+{
+ "resident_ref": "Frau Wolff",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Wunde am rechten Unterschenkel zeigt Zeichen einer Verschlechterung",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Wunde am rechten Unterschenkel heute schlechter aus",
+   "measurement": null
+  },
+  {
+   "text": "Wunde am rechten Unterschenkel zeigt gerötete Ränder",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Ränder sind gerötet",
+   "measurement": null
+  },
+  {
+   "text": "Wunde am rechten Unterschenkel hat vermehrte Wundsekretion",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "es kam mehr Wunnsäkert als beim letzten Mal",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "die Wunde am rechten Unterschenkel heute schlechter aus",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Foto für die Wunddoku ist gemacht",
+  "Bitte den Wundmanager noch diese Woche einschalten"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "resident_ref": "Frau Jansen",
+ "time_mention": "heute Vormittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verwirrung",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "sie wirkt verwirrter als sonst",
+   "measurement": null
+  },
+  {
+   "text": "Verwechslung mit Schwester",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "hat mich zweimal mit ihrer Schwester verwechselt",
+   "measurement": null
+  },
+  {
+   "text": "Häufige Toilettenbesuche",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie muss ständig auf die Toilette",
+   "measurement": null
+  },
+  {
+   "text": "Schmerzen beim Wasserlassen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "es brennt wohl beim Wasser lassen",
+   "measurement": null
+  },
+  {
+   "text": "Fieber",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Temperatur 37,6",
+   "measurement": {
+    "value": 37.6,
+    "unit": "°C"
+   }
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "es brennt wohl beim Wasser lassen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Urinprobe machen",
+  "Arzt anrufen"
+ ]
+}

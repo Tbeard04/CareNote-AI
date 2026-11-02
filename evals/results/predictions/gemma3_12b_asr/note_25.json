@@ -1,0 +1,33 @@
+{
+ "resident_ref": "Herr Lehmann",
+ "time_mention": "heute Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Es gab Streit zwischen Herrn Lehmann und Herrn Fuchs wegen des Programms.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Im Fernsehzimmer gab es heute Abend Streit zwischen Herrn Lehmann und Herrn Fuchs wegen des Programms.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Lehmann wurde laut und hat mit dem Stock auf den Tisch geschlagen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Lehmann wurde laut und hat mit dem Stock auf den Tisch geschlagen",
+   "measurement": null
+  },
+  {
+   "text": "Herr Fuchs hat sich danach sehr erschrocken zurückgezogen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Herr Fuchs hat sich danach sehr erschrocken zurückgezogen",
+   "measurement": null
+  },
+  {
+   "text": "Bei Herrn Lehmann bitte im Blick behalten, ob die Gereiztheit anhält, das ist neu bei ihm.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Bei Herrn Lehmann bitte im Blick behalten, ob die Gereiztheit anhält, das ist neu bei ihm",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

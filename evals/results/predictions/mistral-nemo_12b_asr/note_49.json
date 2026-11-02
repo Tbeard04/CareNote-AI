@@ -1,0 +1,24 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Peters hat mittags ihre Tabletten im Mund behalten und später ins Taschentuch gespuckt.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "So, schnell noch bevor ich los muss, ähm, bei Frau Peters, also erstens, die hat mittags ihre Tabletten im Mund behalten und später ins Taschentuch gespuckt, habe ich zufällig gesehen, das müssen wir ab jetzt kontrollieren, ja.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Peters hat eine rauhe, schuppige Stelle am linken Ellenbogen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "am linken Ellenbogen hat sie so eine rauhe, schuppige Stelle, ungefähr 2 cm, sie sagt, es juckt nicht, aber komisch sieht es aus.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Tablettenkontrolle bei Frau Peters einführen",
+  "Rauhe Stelle am linken Ellenbogen von Frau Peters beim nächsten Arztbesuch zeigen"
+ ]
+}

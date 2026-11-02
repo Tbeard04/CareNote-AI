@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Castellano",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "wirkt noch sehr zurückhaltend",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Er wirkt noch sehr zurückhaltend",
+   "measurement": null
+  },
+  {
+   "text": "möchte vorerst nicht in den Speisesaal",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Er möchte vorerst nicht in den Speisesaal",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "behutsam Kontaktangebote machen"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herr Roth",
+ "time_mention": "heute Mittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Der Urin im Katheterbeutel ist deutlich dunkler und riecht streng.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Urin im Katheterbeutel von Herrn Roth ist seit heute Mittag deutlich dunkler und riecht streng.",
+   "measurement": null
+  },
+  {
+   "text": "Er trinkt eher wenig.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Er trinkt eher wenig.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "Er trinkt eher wenig.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "vermehrt Getränke anbieten",
+  "den Urin weiter beobachten"
+ ]
+}

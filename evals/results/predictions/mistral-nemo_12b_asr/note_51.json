@@ -1,0 +1,15 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Haltestange an der Dusche ist locker",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Im Bad von Zimmer 7 ist die Haltestange an der Dusche locker",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

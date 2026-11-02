@@ -1,0 +1,25 @@
+{
+ "resident_ref": "Frau Groß",
+ "time_mention": "heute",
+ "entry_type": "risiko_beobachtung",
+ "observations": [
+  {
+   "text": "Rote Hautstelle am unteren Rücken, Druckstelle bleibt bei Druck gerötet (nicht wegdrückbar).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "bei Frau Groß am Rücken unten eine rote Stelle, ungefähr so groß wie Zwei-Euro-Stück",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Wenn ich drücken, es nicht weggehen, bleiben rot.",
+   "note": "Rötung bleibt bei Druck bestehen; Verdacht auf Dekubitus."
+  }
+ ],
+ "follow_up_actions": [
+  "Bewohnerin stärker auf die Seite lagern",
+  "Kollegin informieren",
+  "Hautstelle heute Abend erneut kontrollieren"
+ ]
+}

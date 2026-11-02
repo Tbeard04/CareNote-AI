@@ -1,0 +1,54 @@
+{
+ "resident_ref": "Frau Seidelheit",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Der Dekubitus an der linken Verse ist weiter gut.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Dekorbitus an der linken Verse von Frau Seidelheit weiter gut.",
+   "measurement": null
+  },
+  {
+   "text": "Der Durchmesser ist unter einen Zentimeter geschrumpft.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Durchmesser ist unter einen Zentimeter geschrumpft",
+   "measurement": {
+    "value": 1.0,
+    "unit": "cm"
+   }
+  },
+  {
+   "text": "Der Wundgrund ist sauber rosig.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Wundgrund ist sauber rosig.",
+   "measurement": null
+  },
+  {
+   "text": "Verband gewechselt nach Plan.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Verband gewechselt nach Plan",
+   "measurement": null
+  },
+  {
+   "text": "Nächster Wechsel am Donnerstag.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nächster Wechsel am Donnerstag.",
+   "measurement": null
+  },
+  {
+   "text": "Freilegerung klappt mit dem neuen Kissen deutlich besser als vorher.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Freilegerung klappt mit dem neuen Kissen deutlich besser als vorher.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Der Dekorbitus an der linken Verse von Frau Seidelheit weiter gut.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": []
+}

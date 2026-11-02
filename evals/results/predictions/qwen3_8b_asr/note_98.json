@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Walter",
+ "time_mention": "heute Nachmittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Tritt verfehlt und Taumel beim Aussteigen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Beim Aussteigen hat Herr Walter allerdings den Tritt verfehlt und ist gegen die Tür getaumelt",
+   "measurement": null
+  },
+  {
+   "text": "Wunsch, beim nächsten Mal nicht mehr mitzugehen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Walter dann gesagt, ihm sei das peinlich gewesen und er wolle beim nächsten Mal lieber nicht mehr mit",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Beim Aussteigen hat Herr Walter allerdings den Tritt verfehlt und ist gegen die Tür getaumelt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte im Team überlegen, wie wir ihm die Angst nehmen, vielleicht mit dem niedrigeren Einstieg beim anderen Bus"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Wolf",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Wunde am rechten Unterschenkel sieht schlechter aus",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Beim Verbandswechsel bei Frau Wolf sah die Wunde am rechten Unterschenkel heute schlechter aus",
+   "measurement": null
+  },
+  {
+   "text": "Ränder sind gerötet",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "die Ränder sind gerötet",
+   "measurement": null
+  },
+  {
+   "text": "Mehr Wundsekret als beim letzten Mal",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "es kam mehr Wundsekret als beim letzten Mal",
+   "measurement": null
+  },
+  {
+   "text": "Pocht nachts",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Sie sagt, es pocht nachts",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "den Wundmanager noch diese Woche einschalten"
+ ]
+}

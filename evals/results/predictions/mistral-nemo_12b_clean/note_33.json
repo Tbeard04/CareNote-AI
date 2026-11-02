@@ -1,0 +1,23 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Brunner hat heute nur etwa einen halben Liter getrunken.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Frau Brunner hat heute nur etwa einen halben Liter geschafft",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "Frau Brunner hat heute nur etwa einen halben Liter geschafft",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Trinkprotokoll läuft weiter."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Wolff",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schlechter Zustand der Wunde am rechten Unterschenkel",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Beim Verbandswechsel bei Frau Wolff sah die Wunde am rechten Unterschenkel heute schlechter aus",
+   "measurement": null
+  },
+  {
+   "text": "Ränder der Wunde gerötet",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "die Ränder sind gerötet",
+   "measurement": null
+  },
+  {
+   "text": "Mehr Wunnsäkert als beim letzten Mal",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "es kam mehr Wunnsäkert als beim letzten Mal",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "den Wundmanager noch diese Woche einschalten"
+ ]
+}

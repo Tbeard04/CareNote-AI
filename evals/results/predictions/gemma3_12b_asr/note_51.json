@@ -1,0 +1,39 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Haltestange an der Dusche im Bad von Zimmer 7 ist locker.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Im Bad von Zimmer 7 ist die Haltestange an der Dusche locker",
+   "measurement": null
+  },
+  {
+   "text": "Die Haustechnik wurde informiert.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "ich habe die Haustechnik informiert",
+   "measurement": null
+  },
+  {
+   "text": "Ein Schild wurde aufgehängt.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "und ein Schild aufgehängt",
+   "measurement": null
+  },
+  {
+   "text": "Es besteht die Anweisung, beim Duschen besonders aufzupassen.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Bitte bis zur Reparatur beim Duschen dort besonders aufpassen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Bitte bis zur Reparatur beim Duschen dort besonders aufpassen.",
+   "note": "Lockere Haltestange in der Dusche stellt ein Sturzrisiko dar."
+  }
+ ],
+ "follow_up_actions": []
+}

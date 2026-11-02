@@ -1,0 +1,29 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Demir hat den Teller beim Mittagessen fast leer gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Herr Demir hat heute Mittag richtig gut gegessen, den Teller fast leer.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Demir hat das Essen beim Abendessen komplett verweigert.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Beim Abendessen hat er das Essen komplett verweigert",
+   "measurement": null
+  },
+  {
+   "text": "Herr Demir war beim Abendessen aufgebracht.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "war dabei ziemlich aufgebracht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Morgen das Lieblingsessen probieren"
+ ]
+}

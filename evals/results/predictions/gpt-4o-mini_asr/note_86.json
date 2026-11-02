@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": "Heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Stelle ist schon verhärtet.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Stelle ist schon verhärtet.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte dranbleiben und die verhärtete Stelle beobachten."
+ ]
+}

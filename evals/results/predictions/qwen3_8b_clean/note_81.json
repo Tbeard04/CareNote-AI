@@ -1,0 +1,26 @@
+{
+ "resident_ref": "Herrn Hansen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Blase an der rechten Ferse",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Beim Strümpfeanziehen ist mir bei Herrn Hansen eine kleine Blase an der rechten Ferse aufgefallen, etwa erbsengroß, nicht offen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Als Diabetiker ist das bei ihm heikel.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Druckentlastung ist drin",
+  "weiche Socken angezogen",
+  "die Schuhe kontrolliert, da war ein Steinchen drin",
+  "Bitte täglich die Ferse kontrollieren und beim Diabetologen-Termin nächste Woche zeigen"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Herr Steiner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Steiner hat den ganzen Abend davon erzählt",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Herr Steiner hat den ganzen Abend davon erzählt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herr Kowalski",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "68,4 Kilo",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "68,4 Kilo",
+   "measurement": {
+    "value": 68.4,
+    "unit": "kg"
+   }
+  },
+  {
+   "text": "fast 2 Kilo weniger als letzten Monat",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "fast 2 Kilo weniger als letzten Monat",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

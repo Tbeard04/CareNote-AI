@@ -1,0 +1,14 @@
+{
+ "resident_ref": "Frau Eberhardt",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Der Sturz im Garten betraf nicht Frau Ebert, sondern Frau Eberhardt.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": []
+}

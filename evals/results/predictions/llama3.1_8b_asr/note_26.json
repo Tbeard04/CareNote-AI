@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Richter",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "stark husten beim Essen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Richter heute beim Essen zweimal stark husten, wenn sie trinken.",
+   "measurement": null
+  },
+  {
+   "text": "sich leicht verschlucken",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich glaube, sie verschlucken sich leicht.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte Logo-Pedifragen, ob schlucktestmütig"
+ ]
+}

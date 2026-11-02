@@ -1,0 +1,36 @@
+{
+ "resident_ref": "Frau Martin",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unterschenkel deutlich geschwollen; Schwellung wird auf den Strumpfbund zurückgeführt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Unterschenkel heute aber deutlich geschwollen",
+   "measurement": null
+  },
+  {
+   "text": "Kompressionsstrümpfe nicht getragen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Kompressionsstrümpfe hat sie heute nicht getragen",
+   "measurement": null
+  },
+  {
+   "text": "Anziehen verursacht Schmerzen; Bewohnerin gibt an, dass das Anziehen ihr wehtut.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "dass Anzehntut ihr weht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "dass Anzehntut ihr weht",
+   "note": "Schmerzangabe beim Anziehen."
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte morgen beim Anzehen helfen",
+  "zu Schwäligkeiten dem Arzt melden, wenn sie nicht zurückgehen"
+ ]
+}

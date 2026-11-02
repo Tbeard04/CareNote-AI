@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Frau Martin",
+ "time_mention": "heute Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unterschenkel deutlich geschwollen, man sieht die Dellen vom Strumpfbund.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Bei Frau Martin sind die Unterschenkel heute Abend deutlich geschwollen, man sieht die Dellen vom Strumpfbund.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "morgen beim Anziehen helfen",
+  "Schwellung dem Arzt melden, wenn sie nicht zurückgeht"
+ ]
+}

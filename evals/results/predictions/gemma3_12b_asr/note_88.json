@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Herr Roth",
+ "time_mention": "beim Abendessen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Roth hat sich beim Essen an einem Stück Fleisch verschwuckt, stark gehustet und war kurz blau im Gesicht.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beim Abendessen hat sich Herr Roth an einem Stück Fleisch verschwuckt, er hat stark gehustet und war kurz blau im Gesicht.",
+   "measurement": null
+  },
+  {
+   "text": "Nach festem Klopfen zwischen die Schulterblätter kam das Stück Fleisch raus.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Nach festem Klopfen zwischen die Schulterblätter kam das Stück raus",
+   "measurement": null
+  },
+  {
+   "text": "Herr Roth wollte unbedingt weiteressen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "danach hat er sich schnell erholt und wollte unbedingt weiterressen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Beim Abendessen hat sich Herr Roth an einem Stück Fleisch verschwuckt, er hat stark gehustet und war kurz blau im Gesicht.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte ab sofort bei Fleischgerichten alles klein schneiden und beim Essen in der Nähe bleiben."
+ ]
+}

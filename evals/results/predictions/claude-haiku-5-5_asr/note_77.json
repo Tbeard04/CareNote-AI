@@ -1,0 +1,33 @@
+{
+ "resident_ref": "Herr Weiss",
+ "time_mention": "heute um 11 Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Noch wackelig auf den Beinen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "noch wackelig auf der Beine",
+   "measurement": null
+  },
+  {
+   "text": "Deutlicher Gewichtsverlust, laut Entlassbrief 4 kg.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "deutlich dünner geworden",
+   "measurement": {
+    "value": 4.0,
+    "unit": "kg"
+   }
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "noch wackelig auf der Beine",
+   "note": "Unsicherer Gang nach Krankenhausaufenthalt."
+  }
+ ],
+ "follow_up_actions": [
+  "Heute nur mit Begleitung laufen lassen.",
+  "Beim Abendessen eine extra Portion anbieten."
+ ]
+}

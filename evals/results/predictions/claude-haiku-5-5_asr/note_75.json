@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herrn Petrov",
+ "time_mention": "heute Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Im Dispenser für heute Abend lagen 2 Markomahlagen statt einer. Die überzählige Tablette wurde vor der Gabe entfernt, es entstand kein Schaden. Der Dispenser war am Sonntag von der Aushilfe gestellt worden. Medikationsfehler beim Stellen (Nahtod-Ereignis).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "im Dispenser von Herrn Petrov für heute Abend 2 Markomahlagen statt einer",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Alle Dispenser vom Wochenende werden nachkontrolliert",
+  "Bitte das Vier-Augen-Prinzip beim Stellen-Wieder-Konsequent-Einhalten."
+ ]
+}

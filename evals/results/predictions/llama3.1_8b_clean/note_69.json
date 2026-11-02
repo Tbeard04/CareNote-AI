@@ -1,0 +1,45 @@
+{
+ "resident_ref": "Frau Wagner",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Wagner war zum ersten Mal wieder im Speisesaal",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Sie war heute zum ersten Mal wieder im Speisesaal",
+   "measurement": null
+  },
+  {
+   "text": "Frau Wagner hat eine halbe Portion geschafft",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "hat eine halbe Portion geschafft",
+   "measurement": null
+  },
+  {
+   "text": "Frau Wagner plauderte noch eine Viertelstunde mit ihrer Tischnachbarin",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "hat noch eine Viertelstunde mit ihrer Tischnachbarin geplaudert",
+   "measurement": null
+  },
+  {
+   "text": "Der Husten ist fast weg",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Husten ist fast weg",
+   "measurement": null
+  },
+  {
+   "text": "Frau Wagner hustet nachts noch etwas",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nachts hustet sie noch etwas",
+   "measurement": null
+  },
+  {
+   "text": "Frau Wagner braucht beim Aufstehen noch Hilfe",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "kräftemäßig braucht sie beim Aufstehen noch Hilfe",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

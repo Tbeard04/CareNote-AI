@@ -1,0 +1,41 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Wunde am rechten Unterschenkel von Frau Wolf sieht schlechter aus.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beim Verbandswechsel bei Frau Wolf sah die Wunde am rechten Unterschenkel heute schlechter aus",
+   "measurement": null
+  },
+  {
+   "text": "Die Ränder der Wunde sind gerötet.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Ränder sind gerötet",
+   "measurement": null
+  },
+  {
+   "text": "Es kam mehr Wundsekret als beim letzten Mal.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "es kam mehr Wundsekret als beim letzten Mal",
+   "measurement": null
+  },
+  {
+   "text": "Frau Wolf hat nachts Schmerzen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "es pocht nachts",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "es pocht nachts",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Den Wundmanager noch diese Woche einschalten"
+ ]
+}

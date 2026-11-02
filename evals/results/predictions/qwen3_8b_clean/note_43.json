@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Simon",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Reduzierte soziale Interaktion",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Frau Simon war heute sehr still und hat beim Gedächtnistraining nicht mitgemacht, das ist sonst ihr Lieblingstermin.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

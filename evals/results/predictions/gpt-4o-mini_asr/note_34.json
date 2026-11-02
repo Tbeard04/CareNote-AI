@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Albers",
+ "time_mention": "gegen 1 Uhr und nochmal gegen halb vier",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Albers war allerdings wieder viel unterwegs.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Albers war allerdings wieder viel unterwegs.",
+   "measurement": null
+  },
+  {
+   "text": "Die Sensormatte vor seinem Bett hat beide Male ausgelöst.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Die Sensormatte vor seinem Bett hat beide Male ausgelöst.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte tagsüberschauen, ob er müde ist und eventuell den Mittagsschlaf verlängern."
+ ]
+}

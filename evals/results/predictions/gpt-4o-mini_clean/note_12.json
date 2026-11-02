@@ -1,6 +1,6 @@
 {
  "resident_ref": "Herr Nowak",
- "time_mention": "gegen vierzehn Uhr dreißig",
+ "time_mention": "heute gegen vierzehn Uhr dreißig",
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
@@ -10,7 +10,7 @@
    "measurement": null
   },
   {
-   "text": "Blutdruck hundertsechzig zu fünfundneunzig.",
+   "text": "Blutdruck nach Sturz 160 zu 95.",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Blutdruck danach hundertsechzig zu fünfundneunzig.",
    "measurement": {

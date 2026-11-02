@@ -1,0 +1,33 @@
+{
+ "resident_ref": "Frau Jansen",
+ "time_mention": "seit heute Vormittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Vermehrter Harndrang und Brennen beim Wasserlassen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie muss ständig auf die Toilette, es brennt wohl beim Wasserlassen",
+   "measurement": null
+  },
+  {
+   "text": "Verwirrtheit, zweimal Verwechslung mit der Schwester",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "sie wirkt verwirrter als sonst, hat mich zweimal mit ihrer Schwester verwechselt",
+   "measurement": null
+  },
+  {
+   "text": "Erhöhte Temperatur",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Temperatur siebenunddreißig Komma sechs",
+   "measurement": {
+    "value": 37.6,
+    "unit": "°C"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Urinprobe machen (morgen früh)",
+  "den Arzt anrufen"
+ ]
+}

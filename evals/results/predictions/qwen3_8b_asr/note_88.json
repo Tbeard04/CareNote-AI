@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Roth",
+ "time_mention": "Beim Abendessen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verswuchung von Fleisch mit anschließender Hustenreaktion und kurzfristige Blauverfärbung des Gesichts",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beim Abendessen hat sich Herr Roth an einem Stück Fleisch verschwuckt, er hat stark gehustet und war kurz blau im Gesicht.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Nach festem Klopfen zwischen die Schulterblätter kam das Stück raus, danach hat er sich schnell erholt und wollte unbedingt weiterressen.",
+   "note": "Risiko für eine Sturzgefahr durch Hustenreaktion und Verswuchung"
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte ab sofort bei Fleischgerichten alles klein schneiden und beim Essen in der Nähe bleiben."
+ ]
+}

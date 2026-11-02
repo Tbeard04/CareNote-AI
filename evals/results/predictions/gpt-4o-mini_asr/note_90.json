@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herrn Eger",
+ "time_mention": "Heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Eger hat versucht, Zuppen mit der Gabel zu essen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Beim Mittagessen hat er versucht, Zuppen mit der Gabel zu essen und zuerst gemerkt, als ich ihm den Löffel hingelegt habe.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Eger hat seine Frau zweimal nach dem Namen ihrer Tochter gefragt.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "seine Frau sagt, beim Besuch am Sonntag haben er sie zweimal nach dem Namen ihrer Tochter gefragt.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "gerundtoppsychiatrische Abklärung ansprechen",
+  "Orientierungshilfe am Flur erneuern"
+ ]
+}

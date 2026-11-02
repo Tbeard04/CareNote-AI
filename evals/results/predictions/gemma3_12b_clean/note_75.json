@@ -1,0 +1,39 @@
+{
+ "resident_ref": "Herr Petrov",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Beim Stellen der Abendmedikation ist mir aufgefallen, dass im Dispenser von Herrn Petrov für heute Abend zwei Marcumar lagen statt einer.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beim Stellen der Abendmedikation ist mir aufgefallen, dass im Dispenser von Herrn Petrov für heute Abend zwei Marcumar lagen statt einer.",
+   "measurement": null
+  },
+  {
+   "text": "Die Tablette wurde entfernt, bevor er sie bekommen hat, es ist ihm also nichts passiert.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Tablette wurde entfernt, bevor er sie bekommen hat, es ist ihm also nichts passiert.",
+   "measurement": null
+  },
+  {
+   "text": "Der Dispenser wurde am Sonntag von der Aushilfe gestellt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Dispenser wurde am Sonntag von der Aushilfe gestellt.",
+   "measurement": null
+  },
+  {
+   "text": "Die Wohnbereichsleitung wurde informiert und wir kontrollieren jetzt alle Dispenser vom Wochenende nach.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Wohnbereichsleitung wurde informiert und wir kontrollieren jetzt alle Dispenser vom Wochenende nach.",
+   "measurement": null
+  },
+  {
+   "text": "Bitte das Vier-Augen-Prinzip beim Stellen wieder konsequent einhalten.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Bitte das Vier-Augen-Prinzip beim Stellen wieder konsequent einhalten.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

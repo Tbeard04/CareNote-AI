@@ -37,7 +37,7 @@ Audio → Transkription → Pseudonymisierung → Extraktion (LLM) → Validieru
 | **Extraktion** | Welches Modell die Notiz strukturiert. `ollama` = lokales Llama auf der eigenen GPU (kostenlos), `anthropic` = Claude Haiku, `openai` = GPT-4o-mini. |
 | **QM-Prüfung** | Welches Modell den fertigen Eintrag auf Widersprüche und Lücken prüft (`aus` = nur Regelprüfung). |
 | **Fallback** | Wenn das Extraktionsmodell wiederholt ungültige Ausgaben liefert, übernimmt einmalig ein stärkeres Modell. Greift nur bei echten Validierungsfehlern. |
-| **Beispielnotiz / Upload** | 16 synthetische Notizen mit eingebauten Stolperfallen (Dialekt, Füllwörter, zwei Bewohner, unklare Dosierung) — oder eigenes Audio. |
+| **Beispielnotiz / Upload** | 100 synthetische Notizen mit eingebauten Stolperfallen (Dialekt, Füllwörter, zwei Bewohner, unklare Dosierung) — oder eigenes Audio. |
 
 **Ergebnisbereiche:**
 
@@ -48,7 +48,7 @@ Audio → Transkription → Pseudonymisierung → Extraktion (LLM) → Validieru
 """,
     "results_title": "📊 Seite: Ergebnisse",
     "results_body": """
-Die Auswertung von **16 Notizen × 4 Modellen × 2 Bedingungen** (sauberes Skript vs. ASR-Transkript):
+Die Auswertung von **100 Notizen × 6 Modellen × 2 Bedingungen** (sauberes Skript vs. ASR-Transkript):
 
 - **Kennzahlen oben** — bestes Modell, günstigstes API-Modell, mittlere Worterkennungsfehlerrate.
 - **F1-Diagramm** — Extraktionsqualität je Modell; der Abstand zwischen blau (sauber) und orange (ASR) zeigt, was Spracherkennung kostet.
@@ -96,7 +96,7 @@ audio → transcription → pseudonymisation → extraction (LLM) → validation
 | **Extraction model** | Which model structures the note. `ollama` = local Llama on your own GPU (free), `anthropic` = Claude Haiku, `openai` = GPT-4o-mini. |
 | **QM check model** | Which model reviews the finished entry for contradictions and omissions (`off` = rule checks only). |
 | **Fallback** | If the extraction model keeps producing invalid output, a stronger model takes over once. Triggers only on real validation failures. |
-| **Sample / upload** | 16 synthetic notes with built-in traps (dialect, filler words, two residents, ambiguous dosage) — or your own audio. |
+| **Sample / upload** | 100 synthetic notes with built-in traps (dialect, filler words, two residents, ambiguous dosage) — or your own audio. |
 
 **Output areas:**
 
@@ -107,7 +107,7 @@ audio → transcription → pseudonymisation → extraction (LLM) → validation
 """,
     "results_title": "📊 Page: Results",
     "results_body": """
-The evaluation of **16 notes × 4 models × 2 conditions** (clean script vs ASR transcript):
+The evaluation of **100 notes × 6 models × 2 conditions** (clean script vs ASR transcript):
 
 - **Headline tiles** — best model, cheapest API model, mean word error rate.
 - **F1 chart** — extraction quality per model; the gap between blue (clean) and orange (ASR) is what speech recognition costs.

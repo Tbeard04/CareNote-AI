@@ -1,0 +1,15 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Hartmann hat wieder normal gegessen seit die Übelkatztropfen abgesetzt sind.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Seit die Übelkatztropfen abgesetzt sind, ist Frau Hartmann wieder normal, heute sogar Nachschlag beim Mittagessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

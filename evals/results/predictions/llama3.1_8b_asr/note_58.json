@@ -1,0 +1,41 @@
+{
+ "resident_ref": "Frau Hartmann",
+ "time_mention": "nach der Mittagsdosis",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "übel",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Hartmann ist seit der Mittagsdosis vom neuen Antibiotikum übel",
+   "measurement": null
+  },
+  {
+   "text": "einmal erbrochen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Hartmann ist seit der Mittagsdosis vom neuen Antibiotikum übel, sie hat einmal erbrochen",
+   "measurement": null
+  },
+  {
+   "text": "nur Zwieback und Tee genommen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Hartmann ist seit der Mittagsdosis vom neuen Antibiotikum übel, sie hat einmal erbrochen, danach nur Zwieback und Tee genommen",
+   "measurement": null
+  },
+  {
+   "text": "Temperatur ist normal",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Hartmann ist seit der Mittagsdosis vom neuen Antibiotikum übel, sie hat einmal erbrochen, danach nur Zwieback und Tee genommen. Temperatur ist normal",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Frau Hartmann ist seit der Mittagsdosis vom neuen Antibiotikum übel",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "morgen früh in der Praxis anrufen, ob sie es weiternehmen soll"
+ ]
+}

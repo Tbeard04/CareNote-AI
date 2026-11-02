@@ -1,0 +1,41 @@
+{
+ "resident_ref": "Frau Martin",
+ "time_mention": "heute Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unterschenkel geschwollen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Bei Frau Martin sind die Unterschenkel heute Abend deutlich geschwollen",
+   "measurement": null
+  },
+  {
+   "text": "Dellen vom Strumpfbund sichtbar",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "man sieht die Dellen vom Strumpfbund",
+   "measurement": null
+  },
+  {
+   "text": "Anziehen der Kompressionsstrümpfe tut weh",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "sie sagt, das Anziehen tut ihr weh",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Bitte morgen beim Anziehen helfen",
+   "note": null
+  },
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Die Schwellung dem Arzt melden, wenn sie nicht zurückgeht",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte morgen beim Anziehen helfen",
+  "Die Schwellung dem Arzt melden, wenn sie nicht zurückgeht"
+ ]
+}

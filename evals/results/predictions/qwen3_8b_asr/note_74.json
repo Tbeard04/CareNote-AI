@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Herr Steiner",
+ "time_mention": "gegen 14 Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Soziale Interaktion mit Familie",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Der Enkel von Herrn Steiner war zum ersten Mal seit Monaten da, die beiden haben zwei Stunden Schach gespielt, Herr Steiner hat den ganzen Abend davon erzählt.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

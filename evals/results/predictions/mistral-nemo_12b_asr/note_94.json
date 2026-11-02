@@ -1,0 +1,19 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Zwischen Frau Winkler und Frau Groß gibt es Streit wegen des Fensters.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Zwischen Frau Winkler und ihrer Zimmernachbarin Frau Groß kriselt es weiter wegen des Fensters",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Feste Lüftungszeiten vereinbaren",
+  "Zettel ans Fenster hängen",
+  "Thema Zimmerwechsel beim Heimbeirat anmelden"
+ ]
+}

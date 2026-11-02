@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Der Herr vom Achter",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Bewohner hat seine Wäsche selbst zusammengelegt und möchte beim Tischdecken helfen; Tischdecken wird als feste Aufgabe für ihn festgelegt.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "seine Wäsche selbst zusammengelegt und wollte unbedingt beim Tischdecken helfen, das machen wir jetzt fest zur Aufgabe für ihn",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Tischdecken als feste Aufgabe für den Bewohner festlegen"
+ ]
+}

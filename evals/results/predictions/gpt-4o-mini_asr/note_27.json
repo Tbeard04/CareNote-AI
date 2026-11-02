@@ -1,0 +1,15 @@
+{
+ "resident_ref": "von Zimmer 15",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Hat heute das erste Mal am Gemeinschaftsessen teilgenommen und gut gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Hat heute das erste Mal am Gemeinschaftsessen teilgenommen und gut gegessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

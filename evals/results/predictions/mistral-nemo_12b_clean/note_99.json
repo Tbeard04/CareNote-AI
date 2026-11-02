@@ -1,0 +1,15 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Stelle am Rücken ist heute blasser als gestern",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Stelle am Rücken ist heute blasser als gestern",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

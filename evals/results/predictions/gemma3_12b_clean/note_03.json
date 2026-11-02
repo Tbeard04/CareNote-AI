@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Brandt",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Stelle am Steißbein sieht heute röter aus als gestern.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Stelle am Steißbein sieht heute röter aus als gestern",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "da müssen wir echt aufpassen",
+   "note": "Rötung am Steißbein deutet auf mögliches Dekubitusrisiko hin."
+  }
+ ],
+ "follow_up_actions": [
+  "Beim Spätdienst nochmal die Haut anschauen und dokumentieren"
+ ]
+}

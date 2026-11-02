@@ -1,0 +1,17 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rollator von Frau Lindner hat eine defekte linke Bremse.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Am Rollator von Frau Lindner zieht die linke Bremse nicht mehr richtig.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Reparatur beim Sanitätshaus anmelden."
+ ]
+}

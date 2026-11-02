@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herr Novak",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Novak hat heute Mittag und Abend fast nichts gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Herr Novak hat heute Mittag und Abend fast nichts gegessen.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Novak hat seit ein paar Tagen Schmerzen beim Kauen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "die untere Prothese drückt seit ein paar Tagen und das Kauen tut weh.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "einen Termin beim Zahnarzt machen",
+  "Prothese anpassen lassen"
+ ]
+}

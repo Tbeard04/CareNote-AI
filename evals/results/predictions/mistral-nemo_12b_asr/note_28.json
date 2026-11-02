@@ -1,0 +1,47 @@
+{
+ "resident_ref": "Herr Costa",
+ "time_mention": "heute Nachmittag gegen 15.40 Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Costa ist gestürzt und hat sich die linke Hüfte verletzt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er ist heute Nachmittag gegen 15.40 Uhr im Flur vor seinem Zimmer gestürzt, vermutlich über die Teppichkante.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Costa klagt über Schmerzen in der linken Hüfte.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Er klagt über Schmerzen in der linken Hüfte.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Costa kann stehen und ein paar Schritte gehen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er kann aber stehen und ein paar Schritte gehen.",
+   "measurement": null
+  },
+  {
+   "text": "Blutdruck nach dem Sturz 150 zu 88.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck nach dem Sturz 150 zu 88.",
+   "measurement": null
+  },
+  {
+   "text": "Puls nach dem Sturz 78.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Puls 78.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Er ist heute Nachmittag gegen 15.40 Uhr im Flur vor seinem Zimmer gestürzt, vermutlich über die Teppichkante.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte heute nach zweistündlich nach ihm sehen und bei stärkeren Schmerzen sofort den Notdienst rufen."
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herr Lehmann",
+ "time_mention": "heute Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Lehmann wurde im Streit mit Herrn Fuchs um das Fernsehprogramm laut und schlug mit dem Stock auf den Tisch.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Herr Lehmann wurde laut und hat mit dem Stock auf den Tisch geschlagen",
+   "measurement": null
+  },
+  {
+   "text": "Gereiztheit bei Herrn Lehmann ist neu aufgetreten.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "das ist neu bei ihm",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Die beiden Herren wurden erst einmal getrennt.",
+  "Bei Herrn Lehmann im Blick behalten, ob die Gereiztheit anhält."
+ ]
+}

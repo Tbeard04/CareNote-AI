@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Herr Fuchs",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Funkköpfe höher für den Fernseher",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Herr Fuchs hat jetzt Funkköpfe höher für den Fernseher",
+   "measurement": null
+  },
+  {
+   "text": "keine beschwerenden Nachbarn mehr wegen der Lautstärke",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "seitdem gibt es keine beschwerende Nachbarn mehr wegen der Lautstärke",
+   "measurement": null
+  },
+  {
+   "text": "er versteht die Nachrichten endlich wieder",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "er versteht die Nachrichten endlich wieder",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

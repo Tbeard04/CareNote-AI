@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Kowalski",
+ "time_mention": "heute",
+ "entry_type": "vitalwert_messung",
+ "observations": [
+  {
+   "text": "Gewichtsabnahme von fast 2 kg gegenüber dem Vormonat, aktuelles Gewicht 68,4 kg.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "68,4 Kilo, das sind fast 2 Kilo weniger als letzten Monat",
+   "measurement": {
+    "value": 68.4,
+    "unit": "kg"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

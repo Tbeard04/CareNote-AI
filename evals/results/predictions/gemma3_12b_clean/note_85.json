@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Lindner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die linke Bremse am Rollator zieht nicht mehr richtig.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Am Rollator von Frau Lindner zieht die linke Bremse nicht mehr richtig",
+   "measurement": null
+  },
+  {
+   "text": "Der Rollator wurde erstmal weggestellt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "ich habe ihn erstmal weggestellt",
+   "measurement": null
+  },
+  {
+   "text": "Frau Lindner hat einen Leihrollator bekommen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "und ihr den Leihrollator gegeben",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Reparatur beim Sanitätshaus anmelden"
+ ]
+}

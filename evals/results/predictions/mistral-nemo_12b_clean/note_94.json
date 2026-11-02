@@ -1,0 +1,30 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Zwischen Frau Winkler und Frau Groß gibt es Streit wegen des Fensters.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Zwischen Frau Winkler und ihrer Zimmernachbarin Frau Groß kriselt es weiter wegen des Fensters",
+   "measurement": null
+  },
+  {
+   "text": "Es gibt lautstarken Streit vor dem Mittagessen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Heute gab es deswegen wieder lautstarken Streit vor dem Mittagessen",
+   "measurement": null
+  },
+  {
+   "text": "Ein Kompromiss wurde gefunden.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Wir haben als Kompromiss feste Lüftungszeiten vereinbart und einen Zettel ans Fenster gehängt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Beobachten, ob der Kompromiss funktioniert",
+  "Thema Zimmerwechsel beim Heimbeirat weiterverfolgen"
+ ]
+}

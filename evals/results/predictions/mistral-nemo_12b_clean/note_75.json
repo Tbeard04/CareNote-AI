@@ -1,0 +1,24 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Im Dispenser von Herrn Petrov lagen zwei Marcumar-Tabletten statt einer.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "im Dispenser von Herrn Petrov lagen zwei Marcumar",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "es ist ihm also nichts passiert",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Das Vier-Augen-Prinzip beim Stellen der Medikation wieder konsequent einhalten.",
+  "Alle Dispenser vom Wochenende nachkontrollieren."
+ ]
+}

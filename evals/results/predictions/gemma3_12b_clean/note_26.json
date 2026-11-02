@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Richter",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Richter hat beim Essen zweimal stark gehustet, als sie trank.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Richter heute beim Essen zwei Mal stark husten, wenn sie trinken.",
+   "measurement": null
+  },
+  {
+   "text": "Es besteht der Verdacht, dass Frau Richter sich verschluckt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich glauben, sie verschlucken sich leicht.",
+   "measurement": null
+  },
+  {
+   "text": "Wasser wurde mit Verdickung gegeben.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Ich geben dann das Wasser mit Verdickung, das gehen besser.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte Logopädie fragen, ob Schlucktest nötig"
+ ]
+}

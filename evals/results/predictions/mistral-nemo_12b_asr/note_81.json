@@ -1,0 +1,36 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Eine kleine Blase an der rechten Verse wurde festgestellt.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Beim Strünfinzin ist mir bei Herrn Hansen eine kleine Blase an der rechten Verse aufgefallen",
+   "measurement": null
+  },
+  {
+   "text": "Die Blase ist etwa erbsengroß und nicht offen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "etwa erbsengroß, nicht offen",
+   "measurement": null
+  },
+  {
+   "text": "Herr Hansen ist Diabetiker.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Als Diabetiker ist das bei ihm heikel",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Druckentlastung ist drin",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Tägliche Kontrolle der Verse",
+  "Zeigen beim Diabetologentermin nächste Woche"
+ ]
+}

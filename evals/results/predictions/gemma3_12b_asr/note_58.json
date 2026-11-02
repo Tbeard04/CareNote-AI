@@ -1,0 +1,41 @@
+{
+ "resident_ref": "Frau Hartmann",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Hartmann ist seit der Mittagsdosis vom neuen Antibiotikum übel.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Hartmann ist seit der Mittagsdosis vom neuen Antibiotikum übel",
+   "measurement": null
+  },
+  {
+   "text": "Frau Hartmann hat einmal erbrochen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Hartmann hat einmal erbrochen",
+   "measurement": null
+  },
+  {
+   "text": "Frau Hartmann hat danach nur Zwieback und Tee genommen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Frau Hartmann hat danach nur Zwieback und Tee genommen",
+   "measurement": null
+  },
+  {
+   "text": "Die Temperatur ist normal.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Temperatur ist normal",
+   "measurement": null
+  },
+  {
+   "text": "Es steht als mögliche Nebenwirkung im Beipackzettel.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Es steht als mögliche Nebenwirkung im Beipackzettel",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte morgen früh in der Praxis anrufen, ob sie es weiternehmen soll."
+ ]
+}

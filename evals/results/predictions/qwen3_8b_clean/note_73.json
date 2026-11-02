@@ -1,0 +1,39 @@
+{
+ "resident_ref": "Frau Jansen",
+ "time_mention": "heute Vormittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "häufiges Wasserlassen mit Brennen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie muss ständig auf die Toilette, es brennt wohl beim Wasserlassen",
+   "measurement": null
+  },
+  {
+   "text": "kognitive Verwirrtheit",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "sie wirkt verwirrter als sonst, hat mich zweimal mit ihrer Schwester verwechselt",
+   "measurement": null
+  },
+  {
+   "text": "Temperatur leicht erhöht",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Temperatur siebenunddreißig Komma sechs",
+   "measurement": {
+    "value": 37.6,
+    "unit": "°C"
+   }
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Das Ganze riecht nach Blasenentzündung",
+   "note": "Mögliche Blasenentzündung, Urinprobe und Arztbesuch erforderlich"
+  }
+ ],
+ "follow_up_actions": [
+  "morgen früh Urinprobe machen",
+  "den Arzt anrufen"
+ ]
+}

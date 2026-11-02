@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Dimitrova",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Hörgerät rechts nicht funktionierend",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Bei Frau Dimitrova ist das Hörgerät rechts schon wieder ausgefallen",
+   "measurement": null
+  },
+  {
+   "text": "Verständigungseinschränkung beim Mittagstisch",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Sie hat sich beim Mittagstisch zurückgezogen, weil sie nichts verstanden hat",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte morgen unbedingt Batterien aus dem Lager holen"
+ ]
+}

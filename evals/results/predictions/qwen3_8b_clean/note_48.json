@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Lindqvist",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Lindqvist hat zehn Meter ohne Rollator geschafft",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Lindqvist hat heute nach der Physiotherapie zum ersten Mal wieder zehn Meter ohne Rollator geschafft, er war mächtig stolz.",
+   "measurement": {
+    "value": 10.0,
+    "unit": "Meter"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Okafor",
+ "time_mention": "Morgens",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Morgens Taubheitsgefühl in den Fingerspitzen der rechten Hand, nach etwa einer Stunde abgeklungen; danach normales Greifen und Halten des Löffels möglich.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "ein Taubheitsgefühl in den Fingerspitzen der rechten Hand geklagt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Am folgenden Tag gezielt nach dem Taubheitsgefühl fragen.",
+  "Bei erneutem Auftreten sofort den Arzt verständigen."
+ ]
+}

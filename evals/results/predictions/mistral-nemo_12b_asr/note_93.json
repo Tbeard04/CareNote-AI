@@ -1,0 +1,29 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Lombardi klagte über Flimmern vor den Augen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Herr Lombardi klagte über Flimmern vor den Augen",
+   "measurement": null
+  },
+  {
+   "text": "Blutdruck 172 zu 104.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck 172 zu 104",
+   "measurement": null
+  },
+  {
+   "text": "Puls 96.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Puls 96",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Wir warten auf Rückruf vom Arzt."
+ ]
+}

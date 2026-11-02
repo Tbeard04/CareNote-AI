@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Winkler",
+ "time_mention": "seit gestern",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "ständiges Kratzen an beiden Unterarmen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Frau Winkler kratzt sich seit gestern ständig an beiden Unterarmen",
+   "measurement": null
+  },
+  {
+   "text": "trockene Haut an beiden Unterarmen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "die Haut ist trocken",
+   "measurement": null
+  },
+  {
+   "text": "Krätze auf den Unterarmen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "man sieht schon Kratzspuren",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Hautarzttermin anfragen, wenn es bis Montag nicht besser ist"
+ ]
+}

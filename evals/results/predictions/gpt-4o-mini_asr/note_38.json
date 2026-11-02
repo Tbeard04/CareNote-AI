@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Lorenz",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "starke Schmerzen im Rücken, sie schätzt sie auf sieben von zehn",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Lorenz hat beim Lagern über starke Schmerzen im Rücken geklagt, sie schätzt sie auf sieben von zehn.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Die angebotene Schmerztablette hat sie abgelehnt, sie sagt, davon wird ihr immer schlicht.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte mit dem Arzt über eine Alternative sprechen, das Thema kommt jetzt öfter."
+ ]
+}

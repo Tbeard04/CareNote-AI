@@ -1,0 +1,17 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Augentropfen verabreicht; genaue Uhrzeit der Gabe nicht bekannt (vor dem Mittagessen).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Lorenz hat irgendwann im Laufe des Vormittags ihre Augentropfen bekommen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Uhrzeit der Medikamentengabe künftig direkt eintragen"
+ ]
+}

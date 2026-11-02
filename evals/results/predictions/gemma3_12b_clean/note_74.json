@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Herr Steiner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Der Enkel von Herrn Steiner war zum ersten Mal seit Monaten da",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Der Enkel von Herrn Steiner war zum ersten Mal seit Monaten da",
+   "measurement": null
+  },
+  {
+   "text": "die beiden haben zwei Stunden Schach gespielt",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "die beiden haben zwei Stunden Schach gespielt",
+   "measurement": null
+  },
+  {
+   "text": "Herr Steiner hat den ganzen Abend davon erzählt",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Herr Steiner hat den ganzen Abend davon erzählt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

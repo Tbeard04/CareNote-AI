@@ -1,0 +1,23 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Fuchs kaut seit gestern nur noch auf der linken Seite.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Herr Fuchs mag seit gestern nur noch auf der linken Seite kauen",
+   "measurement": null
+  },
+  {
+   "text": "Herr Fuchs hat Schmerzen beim Kauen auf der rechten Seite.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "hinten rechts zieht es beim Beißen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "zeitnah einen Zahnarzttermin organisieren"
+ ]
+}

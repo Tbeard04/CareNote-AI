@@ -1,0 +1,29 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Wunsch, Insulin neuerdings nur noch in den Bauch links zu erhalten; Injektionsstelle wird abgelehnt, Wechsel verweigert.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "will sich das Insulin neuerdings nur noch in den Bauch links spritzen lassen",
+   "measurement": null
+  },
+  {
+   "text": "Injektionsstelle Bauch links verhärtet.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Stelle ist schon verhärtet",
+   "measurement": null
+  },
+  {
+   "text": "Bewohner blockt Erklärung zum notwendigen Stellenwechsel der Insulininjektion ab.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "er blockt ab",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "verhärtete Stelle beobachten"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "resident_ref": "Herr Eger",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Eger hat heute zum dritten Mal den Weg der Cafeteria zu seinem Zimmer nicht gefunden und stand ratlos im falschen Stockwerk.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Ich mache mir langsam Sorgen um Herrn Eger. Heute hat er zum dritten Mal die Woche den Weg der Cafeteria zu seinem Zimmer nicht gefunden und stand ratlos im falschen Stockwerk.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Eger hat versucht, Zuppen mit der Gabel zu essen und zuerst gemerkt, als ich ihm den Löffel hingelegt habe.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Beim Mittagessen hat er versucht, Zuppen mit der Gabel zu essen und zuerst gemerkt, als ich ihm den Löffel hingelegt habe.",
+   "measurement": null
+  },
+  {
+   "text": "Seine Frau sagt, beim Besuch am Sonntag haben er sie zweimal nach dem Namen ihrer Tochter gefragt.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Seine Frau sagt, beim Besuch am Sonntag haben er sie zweimal nach dem Namen ihrer Tochter gefragt.",
+   "measurement": null
+  },
+  {
+   "text": "Es hilft sich seit ungefähr einem Monat.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "es hilft sich seit ungefähr einem Monat",
+   "measurement": null
+  },
+  {
+   "text": "Die Orientierungshilfe am Flur erneuern. Die Schilder sind ziemlich verblasst.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Ich fände eine gerundtoppsychiatrische Abklärung sinnvoll, bitte beim nächsten Arztkontakt ansprechen und bis dahin die Orientierungshilfe am Flur erneuern. Die Schilder sind ziemlich verblasst.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "psychiatrische Abklärung beim nächsten Arztkontakt ansprechen",
+  "Orientierungshilfe am Flur erneuern"
+ ]
+}

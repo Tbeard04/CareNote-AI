@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Frau Eberhardt",
+ "time_mention": null,
+ "entry_type": "risiko_beobachtung",
+ "observations": [
+  {
+   "text": "Sturz im Garten (Korrektur: betraf Frau Eberhardt, nicht Frau Ebert)",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Der Sturz im Garten betraf nicht Frau Ebert, sondern Frau Eberhardt.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Der Sturz im Garten betraf nicht Frau Ebert, sondern Frau Eberhardt.",
+   "note": "Korrektur eines vorherigen Eintrags: Sturz betraf Frau Eberhardt, nicht Frau Ebert."
+  }
+ ],
+ "follow_up_actions": []
+}

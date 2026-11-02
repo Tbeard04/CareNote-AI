@@ -1,0 +1,42 @@
+{
+ "resident_ref": "Herr Roth",
+ "time_mention": "beim Abendessen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Roth hat sich ein Stück Fleisch verschluckt und stark gehustet.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beim Abendessen hat sich Herr Roth an einem Stück Fleisch verschluckt, er hat stark gehustet",
+   "measurement": null
+  },
+  {
+   "text": "Herr Roth war kurz blau im Gesicht.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "und war kurz blau im Gesicht",
+   "measurement": null
+  },
+  {
+   "text": "Nach festem Klopfen kam das Stück Fleisch wieder heraus.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Nach festem Klopfen zwischen die Schulterblätter kam das Stück raus",
+   "measurement": null
+  },
+  {
+   "text": "Herr Roth wollte unbedingt weiteressen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "danach hat er sich schnell erholt und wollte unbedingt weiteressen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "er hat stark gehustet und war kurz blau im Gesicht",
+   "note": "Aspiration von Fleisch, Risiko einer Atemwegsverlegung"
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte ab sofort bei Fleischgerichten alles klein schneiden",
+  "Beim Essen in der Nähe bleiben"
+ ]
+}

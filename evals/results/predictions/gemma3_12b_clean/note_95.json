@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Frau Lorenz",
+ "time_mention": "irgendwann im Laufe des Vormittags",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Lorenz hat ihre Augentropfen bekommen, die Kollegin weiß nicht mehr genau wann.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Lorenz hat irgendwann im Laufe des Vormittags ihre Augentropfen bekommen, die Kollegin weiß nicht mehr genau wann",
+   "measurement": null
+  },
+  {
+   "text": "die Kollegin weiß nicht mehr genau wann",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Kollegin weiß nicht mehr genau wann",
+   "measurement": null
+  },
+  {
+   "text": "Fürs Protokoll bitte künftig die Uhrzeit direkt eintragen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Fürs Protokoll bitte künftig die Uhrzeit direkt eintragen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

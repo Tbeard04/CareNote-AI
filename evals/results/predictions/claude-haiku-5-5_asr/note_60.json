@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": "um 17 Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Unterzucker mit Blutzucker 58 (Einheit nicht angegeben).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Unterzucker, Blutzucker 58",
+   "measurement": null
+  },
+  {
+   "text": "Traubenzucker und Saft gegeben; nach 20 Minuten Blutzucker wieder bei 110 (Einheit nicht angegeben).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Traubenzucker und Saft gegeben, nach 20 Minuten wieder bei 110",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

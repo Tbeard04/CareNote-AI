@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Nowak",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Nowak ist seit heute Morgen heiser.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Nowak ist seit heute Morgen heiser",
+   "measurement": null
+  },
+  {
+   "text": "Frau Nowak hat Halsschmerzen und trinkt kaum.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "mag wegen Halsschmerzen kaum trinken",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Trinkmenge heute mitzählen"
+ ]
+}

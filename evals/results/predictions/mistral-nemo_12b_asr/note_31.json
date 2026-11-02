@@ -1,0 +1,23 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Meier möchte nicht duschen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Ja Mai, der Herr Meier wollt heute wieder Patune duschen, gel. Hab ihm gut zugeredet, aber er hat bloß gebrummt, lasst mich in Ruhe.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Meier lässt das Waschen am Waschbecken zu.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Waschen am Waschbecken hat er dann zuglassen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bezugspflegerin soll am Montag nochmal mit Herrn Meier reden."
+ ]
+}

@@ -4,9 +4,9 @@
  "entry_type": "risiko_beobachtung",
  "observations": [
   {
-   "text": "Trinkmenge deutlich zu gering: über den Vormittag nur ca. ein halbes Glas getrunken.",
+   "text": "Wenig Flüssigkeitsaufnahme im Tagesverlauf, am Vormittag nur ca. ein halbes Glas getrunken.",
    "themenfeld": "selbstversorgung",
-   "evidence_span": "viel zu wenig getrunken, vielleicht ein halbes Glas über den ganzen Vormittag",
+   "evidence_span": "sie hat heute wieder viel zu wenig getrunken, vielleicht ein halbes Glas über den ganzen Vormittag",
    "measurement": {
     "value": 0.5,
     "unit": "Glas"
@@ -22,11 +22,11 @@
  "risk_flags": [
   {
    "risk": "dehydration",
-   "evidence_span": "viel zu wenig getrunken",
-   "note": "Unzureichende Flüssigkeitsaufnahme mit trockenen Lippen als Hinweis."
+   "evidence_span": "sie hat heute wieder viel zu wenig getrunken",
+   "note": "Wiederholt zu geringe Flüssigkeitsaufnahme, trockene Lippen."
   }
  ],
  "follow_up_actions": [
-  "Im Spätdienst aktiv Getränke anbieten und eintragen"
+  "Im Spätdienst aktiv Getränke anbieten und eintragen."
  ]
 }

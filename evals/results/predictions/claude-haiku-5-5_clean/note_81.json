@@ -1,0 +1,30 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Kleine Blase an der rechten Ferse, etwa erbsengroß, nicht offen; bei Diabetes erhöhte Gefährdung. Druckentlastung veranlasst (weiche Socken angezogen, Schuhe kontrolliert).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "eine kleine Blase an der rechten Ferse aufgefallen, etwa erbsengroß, nicht offen",
+   "measurement": null
+  },
+  {
+   "text": "Im Schuh befand sich ein Steinchen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "da war ein Steinchen drin",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Druckentlastung ist drin",
+   "note": "Druckstelle an der rechten Ferse bei Diabetiker, Druckentlastung eingeleitet."
+  }
+ ],
+ "follow_up_actions": [
+  "Ferse täglich kontrollieren",
+  "Beim Diabetologen-Termin nächste Woche die Ferse zeigen"
+ ]
+}

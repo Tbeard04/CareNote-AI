@@ -1,0 +1,33 @@
+{
+ "resident_ref": "Frau Lang",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Lang ist beim Aufstehen vom Sofa aufs Gesäß gerutscht",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Frau Lang ist beim Aufstehen vom Sofa aufs Gesäß gerutscht",
+   "measurement": null
+  },
+  {
+   "text": "sie konnte mit Hilfe gleich wieder aufstehen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "sie konnte mit Hilfe gleich wieder aufstehen",
+   "measurement": null
+  },
+  {
+   "text": "und hat keine Schmerzen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "und hat keine Schmerzen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Sturzprotokoll ist angelegt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": []
+}

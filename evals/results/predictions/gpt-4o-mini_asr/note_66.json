@@ -1,0 +1,14 @@
+{
+ "resident_ref": "Frau Lang",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Frau Lang ist beim Aufstehen vom Sofa aufs Gesäss gerutscht",
+   "note": "Sturzprotokoll ist angelegt."
+  }
+ ],
+ "follow_up_actions": []
+}

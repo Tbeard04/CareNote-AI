@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Frau Wagner",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Bewegungsfähigkeit ist verbessert, aber noch Unterstützung beim Aufstehen erforderlich",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Kräftemäßig braucht sie beim Aufstehen noch Hilfe, aber deutlich weniger als letzte Woche.",
+   "measurement": null
+  },
+  {
+   "text": "Essverhalten ist angestiegen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie war heute zum ersten Mal wieder im Speisesaal, hat eine halbe Portion geschafft",
+   "measurement": null
+  },
+  {
+   "text": "Soziale Interaktion ist wieder möglich",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "und danach noch eine Viertelstunde mit ihrer Tischnachbarin geplaudert.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

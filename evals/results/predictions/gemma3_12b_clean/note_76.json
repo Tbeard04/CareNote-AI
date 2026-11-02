@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Nowak",
+ "time_mention": "seit heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Nowak ist heiser.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Nowak ist seit heute Morgen heiser",
+   "measurement": null
+  },
+  {
+   "text": "Frau Nowak mag wegen Halsschmerzen kaum trinken.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "mag wegen Halsschmerzen kaum trinken",
+   "measurement": null
+  },
+  {
+   "text": "Es wird lauwarmen Tee mit Honig schluckweise gegeben.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Wir geben lauwarmen Tee mit Honig schluckweise",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "mag wegen Halsschmerzen kaum trinken",
+   "note": "Reduzierte Flüssigkeitsaufnahme aufgrund von Halsschmerzen."
+  }
+ ],
+ "follow_up_actions": [
+  "die Trinkmenge heute mitzählen"
+ ]
+}

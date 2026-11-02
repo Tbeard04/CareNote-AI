@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Frau Nowak",
+ "time_mention": "heute Morgen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Halsschmerzen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Nowak ist seit heute Morgen heiser und mag wegen Halsschmerzen kaum trinken.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte die Trinkmenge heute mitzählen"
+ ]
+}

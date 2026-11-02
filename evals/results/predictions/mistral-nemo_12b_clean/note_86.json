@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Hansen möchte sich das Insulin neuerdings nur noch in den Bauch links spritzen lassen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Herr Hansen will sich das Insulin neuerdings nur noch in den Bauch links spritzen lassen.",
+   "measurement": null
+  },
+  {
+   "text": "Die Stelle ist schon verhärtet.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Stelle ist schon verhärtet.",
+   "measurement": null
+  },
+  {
+   "text": "Er hat die Injektion rechts zugelassen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Heute hat er die Injektion rechts dann doch zugelassen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "die Stelle ist schon verhärtet.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Dranbleiben und die verhärtete Stelle beobachten."
+ ]
+}

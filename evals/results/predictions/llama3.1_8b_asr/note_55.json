@@ -1,0 +1,17 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rezept muss in die Apotheke",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Das Rezept muss diese Woche in die Apotheke.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Rezept in die Apotheke bringen"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Blutdruck von Herrn Hoffmann war 122 zu 82.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck 122 zu 82",
+   "measurement": null
+  },
+  {
+   "text": "Puls von Herrn Hoffmann war 64.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Puls 64",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

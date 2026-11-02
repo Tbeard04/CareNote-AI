@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Herr Maier",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Maier wollte heute partout nicht duschen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Ja mei, der Herr Maier wollt heut wieder partout net duschen, gell.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Maier hat gebrummt und wollte in Ruhe gelassen werden.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Hab ihm gut zugeredet, aber er hat bloß gebrummt, lasst's mich in Ruh.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Maier hat das Waschen am Waschbecken zugelassen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Waschen am Waschbecken hat er dann zuglassen.",
+   "measurement": null
+  },
+  {
+   "text": "Es ist nun die dritte Woche ohne Duschen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Des is jetzt die dritte Woch ohne Duschen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Die Bezugspflegerin soll am Montag mit ihm reden."
+ ]
+}

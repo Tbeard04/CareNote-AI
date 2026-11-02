@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Herr Petrov",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Petrov war beim Treppensteigen nach einem halben Stockwerk deutlich außer Atem und musste sich am Geländer festhalten.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Petrov war heute beim Treppensteigen nach einem halben Stockwerk deutlich außer Atem, er musste sich am Geländer festhalten",
+   "measurement": null
+  },
+  {
+   "text": "Herr Petrov musste eine Pause beim Treppensteigen machen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "und eine Pause machen",
+   "measurement": null
+  },
+  {
+   "text": "Vor zwei Wochen war das Treppensteigen für Herrn Petrov noch kein Problem.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Das war vor zwei Wochen noch kein Problem",
+   "measurement": null
+  },
+  {
+   "text": "In Ruhe ist die Atmung von Herrn Petrov normal.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "In Ruhe ist die Atmung normal",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Das zeitnah dem Hausarzt melden."
+ ]
+}

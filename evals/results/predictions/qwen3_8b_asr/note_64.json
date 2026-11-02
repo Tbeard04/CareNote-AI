@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herrn Roth",
+ "time_mention": "heute mitten",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Dunkler Urin",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Der Urin im Katheterbeutel von Herrn Roth ist seit heute mitten deutlich dunkeler",
+   "measurement": null
+  },
+  {
+   "text": "Starker Geruch des Urins",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Der Urin im Katheterbeutel von Herrn Roth ist seit heute mitten deutlich dunkeler und riecht streng",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "Er trinkt er wenig. Bitte vermehrt Getränke anbieten und den Urin weiter beobachten.",
+   "note": "Mögliche Dehydrierung aufgrund des geringen Flüssigkeitszufusses"
+  }
+ ],
+ "follow_up_actions": [
+  "Vermehrt Getränke anbieten",
+  "Den Urin weiter beobachten"
+ ]
+}

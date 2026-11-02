@@ -1,0 +1,15 @@
+{
+ "resident_ref": "von Zimmer 15",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die neue Bewohnerin von Zimmer 15 hat heute das erste Mal am Gemeinschaftsessen teilgenommen und gut gegessen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Die neue Bewohnerin von Zimmer 15 hat heute das erste Mal am Gemeinschaftsessen teilgenommen und gut gegessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

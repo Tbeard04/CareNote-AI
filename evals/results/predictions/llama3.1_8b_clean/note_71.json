@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Öztürk",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Kein Schwindel mehr heute",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Kein Schwindel mehr heute",
+   "measurement": null
+  },
+  {
+   "text": "Sie ist zweimal sicher allein aufgestanden",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Sie ist zweimal sicher allein aufgestanden",
+   "measurement": null
+  },
+  {
+   "text": "Sieht gut aus mit der neuen Dosis",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sieht gut aus mit der neuen Dosis",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "der Arzt wollte die Werte am Freitag sehen"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Novak",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Novak hat heute Mittag und Abend fast nichts gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Herr Novak hat heute Mittag und Abend fast nichts gegessen.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Novak hat seit ein paar Tagen Schmerzen durch die untere Prothese.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die untere Prothese drückt seit ein paar Tagen und es kaum tut weh.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "die untere Prothese drückt seit ein paar Tagen und es kaum tut weh.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Einen Termin beim Zahnarzt machen, Prothese anpassen lassen."
+ ]
+}

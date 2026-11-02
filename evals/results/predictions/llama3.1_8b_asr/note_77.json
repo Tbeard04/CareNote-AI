@@ -1,0 +1,33 @@
+{
+ "resident_ref": "Herr Weiss",
+ "time_mention": "heute um 11 Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "wackelig auf den Beinen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er ist noch wackelig auf der Beine und deutlich dünner geworden.",
+   "measurement": null
+  },
+  {
+   "text": "dünner geworden",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Er ist noch wackelig auf der Beine und deutlich dünner geworden.",
+   "measurement": null
+  },
+  {
+   "text": "4 kg abgenommen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Laut Brief hat er 4 kg verloren.",
+   "measurement": {
+    "value": 4.0,
+    "unit": "kg"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "nur mit Begleitung laufen lassen",
+  "extra Portion beim Abendessen anbieten"
+ ]
+}

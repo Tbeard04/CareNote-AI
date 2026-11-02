@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Frau Brunner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Trinkmenge heute nur etwa einen Halbenliter",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Frau Brunner, meine ich, hat heute nur etwa einen Halbenliter geschafft",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "der zweite Tag in Folge mit so wenig",
+   "note": null
+  }
+ ],
+ "follow_up_actions": []
+}

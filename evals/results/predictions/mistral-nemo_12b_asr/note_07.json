@@ -1,0 +1,32 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Schäfer hatte heute Nachmittag 38,2 Grad Temperatur.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Schäfer hatte heute Nachmittag 38,2 Temperatur",
+   "measurement": {
+    "value": 38.2,
+    "unit": "°C"
+   }
+  },
+  {
+   "text": "Herr Schäfer wirkte schlapp.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Er wirkte schlapp",
+   "measurement": null
+  },
+  {
+   "text": "Herr Schäfer hat sich gleich wieder hingelegt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er hat sich gleich wieder hingelegt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Hausarzt ist informiert."
+ ]
+}

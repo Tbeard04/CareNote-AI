@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr vom Achter",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr vom Achter hat heute seine Wäsche selbst zusammengelegt und wollte unbedingt beim Tischdecken helfen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Der Herr vom Achter hat heute seine Wäsche selbst zusammengelegt und wollte unbedingt beim Tischdecken helfen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "das machen wir jetzt fest zur Aufgabe für ihn"
+ ]
+}

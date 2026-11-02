@@ -1,0 +1,26 @@
+{
+ "resident_ref": "Frau Brunner",
+ "time_mention": "heute",
+ "entry_type": "risiko_beobachtung",
+ "observations": [
+  {
+   "text": "Trinkmenge heute nur etwa einen halben Liter trotz dreimaligem aktivem Anbieten; zweiter Tag in Folge mit geringer Trinkmenge.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat heute nur etwa einen halben Liter geschafft",
+   "measurement": {
+    "value": 0.5,
+    "unit": "Liter"
+   }
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "das ist der zweite Tag in Folge mit so wenig",
+   "note": "Geringe Trinkmenge über zwei Tage in Folge."
+  }
+ ],
+ "follow_up_actions": [
+  "Trinkprotokoll läuft weiter"
+ ]
+}

@@ -8,18 +8,12 @@
    "themenfeld": "selbstversorgung",
    "evidence_span": "Sie hat heute wieder viel zu wenig getrunken, vielleicht ein halbes Glas über den ganzen Vormittag.",
    "measurement": null
-  },
-  {
-   "text": "Die Lippen waren ganz trocken.",
-   "themenfeld": "selbstversorgung",
-   "evidence_span": "Die Lippen waren ganz trocken.",
-   "measurement": null
   }
  ],
  "risk_flags": [
   {
    "risk": "dehydration",
-   "evidence_span": "Sie hat heute wieder viel zu wenig getrunken.",
+   "evidence_span": "Die Lippen waren ganz trocken.",
    "note": null
   }
  ],

@@ -1,0 +1,27 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Fuchs trägt nun Funkkopfhörer für den Fernseher.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Herr Fuchs hat jetzt Funkkopfhörer für den Fernseher",
+   "measurement": null
+  },
+  {
+   "text": "Seitdem gibt es keine Beschwerden der Nachbarn mehr wegen der Lautstärke.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "seitdem gibt es keine Beschwerden der Nachbarn mehr wegen der Lautstärke",
+   "measurement": null
+  },
+  {
+   "text": "Herr Fuchs versteht die Nachrichten endlich wieder.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "er versteht die Nachrichten endlich wieder",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,27 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Hansen hatte einen Unterzucker mit einem Blutzuckerwert von 58.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Hansen hatte um siebzehn Uhr einen Unterzucker, Blutzucker achtundfünfzig.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Hansen hat nach der Behandlung seinen Blutzuckerwert auf 110 erhöht.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nach zwanzig Minuten wieder bei hundertzehn.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Hansen hat sein Abendessen vollständig gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Abendessen hat er komplett gegessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Ivanova",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herrn Weiß ist gestolpert",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "als er gestolpert ist",
+   "measurement": null
+  },
+  {
+   "text": "Frau Ivanova war ziemlich erschrocken",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Frau Ivanova war danach ziemlich erschrocken",
+   "measurement": null
+  },
+  {
+   "text": "Frau Ivanova' Puls war spürbar hoch",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "ihr Puls war spürbar hoch",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "als er gestolpert ist",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Künftig bitte bei dem Paar eine Begleitung mitschicken"
+ ]
+}

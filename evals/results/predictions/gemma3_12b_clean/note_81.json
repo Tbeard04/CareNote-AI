@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Beim Strümpfeanziehen ist mir eine kleine Blase an der rechten Ferse aufgefallen, etwa erbsengroß, nicht offen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Beim Strümpfeanziehen ist mir eine kleine Blase an der rechten Ferse aufgefallen, etwa erbsengroß, nicht offen.",
+   "measurement": null
+  },
+  {
+   "text": "Als Diabetiker ist das bei ihm heikel.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Als Diabetiker ist das bei ihm heikel.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Als Diabetiker ist das bei ihm heikel.",
+   "note": "Blasenbildung an der Ferse bei Diabetiker, Risiko für Dekubitus."
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte täglich die Ferse kontrollieren",
+  "Beim Diabetologen-Termin nächste Woche zeigen"
+ ]
+}

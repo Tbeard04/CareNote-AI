@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herrn Huber",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Beim Kaffee fast eingenickt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "ist beim Kaffee fast eingenickt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Vielleicht morgen ab bis Le Kürzer treten mit dem Programm"
+ ]
+}

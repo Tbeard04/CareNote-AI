@@ -1,0 +1,41 @@
+{
+ "resident_ref": "Frau Ivanova",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "ist gestolpert",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "als er gestolpert ist",
+   "measurement": null
+  },
+  {
+   "text": "war ziemlich erschrocken",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Ivanova war danach ziemlich erschrocken",
+   "measurement": null
+  },
+  {
+   "text": "hat sich eine halbe Stunde hingelegt",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie hat sich eine halbe Stunde hingelegt",
+   "measurement": null
+  },
+  {
+   "text": "hat einen spürbar hohen Puls",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "ihr Puls war spürbar hoch",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "als er gestolpert ist",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte bei dem Paar eine Begleitung mit schicken"
+ ]
+}

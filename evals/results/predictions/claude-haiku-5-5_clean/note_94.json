@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Frau Winkler",
+ "time_mention": "vor dem Mittagessen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Lautstarker Streit mit der Zimmernachbarin wegen der Fensterlüftung, erneut vor dem Mittagessen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Heute gab es deswegen wieder lautstarken Streit vor dem Mittagessen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Feste Lüftungszeiten als Kompromiss vereinbart und Zettel ans Fenster gehängt.",
+  "Thema Zimmerwechsel beim Heimbeirat angemeldet."
+ ]
+}

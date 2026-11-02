@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Peters",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Peters hat Tabletten im Mund behalten und später ins Taschentuch gespuckt.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die hat mittags ihre Tabletten im Mund behalten und später ins Taschentuch gespuckt",
+   "measurement": null
+  },
+  {
+   "text": "Frau Peters hat eine raue, schuppige Stelle am linken Ellenbogen.",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "am linken Ellenbogen hat sie so eine raue, schuppige Stelle",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Beim nächsten Arztbesuch zeigen"
+ ]
+}

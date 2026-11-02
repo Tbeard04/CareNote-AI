@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Huber",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Huber hat beim Kegeln im Garten mitgmacht und zwei Mal voll abgräumt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "der hat beim Kegeln im Garten mitgmacht und zwei Mal voll abgräumt",
+   "measurement": null
+  },
+  {
+   "text": "Herr Huber ist beim Kaffee fast eingenickt.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "ist beim Kaffee fast eingenickt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "vielleicht morgen a bissle kürzer treten mit dem Programm"
+ ]
+}

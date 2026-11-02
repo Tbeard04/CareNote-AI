@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Herr Huber",
+ "time_mention": "heut",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Huber hat heute wenig gegessen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "der hat heut wieder arg wenig gegessen",
+   "measurement": null
+  },
+  {
+   "text": "Herr Huber ist beim Laufen wackelig auf den Beinen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "i hab ihn am Arm gführt",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Schaut's da bitte nochmal drauf."
+ ]
+}

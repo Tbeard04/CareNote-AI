@@ -4,29 +4,29 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Klagt über Schmerzen im rechten Knie beim Laufen.",
+   "text": "Klagt morgens über Schmerzen im rechten Knie beim Laufen.",
    "themenfeld": "krankheitsbezogene_anforderungen",
-   "evidence_span": "Schmerzen im rechten Knie",
+   "evidence_span": "über Schmerzen im rechten Knie geklagt",
    "measurement": null
   },
   {
-   "text": "Schmerzmedikation verabreicht, Dosis nicht beziffert: 'die übliche Dosis', wie besprochen.",
+   "text": "Medikation gegeben: 'die übliche Dosis' (nicht näher bezeichnet).",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "die übliche Dosis gegeben",
    "measurement": null
   },
   {
-   "text": "Verweigert nach der Medikamentengabe die Teilnahme an der Gymnastik und bleibt auf Zimmer gesessen.",
+   "text": "Verweigert danach die Teilnahme an der Gymnastik und bleibt den ganzen Zeitraum auf dem Zimmer gesessen.",
    "themenfeld": "mobilitaet_und_bewegung",
-   "evidence_span": "Er wollte danach nicht zur Gymnastik runter, hat die ganze Zeit auf dem Zimmer gesessen.",
+   "evidence_span": "Er wollte danach nicht zur Gymnastik runter",
    "measurement": null
   }
  ],
  "risk_flags": [
   {
    "risk": "schmerz",
-   "evidence_span": "Schmerzen im rechten Knie",
-   "note": "Wiederkehrende Schmerzen im rechten Knie beim Laufen."
+   "evidence_span": "über Schmerzen im rechten Knie geklagt",
+   "note": null
   }
  ],
  "follow_up_actions": []

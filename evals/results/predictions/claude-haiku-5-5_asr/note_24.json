@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Berger",
+ "time_mention": "Beim Abendessen",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Hebt den rechten Arm kaum, Besteck wird in die linke Hand genommen.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "den rechten Arm kaum hebt, sie hat das Besteck in die linke Hand genommen",
+   "measurement": null
+  },
+  {
+   "text": "Schulterschmerz rechts seit dem Nachmittag, Angabe der Bewohnerin: Stoß im Garten am Rosenbogen. Schulter druckempfindlich.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Schulter tut seit dem Nachmittag weh",
+   "measurement": null
+  },
+  {
+   "text": "Schulter druckempfindlich.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "aber druckempfindlich",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "die Schulter tut seit dem Nachmittag weh",
+   "note": "Schulterschmerz nach Angabe der Bewohnerin, Stoß im Garten am Rosenbogen."
+  }
+ ],
+ "follow_up_actions": [
+  "Morgen beobachten; bei Verschlechterung den Arzt dazuholen."
+ ]
+}

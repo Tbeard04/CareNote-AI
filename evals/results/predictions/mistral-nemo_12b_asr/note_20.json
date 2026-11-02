@@ -1,0 +1,35 @@
+{
+ "resident_ref": "Frau Dimitro",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Das Hörgerät rechts von Frau Dimitro ist ausgefallen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Bei Frau Dimitro war es das Hörgerwald rechts schon wieder ausgefallen",
+   "measurement": null
+  },
+  {
+   "text": "Die Batterie des Hörgeräts rechts von Frau Dimitro war leer.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "die Batterie war leer",
+   "measurement": null
+  },
+  {
+   "text": "Es sind keine Ersatzbatterien für das Hörgerät von Frau Dimitro verfügbar.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "wir haben gerade keine Ersatzbatterien mehr da",
+   "measurement": null
+  },
+  {
+   "text": "Frau Dimitro hat sich beim Mittagstisch zurückgezogen, weil sie nichts verstanden hat.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Sie hat sich beim Mittagstisch zurückgezogen, weil sie nichts verstanden hat",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte morgen unbedingt Batterien aus dem Lager holen."
+ ]
+}

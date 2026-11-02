@@ -1,10 +1,10 @@
 {
- "resident_ref": "Herr Brandt",
+ "resident_ref": "Herrn Brandt",
  "time_mention": "heute",
  "entry_type": "risiko_beobachtung",
  "observations": [
   {
-   "text": "Stelle am Steißbein heute röter als gestern (Hautveränderung, Dekubitusrisiko)",
+   "text": "Stelle am Steißbein heute 'rüter' als gestern (Verschlechterung laut Pflegendem), Hautbeobachtung.",
    "themenfeld": "krankheitsbezogene_anforderungen",
    "evidence_span": "Die Stelle am Steißbein sieht heute rüter aus als gestern",
    "measurement": null
@@ -13,11 +13,11 @@
  "risk_flags": [
   {
    "risk": "dekubitus",
-   "evidence_span": "Die Stelle am Steißbein sieht heute rüter aus als gestern, da müssen wir echt aufpassen.",
-   "note": "Hautstelle am Steißbein heute röter als gestern."
+   "evidence_span": "Die Stelle am Steißbein sieht heute rüter aus als gestern",
+   "note": "Veränderte Hautstelle am Steißbein, Dekubitusrisiko."
   }
  ],
  "follow_up_actions": [
-  "Beim Spätdienst nochmal die Haut anschauen und dokumentieren"
+  "Bei Herrn Brandt beim Speldienst nochmal die Haut anschauen und dokumentieren"
  ]
 }

@@ -16,13 +16,7 @@
    "measurement": null
   }
  ],
- "risk_flags": [
-  {
-   "risk": "sturz",
-   "evidence_span": "beim Laufen ist er arg wackelig auf den Beinen.",
-   "note": "Rollator will er partout nicht nehmen."
-  }
- ],
+ "risk_flags": [],
  "follow_up_actions": [
   "Schaut's da bitte nochmal drauf."
  ]

@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Groß",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Stelle am Rücken blasser als gestern",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Stelle am Rücken ist heute blasser als gestern",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

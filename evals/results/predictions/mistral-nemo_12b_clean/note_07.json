@@ -1,0 +1,35 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Schäfer hatte heute Nachmittag eine Temperatur von achtunddreißig Komma zwei.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Schäfer hatte heute Nachmittag achtunddreißig Komma zwei Temperatur",
+   "measurement": null
+  },
+  {
+   "text": "Herr Schäfer hatte einen Puls von zweiundneunzig.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Puls war zweiundneunzig",
+   "measurement": null
+  },
+  {
+   "text": "Herr Schäfer wirkte schlapp.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Er wirkt schlapp",
+   "measurement": null
+  },
+  {
+   "text": "Herr Schäfer hat sich gleich wieder hingelegt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er hat sich gleich wieder hingelegt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Hausarzt ist informiert."
+ ]
+}

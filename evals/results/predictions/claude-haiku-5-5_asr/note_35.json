@@ -1,0 +1,20 @@
+{
+ "resident_ref": "Frau Sand",
+ "time_mention": "heute Abend",
+ "entry_type": "vitalwert_messung",
+ "observations": [
+  {
+   "text": "Erhöhte Körpertemperatur am Abend gemessen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "hat erhöhte Temperatur, 37,9 heute Abend gemessen",
+   "measurement": {
+    "value": 37.9,
+    "unit": "°C"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Morgen früh bitte noch mal messen."
+ ]
+}

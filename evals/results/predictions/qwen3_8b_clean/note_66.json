@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Lang",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Sturz beim Aufstehen vom Sofa auf Gesäß",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Frau Lang ist beim Aufstehen vom Sofa aufs Gesäß gerutscht",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Frau Lang ist beim Aufstehen vom Sofa aufs Gesäß gerutscht",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Sturzprotokoll ist angelegt"
+ ]
+}

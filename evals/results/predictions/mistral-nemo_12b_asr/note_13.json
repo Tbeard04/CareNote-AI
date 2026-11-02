@@ -1,0 +1,23 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Bewohnerin aus Zimmer Acht war heute sehr unruhig.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Die Dame von Zimmer Acht war heute sehr unruhig",
+   "measurement": null
+  },
+  {
+   "text": "Die Bewohnerin ist immer wieder zur Tür gelaufen und wollte nach Hause.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "ist immer wieder zur Tür gelaufen und wollte nach Hause",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Nachts öfter reinschauen"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Frau Wagner",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Erstmals wieder im Speisesaal; halbe Portion gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat eine halbe Portion geschafft",
+   "measurement": null
+  },
+  {
+   "text": "Nachts noch leichter Husten.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nachts hustet sie noch etwas",
+   "measurement": null
+  },
+  {
+   "text": "Benötigt beim Aufstehen noch Unterstützung, deutlich weniger als letzte Woche.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "beim Aufstehen noch Hilfe, aber deutlich weniger als letzte Woche",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

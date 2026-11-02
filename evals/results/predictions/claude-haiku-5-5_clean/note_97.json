@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herrn Maier",
+ "time_mention": "nach dem Mittagsschlaf",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schwarzwerden vor den Augen beim schnellen Aufstehen nach dem Mittagsschlaf",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "war beim schnellen Aufstehen nach dem Mittagsschlaf schwarz vor Augen",
+   "measurement": null
+  },
+  {
+   "text": "Sich beim Aufstehen am Schrank abgefangen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "er hat sich am Schrank abgefangen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "er hat sich am Schrank abgefangen",
+   "note": "Beinaheturz beim schnellen Aufstehen nach Schwarzwerden vor den Augen."
+  }
+ ],
+ "follow_up_actions": [
+  "Langsames Aufstehen in Etappen üben",
+  "Blutdruck im Liegen und Stehen morgen vergleichen"
+ ]
+}

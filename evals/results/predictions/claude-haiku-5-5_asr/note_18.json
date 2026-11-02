@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Frau Krause",
+ "time_mention": "heute Nacht",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schlechter Schlaf in der letzten Nacht; gegen drei Uhr wach und sehr unruhig.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat heute Nacht schlecht geschlafen, war gegen drei Uhr wach und sehr unruhig",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

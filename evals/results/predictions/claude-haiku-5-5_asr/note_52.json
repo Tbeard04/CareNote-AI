@@ -1,0 +1,25 @@
+{
+ "resident_ref": "Frau Groß",
+ "time_mention": "heute",
+ "entry_type": "risiko_beobachtung",
+ "observations": [
+  {
+   "text": "Rote Stelle am Rücken unten, ca. zwei Euro-Stück groß; Rötung bleibt bei Druck bestehen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "am Rücken unten eine rote Stelle, ungefähr so groß wie zwei Euro Stück",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Wenn ich drücken, es nicht weggehen, bleiben rot",
+   "note": "Rötung, die bei Druck nicht verblasst."
+  }
+ ],
+ "follow_up_actions": [
+  "Ich legen Sie dann mehr auf die Seite",
+  "sagen Kollegin Bescheid",
+  "Bitte heute Abend wieder schauen"
+ ]
+}

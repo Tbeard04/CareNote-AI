@@ -1,0 +1,34 @@
+{
+ "resident_ref": "Herr Lombardi",
+ "time_mention": null,
+ "entry_type": "vitalwert_messung",
+ "observations": [
+  {
+   "text": "Klagt über Flimmern vor den Augen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Flimmern vor den Augen",
+   "measurement": null
+  },
+  {
+   "text": "Blutdruck 172/104 mmHg.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck hundertzweiundsiebzig zu hundertvier",
+   "measurement": {
+    "value": 172.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Puls 96.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Puls sechsundneunzig",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Arzt ist angerufen",
+  "wir warten auf Rückruf",
+  "Er liegt und bleibt unter Beobachtung."
+ ]
+}

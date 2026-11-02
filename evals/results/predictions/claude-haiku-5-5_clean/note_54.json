@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Ivanova",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Beinahe-Sturz beim Stützen von Herrn Weiß, danach Erschrecken und spürbar erhöhter Puls; Ruhepause von einer halben Stunde, danach wieder wohlauf.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "dabei ist sie selbst beinahe mit umgefallen",
+   "measurement": null
+  },
+  {
+   "text": "Erschrecken nach Beinahe-Sturz mit spürbar erhöhtem Puls.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "ihr Puls war spürbar hoch",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "dabei ist sie selbst beinahe mit umgefallen",
+   "note": "Beinahe-Sturz beim Stützen eines gestolperten Mitbewohners."
+  }
+ ],
+ "follow_up_actions": [
+  "Künftig bei dem Paar eine Begleitung mitschicken"
+ ]
+}

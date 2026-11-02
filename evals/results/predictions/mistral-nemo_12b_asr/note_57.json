@@ -1,0 +1,17 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verständigung mit Herrn hat sich durch die neue Bildtafel verbessert.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Mit der neuen Bildtafel klappt die Verständigung mit Herrn deutlich besser",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte die Tafel immer griffbereit am Bett lassen."
+ ]
+}

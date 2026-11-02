@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Richter",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Richter hat beim Essen zweimal stark gehustet, wenn sie trinken.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Richter heute beim Essen zweimal stark husten, wenn sie trinken.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "Ich glaube, sie verschlucken sich leicht.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Wasser mit Verdickung geben"
+ ]
+}

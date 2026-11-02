@@ -1,0 +1,17 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Maier hat sich geweigert, heute zu duschen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "der Herr Maier wollt heut wieder partout net duschen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bezugspflegerin soll am Montag nochmal mit Herrn Maier über das Duschen sprechen"
+ ]
+}

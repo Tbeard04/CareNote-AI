@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Huber",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Aktive Teilnahme am Kiegeln im Garten mit zwei vollständigen Abgräumen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "der hat beim Kiegeln im Garten mitgemacht und zweimal voll abgräumt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Le Kürzer treten mit dem Programm"
+ ]
+}

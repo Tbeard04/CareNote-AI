@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herr Novak",
+ "time_mention": "heute Mittag und Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schmerzen beim Kauen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die untere Prothese drückt seit ein paar Tagen und das Kauen tut weh",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "das Kauen tut weh",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "einen Termin beim Zahnarzt machen",
+  "Prothese anpassen lassen"
+ ]
+}

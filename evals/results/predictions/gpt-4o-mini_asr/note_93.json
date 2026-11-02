@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herr Lombardi",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Lombardi klagte über Flimmern vor den Augen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Lombardi klagte über Flimmern vor den Augen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Blutdruck 172 zu 104",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Arzt ist angerufen, wir warten auf Rückruf",
+  "Er liegt und bleibt unter Beobachtung"
+ ]
+}

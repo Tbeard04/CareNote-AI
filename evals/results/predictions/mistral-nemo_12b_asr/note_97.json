@@ -1,0 +1,24 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Mayer hatte beim schnellen Aufstehen nach dem Mittagsschlaf Schwindelgefühl und verlor das Bewusstsein.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Mayer war beim schnellen Aufstehen nach dem Mittagsschlaf schwarz vor Augen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "er hat sich am Schrank abgefangen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Üben des langsamen Aufstehens in Etappen",
+  "Vergleichen des Blutdrucks im Liegen und Stehen morgen"
+ ]
+}

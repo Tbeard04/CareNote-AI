@@ -1,0 +1,29 @@
+{
+ "resident_ref": "Frau Ivanova",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Sturzgefahr durch Stolpern",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Frau Ivanova hat heute beim Spaziergang Herrn Weiß gestützt, als er gestolpert ist, dabei ist sie selbst beinahe mit umgefallen.",
+   "measurement": null
+  },
+  {
+   "text": "Erhöhter Puls nach Ereignis",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Frau Ivanova war danach ziemlich erschrocken und ihr Puls war spürbar hoch.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Frau Ivanova hat heute beim Spaziergang Herrn Weiß gestützt, als er gestolpert ist, dabei ist sie selbst beinahe mit umgefallen.",
+   "note": "Sturzgefahr durch Stolpern"
+  }
+ ],
+ "follow_up_actions": [
+  "Künftig bitte bei dem Paar eine Begleitung mitschicken"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "resident_ref": "von Zimmer fünfzehn",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Erstmalige Teilnahme am Gemeinschaftsessen; Nahrungsaufnahme gut.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "hat heute das erste Mal am Gemeinschaftsessen teilgenommen und gut gegessen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

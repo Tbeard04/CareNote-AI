@@ -1,0 +1,39 @@
+{
+ "resident_ref": "Frau Martin",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schwellung der Unterschenkel",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Bei Frau Martin sind die Unterschenkel heute aber deutlich geschwollen, man seien die Telle vom Strumpfbund.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Wenn sie hochgelagert sind.",
+   "note": null
+  },
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Wenn sie hochgelagert sind.",
+   "note": null
+  },
+  {
+   "risk": "dehydration",
+   "evidence_span": "Wenn sie hochgelagert sind.",
+   "note": null
+  },
+  {
+   "risk": "schmerz",
+   "evidence_span": "Die Kompressionsstrümpfe hat sie heute nicht getragen, sie sagt, dass Anzehntut ihr weht.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte morgen beim Anzehen helfen",
+  "zu Schwäligkeiten dem Arzt melden, wenn sie nicht zurückgehen"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herrn Brand",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Hautveränderung im Intimbereich",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Die Haut im Intimbereich ist schon leicht gerültet",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Die Haut im Intimbereich ist schon leicht gerültet",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte größere Vorlagen bestellen",
+  "die Haut im Blick behalten"
+ ]
+}

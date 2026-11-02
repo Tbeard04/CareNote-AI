@@ -1,0 +1,32 @@
+{
+ "resident_ref": "Frau Brunner",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Trinkmenge heute gering, trotz dreimaligem aktivem Anbieten.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "hat heute nur etwa einen Halbenliter geschafft",
+   "measurement": {
+    "value": 0.5,
+    "unit": "l"
+   }
+  },
+  {
+   "text": "Zweiter Tag in Folge mit geringer Trinkmenge.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "das ist der zweite Tag in Folge mit so wenig",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "das ist der zweite Tag in Folge mit so wenig",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Trinkprotokoll läuft weiter."
+ ]
+}

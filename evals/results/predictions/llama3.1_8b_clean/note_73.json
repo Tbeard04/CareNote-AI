@@ -1,0 +1,53 @@
+{
+ "resident_ref": "Frau Jansen",
+ "time_mention": "heute Vormittag",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verwirrung",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Sie wirkt verwirrter als sonst",
+   "measurement": null
+  },
+  {
+   "text": "Verwechslung mit Schwester",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "hat mich zweimal mit ihrer Schwester verwechselt",
+   "measurement": null
+  },
+  {
+   "text": "Blasenentzündung-Symptome",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Das Ganze riecht nach Blasenentzündung",
+   "measurement": null
+  },
+  {
+   "text": "Häufiges Wasserlassen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie muss ständig auf die Toilette",
+   "measurement": null
+  },
+  {
+   "text": "Schmerzen beim Wasserlassen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "es brennt wohl beim Wasserlassen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "es brennt wohl beim Wasserlassen",
+   "note": null
+  },
+  {
+   "risk": "dehydration",
+   "evidence_span": "Das Ganze riecht nach Blasenentzündung",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Urinprobe machen",
+  "Arzt anrufen"
+ ]
+}

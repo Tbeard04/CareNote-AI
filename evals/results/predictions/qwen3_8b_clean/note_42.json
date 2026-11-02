@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Petrov",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Atemnot beim Treppensteigen",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Herr Petrov war heute beim Treppensteigen nach einem halben Stockwerk deutlich außer Atem, er musste sich am Geländer festhalten und eine Pause machen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Herr Petrov war heute beim Treppensteigen nach einem halben Stockwerk deutlich außer Atem, er musste sich am Geländer festhalten und eine Pause machen.",
+   "note": "Er benötigte eine Pause und hielt sich am Geländer fest, was ein erhöhtes Sturzrisiko bei Treppensteigen anzeigt."
+  }
+ ],
+ "follow_up_actions": [
+  "Ich würde das zeitnah dem Hausarzt melden."
+ ]
+}

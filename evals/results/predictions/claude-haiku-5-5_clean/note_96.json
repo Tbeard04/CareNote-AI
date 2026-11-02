@@ -1,0 +1,17 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Sonnenbrand im Nacken nach fast zweistündigem Aufenthalt im Freien bei Gartengruppe; Haut gerötet, ohne Blasen. After-Sun aufgetragen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "die Haut ist gerötet aber ohne Blasen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Beim nächsten Mal ans Sonnenhüterl und Eincremen denken"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Frau Petrova",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Rückenschmerzen sind weg",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die alte Rückenschmerzen sind weg.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Petrova hat wieder gestrickt",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie hat sogar wieder gestrickt.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

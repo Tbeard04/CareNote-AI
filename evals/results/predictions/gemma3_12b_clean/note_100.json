@@ -1,0 +1,63 @@
+{
+ "resident_ref": "Herr Castellano",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Der Einzug lief ruhig",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Der Einzug lief ruhig",
+   "measurement": null
+  },
+  {
+   "text": "Die Familie hat beim Einrichten geholfen und ist gegen siebzehn Uhr gegangen",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Die Familie hat beim Einrichten geholfen und ist gegen siebzehn Uhr gegangen",
+   "measurement": null
+  },
+  {
+   "text": "Er wirkt noch sehr zurückhaltend",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Er wirkt noch sehr zurückhaltend",
+   "measurement": null
+  },
+  {
+   "text": "hat auf dem Zimmer gegessen",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "hat auf dem Zimmer gegessen",
+   "measurement": null
+  },
+  {
+   "text": "möchte vorerst nicht in den Speisesaal",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "möchte vorerst nicht in den Speisesaal",
+   "measurement": null
+  },
+  {
+   "text": "Seine Medikamentenliste vom Hausarzt liegt vor und ist ins System übertragen",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Seine Medikamentenliste vom Hausarzt liegt vor und ist ins System übertragen",
+   "measurement": null
+  },
+  {
+   "text": "Nachts hat er geklingelt, weil er den Lichtschalter nicht gefunden hat",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Nachts hat er geklingelt, weil er den Lichtschalter nicht gefunden hat",
+   "measurement": null
+  },
+  {
+   "text": "wir haben ihm ein Nachtlicht hingestellt",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "wir haben ihm ein Nachtlicht hingestellt",
+   "measurement": null
+  },
+  {
+   "text": "Bitte in den nächsten Tagen behutsam Kontaktangebote machen",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Bitte in den nächsten Tagen behutsam Kontaktangebote machen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

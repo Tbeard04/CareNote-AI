@@ -1,0 +1,40 @@
+{
+ "resident_ref": "Herr Novak",
+ "time_mention": "heute Mittag und Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Novak hat fast nichts gegessen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Novak hat heute Mittag und Abend fast nichts gegessen.",
+   "measurement": null
+  },
+  {
+   "text": "Die untere Prothese drückt seit ein paar Tagen und das Kauen tut weh.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Auf Nachfrage sagte er, die untere Prothese drückt seit ein paar Tagen und das Kauen tut weh.",
+   "measurement": null
+  },
+  {
+   "text": "Wir haben auf weiche Kost umgestellt.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Wir haben auf weiche Kost umgestellt, das ging besser.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "Herr Novak hat heute Mittag und Abend fast nichts gegessen.",
+   "note": null
+  },
+  {
+   "risk": "schmerz",
+   "evidence_span": "Die untere Prothese drückt seit ein paar Tagen und das Kauen tut weh.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte einen Termin beim Zahnarzt machen, Prothese anpassen lassen."
+ ]
+}

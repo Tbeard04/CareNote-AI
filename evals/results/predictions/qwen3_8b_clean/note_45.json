@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Frau Albrecht",
+ "time_mention": "Heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Emotionale Belastung durch fehlenden Besuch",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Heute war ein schwerer Tag für Frau Albrecht. Ihr Sohn hat am Telefon gesagt, dass er den geplanten Besuch am Wochenende schon wieder absagen muss, und danach hat sie über eine Stunde geweint.",
+   "measurement": null
+  },
+  {
+   "text": "Verweigerung von Essen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie wollte nicht getröstet werden und hat auch das Abendessen stehen lassen, nur den Nachtisch hat sie gegessen.",
+   "measurement": null
+  },
+  {
+   "text": "Emotionale Stabilisierung durch gemeinsame Aktivität",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Später am Abend haben wir zusammen alte Fotos angeschaut, da wurde sie ruhiger und hat sogar gelacht.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Besonders aufmerksam sein",
+  "Die Seelsorgerin informieren"
+ ]
+}

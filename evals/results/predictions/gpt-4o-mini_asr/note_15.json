@@ -16,18 +16,7 @@
    "measurement": null
   }
  ],
- "risk_flags": [
-  {
-   "risk": "dehydration",
-   "evidence_span": "hat heute wieder arg wenig gegessen",
-   "note": null
-  },
-  {
-   "risk": "sturz",
-   "evidence_span": "ist arg wackelig auf den Beinen",
-   "note": null
-  }
- ],
+ "risk_flags": [],
  "follow_up_actions": [
   "Bitte noch mal drauf schauen."
  ]

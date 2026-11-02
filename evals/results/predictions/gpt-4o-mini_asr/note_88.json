@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Roth",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Roth hat sich an einem Stück Fleisch verschluckt und war kurz blau im Gesicht.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Beim Abendessen hat sich Herr Roth an einem Stück Fleisch verschwuckt, er hat stark gehustet und war kurz blau im Gesicht.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "schmerz",
+   "evidence_span": "Nach festem Klopfen zwischen die Schulterblätter kam das Stück raus, danach hat er sich schnell erholt und wollte unbedingt weiterressen.",
+   "note": "Risiko durch Verschlucken und mögliche Schmerzen."
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte ab sofort bei Fleischgerichten alles klein schneiden und beim Essen in der Nähe bleiben."
+ ]
+}

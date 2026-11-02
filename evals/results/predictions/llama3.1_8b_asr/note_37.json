@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Herr Yildes",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Brille verschwunden",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Die Brille von Herrn Yildes ist seit dem Frühstück verschwunden",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Weitersuchen",
+  "Tochter wegen Ersatzbrille anrufen"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Castellano",
+ "time_mention": "gegen siebzehn Uhr",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Er wirkt noch sehr zurückhaltend.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "Er wirkt noch sehr zurückhaltend.",
+   "measurement": null
+  },
+  {
+   "text": "Nachts hat er geklingelt, weil er den Lichtschalter nicht gefunden hat.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Nachts hat er geklingelt, weil er den Lichtschalter nicht gefunden hat.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte in den nächsten Tagen behutsam Kontaktangebote machen."
+ ]
+}

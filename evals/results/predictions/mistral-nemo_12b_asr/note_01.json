@@ -1,0 +1,38 @@
+{
+ "resident_ref": "Frau Weber",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Weber hat heute Mittag kaum etwas gegessen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie hat heute Mittag kaum etwas gegessen",
+   "measurement": null
+  },
+  {
+   "text": "Frau Weber hatte Schwierigkeiten beim Aufstehen vom Stuhl.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Beim Aufstehen vom Stuhl ist sie fast gestürzt, ich musste sie stützen",
+   "measurement": null
+  },
+  {
+   "text": "Blutdruck von Frau Weber war 145 zu 90.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck war 145 zu 90",
+   "measurement": {
+    "value": 145.0,
+    "unit": "mmHg"
+   }
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Beim Aufstehen vom Stuhl ist sie fast gestürzt, ich musste sie stützen",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Morgen nochmal nach dem Essen schauen"
+ ]
+}

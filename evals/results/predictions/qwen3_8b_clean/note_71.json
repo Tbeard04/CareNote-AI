@@ -1,0 +1,26 @@
+{
+ "resident_ref": "Frau Öztürk",
+ "time_mention": "morgens",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Blutdruckwerte stabilisiert",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung: morgens hundertzweiunddreißig zu vierundachtzig, abends hundertachtundzwanzig zu achtzig",
+   "measurement": {
+    "value": 123.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Selbstständiges Aufstehen möglich",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "sie ist zweimal sicher allein aufgestanden",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Arztwerte am Freitag prüfen"
+ ]
+}

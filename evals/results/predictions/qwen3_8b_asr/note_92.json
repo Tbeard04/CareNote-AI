@@ -1,0 +1,41 @@
+{
+ "resident_ref": "Frau Seidelheit",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Dekubitus an der linken Seite ist stabil",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Dekorbitus an der linken Verse von Frau Seidelheit weiter gut.",
+   "measurement": null
+  },
+  {
+   "text": "Durchmesser des Dekubitus ist geschrumpft",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Der Durchmesser ist unter einen Zentimeter geschrumpft",
+   "measurement": null
+  },
+  {
+   "text": "Wundgrund des Dekubitus ist sauber",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "der Wundgrund ist sauber rosig",
+   "measurement": null
+  },
+  {
+   "text": "Verband gewechselt nach Plan",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Verband gewechselt nach Plan",
+   "measurement": null
+  },
+  {
+   "text": "Freilegerung verbessert sich durch neue Kissen",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Freilegerung klappt mit dem neuen Kissen deutlich besser als vorher",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "nächster Wechsel am Donnerstag"
+ ]
+}

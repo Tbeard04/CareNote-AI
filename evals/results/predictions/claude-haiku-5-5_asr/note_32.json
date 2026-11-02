@@ -1,0 +1,21 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Schneider klagt über Unruhe.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Schneider hat über Unruhe geklagt",
+   "measurement": null
+  },
+  {
+   "text": "Bedarfsmedikation gegeben wie immer; danach Besserung.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "ich habe ihm die Bedarfsmedikation gegeben wie immer, danach ging es besser",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

@@ -1,0 +1,29 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verständigung mit Herrn verbessert sich durch neue Bildtafel",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Mit der neuen Bildtafel klappt die Verständigung mit Herrn deutlich besser",
+   "measurement": null
+  },
+  {
+   "text": "Herr selbstständig durch die Angezeigt",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "er hat heute selbstständig durch die Angezeigt",
+   "measurement": null
+  },
+  {
+   "text": "Bildtafel immer griffbereit am Bett lassen",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Bitte die Tafel immer griffbereit am Bett lassen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bildtafel immer griffbereit am Bett lassen"
+ ]
+}

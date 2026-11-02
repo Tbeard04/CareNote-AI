@@ -1,0 +1,42 @@
+{
+ "resident_ref": "Herr Egger",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Orientierungshilfen am Flur sind verblasst",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Die Schilder sind ziemlich verblasst.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Egger hat Schwierigkeiten, den Weg von der Cafeteria zu seinem Zimmer zu finden",
+   "themenfeld": "wohnen_und_haeuslichkeit",
+   "evidence_span": "Heute hat er zum dritten Mal diese Woche den Weg von der Cafeteria zu seinem Zimmer nicht gefunden und stand ratlos im falschen Stockwerk.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Egger hat Schwierigkeiten, sich selbst zu versorgen",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Beim Mittagessen hat er versucht, die Suppe mit der Gabel zu essen, und es erst gemerkt, als ich ihm den Löffel hingelegt habe.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Egger hat Gedächtnisprobleme",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Seine Frau sagt, beim Besuch am Sonntag habe er sie zweimal nach dem Namen ihrer Tochter gefragt.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Heute hat er zum dritten Mal diese Woche den Weg von der Cafeteria zu seinem Zimmer nicht gefunden und stand ratlos im falschen Stockwerk.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte beim nächsten Arztkontakt eine gerontopsychiatrische Abklärung ansprechen",
+  "Die Orientierungshilfen am Flur erneuern"
+ ]
+}

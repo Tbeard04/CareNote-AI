@@ -4,14 +4,20 @@
  "entry_type": "berichteblatt_eintrag",
  "observations": [
   {
-   "text": "Bewohnerin sehr unruhig, läuft wiederholt zur Tür und äußert den Wunsch, nach Hause zu gehen. Beruhigung durch Fotos von früher gelungen.",
+   "text": "Bewohnerin sehr unruhig, Wunsch nach Hause.",
    "themenfeld": "kognition_und_kommunikation",
-   "evidence_span": "sehr unruhig, ist immer wieder zur Tür gelaufen und wollte nach Hause",
+   "evidence_span": "war heute sehr unruhig",
+   "measurement": null
+  },
+  {
+   "text": "Wiederholtes Laufen zur Tür.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "ist immer wieder zur Tür gelaufen",
    "measurement": null
   }
  ],
  "risk_flags": [],
  "follow_up_actions": [
-  "Nachts bitte öfter reinschauen"
+  "Nachts öfter nach der Bewohnerin sehen"
  ]
 }

@@ -1,0 +1,17 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Blutdruck morgens 132 zu 84, abends 128 zu 80",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Kontrollmessung bei Frau Öztürk nach der Dosisanpassung: morgens hundertzweiunddreißig zu vierundachtzig, abends hundertachtundzwanzig zu achtzig.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Arzt soll die Werte am Freitag sehen"
+ ]
+}

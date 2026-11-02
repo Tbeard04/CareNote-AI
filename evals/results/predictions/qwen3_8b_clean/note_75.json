@@ -1,0 +1,19 @@
+{
+ "resident_ref": "Herrn Petrov",
+ "time_mention": "heute Abend",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Fehler bei der Medikamentenvergabe durch fehlende Tablette im Dispenser",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Beim Stellen der Abendmedikation ist mir aufgefallen, dass im Dispenser von Herrn Petrov für heute Abend zwei Marcumar lagen statt einer.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Wohnbereichsleitung informiert",
+  "Alle Dispenser vom Wochenende werden kontrolliert",
+  "Vier-Augen-Prinzip beim Stellen konsequent einhalten"
+ ]
+}

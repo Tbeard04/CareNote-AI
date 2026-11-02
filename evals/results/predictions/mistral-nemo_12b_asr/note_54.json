@@ -1,0 +1,35 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Ivanova hat Herrn Weiß gestützt, als er gestolpert ist.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Frau Ivanova hat heute beim Spaziergang Herrn Weiß gestützt, als er gestolpert ist",
+   "measurement": null
+  },
+  {
+   "text": "Frau Ivanova war danach erschrocken und ihr Puls war spürbar hoch.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Frau Ivanova war danach ziemlich erschrocken und ihr Puls war spürbar hoch.",
+   "measurement": null
+  },
+  {
+   "text": "Frau Ivanova hat sich eine halbe Stunde hingelegt, danach ging es ihr wieder gut.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Sie hat sich eine halbe Stunde hingelegt, danach ging es ihr wieder gut.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "als er gestolpert ist",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "künftig bitte bei dem Paar eine Begleitung mit schicken."
+ ]
+}

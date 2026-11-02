@@ -1,0 +1,18 @@
+{
+ "resident_ref": "Frau Sand",
+ "time_mention": "heute früh",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Temperatur wieder normal.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Temperatur heute früh sechsunddreißig Komma acht, also wieder normal.",
+   "measurement": {
+    "value": 36.8,
+    "unit": "°C"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

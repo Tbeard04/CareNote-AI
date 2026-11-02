@@ -1,0 +1,30 @@
+{
+ "resident_ref": "Herr Costa",
+ "time_mention": "heute Nachmittag gegen fünfzehn Uhr vierzig",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Herr Costa ist heute im Flur vor seinem Zimmer gestürzt.",
+   "themenfeld": "mobilitaet_und_bewegung",
+   "evidence_span": "Er ist heute Nachmittag gegen fünfzehn Uhr vierzig im Flur vor seinem Zimmer gestürzt, vermutlich über die Teppichkante.",
+   "measurement": null
+  },
+  {
+   "text": "Herr Costa klagt über Schmerzen in der linken Hüfte.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Er klagt über Schmerzen in der linken Hüfte, kann aber stehen und ein paar Schritte gehen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "sturz",
+   "evidence_span": "Er ist heute Nachmittag gegen fünfzehn Uhr vierzig im Flur vor seinem Zimmer gestürzt, vermutlich über die Teppichkante.",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte heute Nacht zweistündlich nach ihm sehen",
+  "bei stärkeren Schmerzen sofort den Notdienst rufen"
+ ]
+}

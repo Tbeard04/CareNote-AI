@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Herr Hansen",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Verhärtete Stelle an der Insulininjektionsstelle im Bauch links",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Herr Hansen will sich das Insulin neuerdings nur noch in den Bauch links spritzen lassen, die Stelle ist schon verhärtet.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Herr Hansen will sich das Insulin neuerdings nur noch in den Bauch links spritzen lassen, die Stelle ist schon verhärtet.",
+   "note": "Verhärtete Stelle kann zu einer Dekubitusstelle führen"
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte dranbleiben und die verhärtete Stelle beobachten"
+ ]
+}

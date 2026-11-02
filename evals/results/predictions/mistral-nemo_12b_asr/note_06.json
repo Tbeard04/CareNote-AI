@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Lindner",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Frau Lindner hat heute zu wenig getrunken.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "sie hat heute wieder viel zu wenig getrunken",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "sie hat heute wieder viel zu wenig getrunken",
+   "note": null
+  }
+ ],
+ "follow_up_actions": [
+  "Bitte im Spätdienst aktiv Getränke anbieten und eintragen."
+ ]
+}

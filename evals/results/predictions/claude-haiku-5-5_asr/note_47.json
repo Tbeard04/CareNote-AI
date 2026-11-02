@@ -1,0 +1,23 @@
+{
+ "resident_ref": "Frau Yilmaz",
+ "time_mention": "heute Nacht um zwei",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Nachts um 2 Uhr im Mantel an der Haustür, Wunsch, nach Hause zu ihrer Mutter zu gehen; nach Zuspruch und Gespräch konnte sie wieder schlafen.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "stand heute Nacht um zwei im Mantel an der Haustür und wollte nach Hause zu ihrer Mutter",
+   "measurement": null
+  },
+  {
+   "text": "Dritte Nacht in Folge mit vergleichbarem nächtlichem Verhalten.",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "Das ist die dritte Nacht in Folge.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte im Team besprechen, ob wir die Biografiarbeit vorziehen."
+ ]
+}

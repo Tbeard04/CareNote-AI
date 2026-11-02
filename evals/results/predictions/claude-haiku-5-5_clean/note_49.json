@@ -1,0 +1,27 @@
+{
+ "resident_ref": "Frau Peters",
+ "time_mention": "mittags",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Tabletten mittags im Mund behalten und später ins Taschentuch gespuckt (vom Pflegenden zufällig beobachtet).",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "hat mittags ihre Tabletten im Mund behalten und später ins Taschentuch gespuckt",
+   "measurement": null
+  },
+  {
+   "text": "Raue, schuppige Hautstelle am linken Ellenbogen, ca. 2 cm; laut Bewohnerin kein Juckreiz.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "am linken Ellenbogen hat sie so eine raue, schuppige Stelle, ungefähr zwei Zentimeter",
+   "measurement": {
+    "value": 2.0,
+    "unit": "cm"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Einnahme der Tabletten ab jetzt kontrollieren",
+  "Hautstelle am linken Ellenbogen beim nächsten Arztbesuch zeigen"
+ ]
+}

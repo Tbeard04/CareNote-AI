@@ -1,0 +1,26 @@
+{
+ "resident_ref": "Frau Brunner",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "geringer Flüssigkeitsaufnahme",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Frau Brunner meine ich, hat heute nur etwa einen halben Liter geschafft",
+   "measurement": {
+    "value": 0.5,
+    "unit": "Liter"
+   }
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dehydration",
+   "evidence_span": "die Lippen sind noch okay, aber das ist der zweite Tag in Folge mit so wenig",
+   "note": "geringer Flüssigkeitsaufnahme über zwei Tage"
+  }
+ ],
+ "follow_up_actions": [
+  "Trinkprotokoll läuft weiter"
+ ]
+}

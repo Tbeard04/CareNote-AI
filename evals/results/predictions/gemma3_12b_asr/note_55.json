@@ -1,0 +1,21 @@
+{
+ "resident_ref": "Herr Stein",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Makoma-Tabletten reichen nur noch bis Samstag.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Die Makoma-Tabletten von Herrn Stein erreichen nur noch bis Samstag",
+   "measurement": null
+  },
+  {
+   "text": "Das Rezept muss diese Woche in die Apotheke.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "das Rezept muss diese Woche in die Apotheke",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

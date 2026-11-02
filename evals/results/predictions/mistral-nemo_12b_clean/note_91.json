@@ -1,0 +1,23 @@
+{
+ "resident_ref": null,
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Der Bewohner hat seine Wäsche selbst zusammengelegt.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Der Herr vom Achter hat heute seine Wäsche selbst zusammengelegt",
+   "measurement": null
+  },
+  {
+   "text": "Der Bewohner wollte beim Tischdecken helfen.",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "wollte unbedingt beim Tischdecken helfen",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Festlegung der Aufgabe für den Bewohner, beim Tischdecken zu helfen"
+ ]
+}

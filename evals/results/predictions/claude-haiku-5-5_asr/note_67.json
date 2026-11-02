@@ -1,0 +1,41 @@
+{
+ "resident_ref": "Frau Keller",
+ "time_mention": "Beim Abendessen",
+ "entry_type": "vitalwert_messung",
+ "observations": [
+  {
+   "text": "Nach dem Besuch des Bruders sehr aufgewühlt (wohl Streit ums Erbe).",
+   "themenfeld": "leben_in_sozialen_beziehungen",
+   "evidence_span": "sehr aufgewühlt, die beiden hatten wohl Streit ums Erbe",
+   "measurement": null
+  },
+  {
+   "text": "Klagt über Herzklopfen.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Sie hat über Herzklopfen geklagt",
+   "measurement": null
+  },
+  {
+   "text": "Blutdruck 160/95 mmHg.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Blutdruck war 160 zu 95",
+   "measurement": {
+    "value": 160.0,
+    "unit": "mmHg"
+   }
+  },
+  {
+   "text": "Blutdruck nach einer Stunde Ruhe in Zimmer wieder 145/85 mmHg.",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "nach einer Stunde Ruhe in Zimmer wieder 145 zu 85",
+   "measurement": {
+    "value": 145.0,
+    "unit": "mmHg"
+   }
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Die Betreuerin über die Erbgeschichte informieren."
+ ]
+}

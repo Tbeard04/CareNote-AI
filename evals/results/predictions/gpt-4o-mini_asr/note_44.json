@@ -1,0 +1,24 @@
+{
+ "resident_ref": "Herrn Brand",
+ "time_mention": "heute",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Die Haut im Intimbereich ist schon leicht gerötet.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Die Haut im Intimbereich ist schon leicht gerötet.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [
+  {
+   "risk": "dekubitus",
+   "evidence_span": "Die Haut im Intimbereich ist schon leicht gerötet.",
+   "note": "Hautrötung im Intimbereich beobachtet."
+  }
+ ],
+ "follow_up_actions": [
+  "größere Vorlagen bestellen",
+  "die Haut im Blick behalten"
+ ]
+}

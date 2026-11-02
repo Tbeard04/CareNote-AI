@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Meier",
+ "time_mention": null,
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Dritte Woche ohne Duschen.",
+   "themenfeld": "selbstversorgung",
+   "evidence_span": "Das ist jetzt die dritte Woche ohne Duschen.",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bezugspflegerin am Montag nochmal mit ihm reden."
+ ]
+}

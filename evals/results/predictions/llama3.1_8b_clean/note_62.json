@@ -1,0 +1,15 @@
+{
+ "resident_ref": "Herr Egger",
+ "time_mention": "Nachtdienst",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "nichts Auffälliges",
+   "themenfeld": "kognition_und_kommunikation",
+   "evidence_span": "nichts Auffälliges",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": []
+}

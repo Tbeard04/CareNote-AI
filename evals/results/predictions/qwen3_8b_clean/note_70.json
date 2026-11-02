@@ -1,0 +1,17 @@
+{
+ "resident_ref": "Herr Lombardi",
+ "time_mention": "heute Nacht",
+ "entry_type": "berichteblatt_eintrag",
+ "observations": [
+  {
+   "text": "Schwitzattacken",
+   "themenfeld": "krankheitsbezogene_anforderungen",
+   "evidence_span": "Herr Lombardi war heute Nacht zweimal komplett durchgeschwitzt",
+   "measurement": null
+  }
+ ],
+ "risk_flags": [],
+ "follow_up_actions": [
+  "Bitte in der Übergabe erwähnen, falls es wieder vorkommt"
+ ]
+}
