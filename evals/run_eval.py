@@ -9,6 +9,11 @@ Providers are given as NAME or NAME=MODEL, e.g.:
 
     uv run python evals/run_eval.py --providers ollama anthropic openai "ollama=qwen3:8b"
 
+--merge keeps the stored scores of models NOT in this run and replaces only
+the columns being re-run, so adding one model costs one model's worth of
+extractions instead of a full re-run. Kept rows are filtered to the current
+note set, so a grown dataset never silently mixes with stale scores.
+
 Fairness note: the eval runs the repair-retry (same model) but NOT the
 cross-provider fallback, so every column's accuracy and cost belong to exactly
 one model. needs_human_review notes score with an empty note (recall 0).
@@ -230,6 +235,10 @@ def main() -> None:
     parser.add_argument("--conditions", nargs="+", default=["clean", "asr"])
     parser.add_argument("--notes", type=int, default=None, help="Limit to first N notes")
     parser.add_argument("--eur-per-usd", type=float, default=0.92)
+    parser.add_argument(
+        "--merge", action="store_true",
+        help="keep stored scores for models not in this run (incremental eval)",
+    )
     args = parser.parse_args()
 
     logger = get_logger()
@@ -249,6 +258,23 @@ def main() -> None:
                     condition=condition, f1=round(score.obs_f1, 3),
                     attempts=score.attempts, review=score.needs_human_review,
                 )
+
+    if args.merge:
+        raw_path = RESULTS / "raw_scores.json"
+        if raw_path.exists():
+            rerun_models = {s.model for s in scores}
+            current_ids = set(ids)
+            kept = [
+                NoteScore(**row)
+                for row in json.loads(raw_path.read_text(encoding="utf-8"))
+                if row["model"] not in rerun_models and row["note_id"] in current_ids
+            ]
+            log_event(
+                logger, "eval", "merge",
+                kept=len(kept), new=len(scores),
+                kept_models=sorted({s.model for s in kept}),
+            )
+            scores = kept + scores
 
     (RESULTS / "raw_scores.json").write_text(
         json.dumps([asdict(s) for s in scores], ensure_ascii=False, indent=1),
